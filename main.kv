@@ -1,0 +1,83 @@
+#:kivy 1.10.0
+
+ScreenManager:
+	MainMenu:
+	Trainer:
+	Generator:
+
+<MainMenu>:
+	name: 'menu'
+	canvas.before:
+		Color:
+			rgba:	.8,.8,.8,1
+		Rectangle:
+			size: self.size
+	BoxLayout:
+		size_hint: .36, .94
+		pos_hint: {'x':.06, 'center_y':.5}
+		padding: 24, 24, 24, 24
+		spacing: 12
+		orientation: 'vertical'
+		canvas.before:
+			Color:
+				rgba:	.0,.0,.0,.3
+			Rectangle:
+				pos: self.pos
+				size: self.size
+		Button:
+			text: 'Train AI'
+			on_press:
+				root.manager.transition.direction = 'down'
+				root.manager.current = 'train'
+		Button:
+			text: 'Generate text'
+			on_press:
+				root.manager.transition.direction = 'up'
+				root.manager.current = 'generate'
+
+<Trainer>:
+	name: 'train'
+	BoxLayout:
+		orientation: 'vertical'
+		Label:
+			text: 'TRAIN THE AI'
+		Button:
+			text: 'back'
+			on_press:
+				root.manager.transition.direction = 'up'
+				root.manager.current = 'menu'
+
+<Generator>:
+	name: 'generate'
+	BoxLayout:			# all
+		size_hint: 1.,1.
+		orientation: 'horizontal'
+		BoxLayout:		# banner (left)
+			size_hint: .2, 1.
+			orientation: 'vertical'
+			Button:
+				text: 'GENERATE A TEXT'
+				on_press:
+					root.generate()
+			Button:
+				text: 'back'
+				size_hint: 1., .1
+				on_press:
+					root.manager.transition.direction = 'down'
+					root.manager.current = 'menu'
+		BoxLayout:		# info (middle)
+			size_hint: .8, 1.
+			orientation: 'vertical'
+			TextInput:
+				id: text_output
+				text: "[OUT]:"
+		# BoxLayout:		# banner (right)
+		# 	size_hint: .2, 1.
+		# 	orientation: 'vertical'
+		# 	Label:
+		# 		text: 'GENERATE A TEXT'
+		# 	Button:
+		# 		text: 'back'
+		# 		on_press:
+		# 			root.manager.transition.direction = 'down'
+		# 			root.manager.current = 'menu'
