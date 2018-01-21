@@ -1,0 +1,11 @@
+{
+	"name": "dataset",
+	"authors": ["Generic User"],
+	"source": "dataset.txt",
+	"data": "dataset.data.txt",
+
+	"char_to_int": {
+		"a": 0,
+		"b" : 1
+	}
+}
