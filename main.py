@@ -34,7 +34,12 @@ class MainApp(App):
 	def build(self):
 		pass
 
+def ca(b):
+	pass
+
 if __name__ == '__main__':
 	# nn.generateText("bettertext.txt", "weights-improvement-20-2.8266.hdf5")
 	# MainApp().run()
-	nn.trainModel("dataset_en.txt", "en")
+	# nn.trainModel("dataset_bnw_en.data.txt", "bnw", None)
+	# nn.generateText("dataset_bnw_en.data.txt", "bnw/weights-improvement-83-1.6714.hdf5", ca)
+	nn.trainNetwork("bnw/bnw.data.json", "bnw2")
