@@ -3,6 +3,15 @@ from kivy.properties import StringProperty
 from kivy.uix.widget import Widget
 from kivy.uix.screenmanager import ScreenManager, Screen
 import neuralnetwork as nn
+import os
+from kivy.uix.checkbox import CheckBox
+import subprocess
+
+# class FileSelectorToInput(FloatLayout):
+# 	text_input = ObjectProperty(None)
+#
+# 	def use(self, path, filename):
+# 		text_input.text = os.path.join(path, filename[0])
 
 class Trainer(Screen):
 	pass
@@ -38,8 +47,5 @@ def ca(b):
 	pass
 
 if __name__ == '__main__':
-	# nn.generateText("bettertext.txt", "weights-improvement-20-2.8266.hdf5")
-	# MainApp().run()
-	# nn.trainModel("dataset_bnw_en.data.txt", "bnw", None)
-	# nn.generateText("dataset_bnw_en.data.txt", "bnw/weights-improvement-83-1.6714.hdf5", ca)
-	nn.trainNetwork("bnw/bnw.data.json", "bnw2")
+	MainApp().run()
+	# nn.trainNetwork("bnw/bnw.data.json", "bnw2")

@@ -114,6 +114,53 @@ def trainModel(infile, outfolder, weightsfile):
 	plot_model(model, to_file="img/fit_model.png")
 	model.fit(X, y, epochs=150, batch_size=128, callbacks=callbacks_list)
 
+def generateModelText(inmetadata, inweights, stream=None):
+	m = data.readData(inmetadata)
+	raw_text = open(m.data).read()
+
+	# Training data	(this needs to be stored in metadata somehow)
+	dataX = []
+	dataY = []
+	for i in range(0, m.n_chars - m.sequenceLength, 1):
+		seq_in = raw_text[i:i + m.sequenceLength]
+		seq_out = raw_text[i + m.sequenceLength]
+		dataX.append([m.char_to_int[char] for char in seq_in])
+		dataY.append(m.char_to_int[seq_out])
+	# print("DataX: ", dataX)
+	# print("DataY: ", dataY)
+
+	n_patterns = len(dataX)
+	X = numpy.reshape(dataX, (n_patterns, m.sequenceLength, 1))
+	# reshape X to be [samples, time steps, features]
+	# normalize X
+	X = X / float(m.n_vocab)
+	# one hot encode the output variable
+	y = np_utils.to_categorical(dataY)
+
+	# load the network weights
+	model.load_weights(inweights)
+	model.compile(loss='categorical_crossentropy', optimizer='adam')
+	plot_model(model, to_file="img/gen_model.png")
+	# pick a random seed
+	start = numpy.random.randint(0, len(dataX)-1)
+	pattern = dataX[start]
+	print ("Seed:")
+	print ("\"", ''.join([int_to_char[value] for value in pattern]), "\"")
+	# generate characters
+	for i in range(1000):
+		x = numpy.reshape(pattern, (1, len(pattern), 1))
+		x = x / float(n_vocab)
+		prediction = model.predict(x, verbose=0)
+		index = numpy.argmax(prediction)
+		result = int_to_char[index]
+		seq_in = [int_to_char[value] for value in pattern]
+		sys.stdout.write(result)
+		sys.stdout.flush()
+		callback(result)
+		pattern.append(index)
+		pattern = pattern[1:len(pattern)]
+	print( "\nDone.")
+
 def generateText(infile, inweights, callback):
 	# process text
 	raw_text = open(infile).read()

@@ -37,15 +37,54 @@ ScreenManager:
 
 <Trainer>:
 	name: 'train'
-	BoxLayout:
-		orientation: 'vertical'
-		Label:
-			text: 'TRAIN THE AI'
-		Button:
-			text: 'back'
-			on_press:
-				root.manager.transition.direction = 'up'
-				root.manager.current = 'menu'
+	BoxLayout:			# all
+		size_hint: 1.,1.
+		orientation: 'horizontal'
+		BoxLayout:		# banner (left)
+			size_hint: .2, 1.
+			orientation: 'vertical'
+			Button:
+				text: 'back'
+				size_hint: 1., .1
+				on_press:
+					root.manager.transition.direction = 'up'
+					root.manager.current = 'menu'
+		GridLayout:		# info (middle)
+			padding: 12
+			size_hint: .8, 1.
+			cols: 2
+			Label:
+				text: "Metadata file:"
+				size_hint_x: None
+			TextInput:
+				id: txt_metadata
+				text: ""
+			Label:
+				text: "Output folder:"
+				size_hint_x: None
+			TextInput:
+				id: txt_output
+				text: ""
+			Label:
+				text: "Starter file:"
+				size_hint_x: None
+			TextInput:
+				id: txt_w
+				text: ""
+			Label:
+				text: "Epochs:"
+				size_hint_x: None
+			TextInput:
+				id: txt_epochs
+				text: ""
+				input_filter: "int"
+		BoxLayout:		# banner (right)
+			size_hint: .2, 1.
+			orientation: 'vertical'
+			Button:
+				text: 'GENERATE A TEXT'
+				on_press:
+					root.train()
 
 <Generator>:
 	name: 'generate'
@@ -56,28 +95,33 @@ ScreenManager:
 			size_hint: .2, 1.
 			orientation: 'vertical'
 			Button:
-				text: 'GENERATE A TEXT'
-				on_press:
-					root.generate()
-			Button:
 				text: 'back'
 				size_hint: 1., .1
 				on_press:
 					root.manager.transition.direction = 'down'
 					root.manager.current = 'menu'
-		BoxLayout:		# info (middle)
+		GridLayout:		# info (middle)
+			padding: 12
 			size_hint: .8, 1.
-			orientation: 'vertical'
+			cols: 2
+			Label:
+				text: "Output file:"
+				size_hint_x: None
 			TextInput:
 				id: text_output
-				text: "[OUT]:"
-		# BoxLayout:		# banner (right)
-		# 	size_hint: .2, 1.
-		# 	orientation: 'vertical'
-		# 	Label:
-		# 		text: 'GENERATE A TEXT'
-		# 	Button:
-		# 		text: 'back'
-		# 		on_press:
-		# 			root.manager.transition.direction = 'down'
-		# 			root.manager.current = 'menu'
+				text: ""
+			Label:
+				text: "Output file:"
+				size_hint_x: None
+			TextInput:
+				id: text_output
+				text: ""
+		BoxLayout:		# banner (right)
+			size_hint: .2, 1.
+			orientation: 'vertical'
+			Button:
+				text: 'GENERATE A TEXT'
+				on_press:
+					root.generate()
+
+# <FileSelectorToInput>:
