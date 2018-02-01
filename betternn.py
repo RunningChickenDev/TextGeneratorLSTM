@@ -132,9 +132,11 @@ def gen_on_epoch_end(epoch, logs):
 
 			f.write(next_char)
 			# sys.stdout.flush()
+	f.write("\n-------------\n\n")
 	f.close()
 
 with open(generations_file, "a") as f:
+	f.write('\n')
 	f.write("Generated texts on {}\n".format(datetime.datetime.now()))
 	f.write("==========\n")
 
