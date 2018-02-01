@@ -2,10 +2,12 @@ from kivy.app import App
 from kivy.properties import StringProperty
 from kivy.uix.widget import Widget
 from kivy.uix.screenmanager import ScreenManager, Screen
+from kivy.clock import Clock, mainthread
 import neuralnetwork as nn
 import os
 from kivy.uix.checkbox import CheckBox
 import subprocess
+from threading import Thread
 
 # class FileSelectorToInput(FloatLayout):
 # 	text_input = ObjectProperty(None)
@@ -26,14 +28,19 @@ class Generator(Screen):
 		self.text = ""
 		Generator.instance = self
 
-	def perCharCallback(c):
-		if Generator.instance == None:
-			Generator.instance = Generator()
-		Generator.instance.ids["text_output"].insert_text(c)
+	@mainthread
+	def perCharCallback(self, c):
+		self.ids["txt_output"].insert_text(c)
 
 	def generate(self):
-		Generator.text = ""
-		nn.generateText("bettertext.txt", "weights-improvement-20-2.8266.hdf5", Generator.perCharCallback)
+		metadata = str(self.ids["txt_metadata"].text)
+		weights = str(self.ids["txt_weights"].text)
+		self.ids["txt_output"].select_all()
+		self.ids["txt_output"].delete_selection()
+		self.ids["txt_output"].cursor = (0,0)
+
+		thread = Thread(target = nn.generateModelText, args=(metadata, weights, self.perCharCallback,))
+		thread.run()
 
 class MainMenu(Screen):
 	def press(self, num):
@@ -48,4 +55,5 @@ def ca(b):
 
 if __name__ == '__main__':
 	MainApp().run()
-	# nn.trainNetwork("bnw/bnw.data.json", "bnw2")
+	# nn.trainNetwork("bnw/bnw.data.json", "bnw2", "bnw2/weights-improvement-18-1.7800.hdf5")
+	# nn.generateModelText("bnw/bnw.data.json", "bnw2/weights-improvement-18-1.7800.hdf5")

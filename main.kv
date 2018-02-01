@@ -82,7 +82,7 @@ ScreenManager:
 			size_hint: .2, 1.
 			orientation: 'vertical'
 			Button:
-				text: 'GENERATE A TEXT'
+				text: 'Train the network'
 				on_press:
 					root.train()
 
@@ -105,22 +105,28 @@ ScreenManager:
 			size_hint: .8, 1.
 			cols: 2
 			Label:
-				text: "Output file:"
+				text: "Metadata file:"
 				size_hint_x: None
 			TextInput:
-				id: text_output
+				id: txt_metadata
 				text: ""
 			Label:
-				text: "Output file:"
+				text: "Weights file:"
 				size_hint_x: None
 			TextInput:
-				id: text_output
+				id: txt_weights
 				text: ""
+			Label:
+				text: "Output:"
+				size_hint_x: None
+			TextInput:
+				id: txt_output
+				text: "- no text generated yet -"
 		BoxLayout:		# banner (right)
 			size_hint: .2, 1.
 			orientation: 'vertical'
 			Button:
-				text: 'GENERATE A TEXT'
+				text: 'Generate text'
 				on_press:
 					root.generate()
 
