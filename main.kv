@@ -2,6 +2,7 @@
 
 ScreenManager:
 	MainMenu:
+	Modeller:
 	Trainer:
 	Generator:
 
@@ -25,15 +26,66 @@ ScreenManager:
 				pos: self.pos
 				size: self.size
 		Button:
-			text: 'Train AI'
+			text: 'Load Model'
+			background_color: .0, .0, .8, 1.
 			on_press:
-				root.manager.transition.direction = 'down'
-				root.manager.current = 'train'
-		Button:
-			text: 'Generate text'
-			on_press:
-				root.manager.transition.direction = 'up'
-				root.manager.current = 'generate'
+				root.manager.transition.direction = 'left'
+				root.manager.current = 'model'
+
+<Modeller>:
+	name: 'model'
+	BoxLayout:			# all
+		size_hint: 1.,1.
+		orientation: 'horizontal'
+		BoxLayout:		# banner (left)
+			size_hint: .2, 1.
+			orientation: 'vertical'
+			Button:
+				text: 'Return'
+				size_hint: 1., .1
+				background_color: .0, .0, .8, 1.
+				on_press:
+					root.manager.transition.direction = 'right'
+					root.manager.current = 'menu'
+		GridLayout:		# info (middle)
+			padding: 12
+			size_hint: .8, 1.
+			cols: 2
+			Label:
+				text: 'Model Type:'
+				size_hint_x: None
+			Spinner:
+				text: 'Double'
+				background_color: .0, .0, .8, 1.
+				values: ('Single', 'Double')
+			Label:
+				text: 'Corpus Path:'
+				size_hint_x: None
+			TextInput:
+				id: txt_corpus
+				text: ''
+			Label:
+				text: 'Sentence Length:'
+				size_hint_x: None
+			TextInput:
+				id: txt_seqlen
+				text: ''
+				input_filter: 'int'
+		BoxLayout:		# banner (right)
+			size_hint: .2, 1.
+			orientation: 'vertical'
+			Button:
+				text: 'Train/Fit'
+				background_color: .0, .3, .8, 1.
+				on_press:
+					root.manager.transition.direction = 'down'
+					root.manager.current = 'train'
+			Button:
+				text: 'Generate Text'
+				background_color: .3, .0, .8, 1.
+				on_press:
+					root.manager.transition.direction = 'up'
+					root.manager.current = 'generate'
 
 <Trainer>:
 	name: 'train'
@@ -44,40 +96,40 @@ ScreenManager:
 			size_hint: .2, 1.
 			orientation: 'vertical'
 			Button:
-				text: 'back'
+				text: 'Return'
 				size_hint: 1., .1
 				on_press:
 					root.manager.transition.direction = 'up'
-					root.manager.current = 'menu'
+					root.manager.current = 'model'
 		GridLayout:		# info (middle)
 			padding: 12
 			size_hint: .8, 1.
 			cols: 2
 			Label:
-				text: "Metadata file:"
+				text: 'Metadata file:'
 				size_hint_x: None
 			TextInput:
 				id: txt_metadata
-				text: ""
+				text: ''
 			Label:
-				text: "Output folder:"
+				text: 'Output folder:'
 				size_hint_x: None
 			TextInput:
 				id: txt_output
-				text: ""
+				text: ''
 			Label:
-				text: "Starter file:"
+				text: 'Starter file:'
 				size_hint_x: None
 			TextInput:
 				id: txt_w
-				text: ""
+				text: ''
 			Label:
-				text: "Epochs:"
+				text: 'Epochs:'
 				size_hint_x: None
 			TextInput:
 				id: txt_epochs
-				text: ""
-				input_filter: "int"
+				text: ''
+				input_filter: 'int'
 		BoxLayout:		# banner (right)
 			size_hint: .2, 1.
 			orientation: 'vertical'
@@ -95,33 +147,33 @@ ScreenManager:
 			size_hint: .2, 1.
 			orientation: 'vertical'
 			Button:
-				text: 'back'
+				text: 'Return'
 				size_hint: 1., .1
 				on_press:
 					root.manager.transition.direction = 'down'
-					root.manager.current = 'menu'
+					root.manager.current = 'model'
 		GridLayout:		# info (middle)
 			padding: 12
 			size_hint: .8, 1.
 			cols: 2
 			Label:
-				text: "Metadata file:"
+				text: 'Metadata file:'
 				size_hint_x: None
 			TextInput:
 				id: txt_metadata
-				text: ""
+				text: ''
 			Label:
-				text: "Weights file:"
+				text: 'Weights file:'
 				size_hint_x: None
 			TextInput:
 				id: txt_weights
-				text: ""
+				text: ''
 			Label:
-				text: "Output:"
+				text: 'Output:'
 				size_hint_x: None
 			TextInput:
 				id: txt_output
-				text: "- no text generated yet -"
+				text: '- no text generated yet -'
 		BoxLayout:		# banner (right)
 			size_hint: .2, 1.
 			orientation: 'vertical'

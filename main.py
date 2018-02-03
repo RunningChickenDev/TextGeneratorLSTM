@@ -15,6 +15,9 @@ from threading import Thread
 # 	def use(self, path, filename):
 # 		text_input.text = os.path.join(path, filename[0])
 
+class Modeller(Screen):
+	pass
+
 class Trainer(Screen):
 	pass
 

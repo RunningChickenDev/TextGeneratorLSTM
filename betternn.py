@@ -21,7 +21,7 @@ import io
 # - model type
 # -
 
-path = "gedichten_perk/data.txt"
+path = "gedichten_mei/data.txt"
 text = io.open(path, encoding='utf-8').read().lower()
 print('corpus length:', len(text))
 
@@ -101,7 +101,7 @@ def prt_on_epoch_end(epoch, logs):
 			sys.stdout.flush()
 		print()
 
-generations_file = "gedichten_perk/gedichten.txt"
+generations_file = "gedichten_mei/gedichten.txt"
 
 def gen_on_epoch_end(epoch, logs):
 	# Function invoked at end of each epoch. Saves generated text in file.
@@ -132,6 +132,7 @@ def gen_on_epoch_end(epoch, logs):
 
 			f.write(next_char)
 			# sys.stdout.flush()
+		f.write("\n-------------\n")
 	f.write("\n-------------\n\n")
 	f.close()
 
@@ -140,12 +141,49 @@ with open(generations_file, "a") as f:
 	f.write("Generated texts on {}\n".format(datetime.datetime.now()))
 	f.write("==========\n")
 
-out = "gedichten_perk/weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+out = "gedichten_mei/w/weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
 # print_callback = LambdaCallback(on_epoch_end=prt_on_epoch_end)
 write_callback = LambdaCallback(on_epoch_end=gen_on_epoch_end)
 save_callback = ModelCheckpoint(out, monitor='loss', verbose=1, save_best_only=True, mode='min')
 
-model.fit(x, y,
-		  batch_size=128,
-		  epochs=60,
-		  callbacks=[write_callback, save_callback])
+model.load_weights("gedichten_mei/w/weights-improvement-48-0.9858.hdf5")
+
+if __name__ == "__main__":
+	running = True
+	while running:
+		print("What to do? (train/generate)")
+		choice = input("> ")
+		if choice.lower() == "train":
+			model.fit(x, y,
+					  batch_size=128,
+					  epochs=60,
+					  callbacks=[write_callback, save_callback])
+		elif choice.lower() == "generate":
+			print("  Type seed:")
+			seed = input(">>> ")[:40]
+			print("  Using seed: '{}'".format(seed))
+			print("  Type diversity:")
+			diversity = float(input(">>> "))
+			print("  Using diversity: {}".format(diversity))
+			print("  --  ")
+			generated = ''
+			sentence = seed
+			generated += sentence
+			for i in range(400):
+				x_pred = np.zeros((1, maxlen, len(chars)))
+				for t, char in enumerate(sentence):
+					x_pred[0, t, char_indices[char]] = 1.
+				preds = model.predict(x_pred, verbose=0)[0]
+				next_index = sample(preds, diversity)
+				next_char = indices_char[next_index]
+				generated += next_char
+				sentence = sentence[1:] + next_char
+				sys.stdout.write(next_char)
+				sys.stdout.flush()
+		elif choice.lower() == "exit":
+			print("  Exitting...")
+			running = False
+		else:
+			print("  Sorry, did not chatch that")
+			print("  Try: train, generate, exit")
+	print("Done")
