@@ -3,11 +3,12 @@ from kivy.properties import StringProperty
 from kivy.uix.widget import Widget
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.clock import Clock, mainthread
-import neuralnetwork as nn
+# import neuralnetwork as nn
 import os
 from kivy.uix.checkbox import CheckBox
 import subprocess
 from threading import Thread
+import betternn as nn
 
 # class FileSelectorToInput(FloatLayout):
 # 	text_input = ObjectProperty(None)
@@ -16,7 +17,13 @@ from threading import Thread
 # 		text_input.text = os.path.join(path, filename[0])
 
 class Modeller(Screen):
-	pass
+	def load_model(self):
+		vals = {
+			'seq_len': int(self.ids['txt_seq_len']),
+			'step': int(self.ids['step'])
+		}
+		nn.load_model()
+		pass
 
 class Trainer(Screen):
 	pass
@@ -42,7 +49,7 @@ class Generator(Screen):
 		self.ids["txt_output"].delete_selection()
 		self.ids["txt_output"].cursor = (0,0)
 
-		thread = Thread(target = nn.generateModelText, args=(metadata, weights, self.perCharCallback,))
+		# thread = Thread(target = nn.generateModelText, args=(metadata, weights, self.perCharCallback,))
 		thread.run()
 
 class MainMenu(Screen):

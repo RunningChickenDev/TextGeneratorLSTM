@@ -41,36 +41,56 @@ ScreenManager:
 			size_hint: .2, 1.
 			orientation: 'vertical'
 			Button:
+				text: 'Load Model'
+				size_hint: 1., .9
+				background_color: .0, .0, .8, 1.
+				on_press:
+					root.load_model()
+			Button:
 				text: 'Return'
 				size_hint: 1., .1
 				background_color: .0, .0, .8, 1.
 				on_press:
 					root.manager.transition.direction = 'right'
 					root.manager.current = 'menu'
-		GridLayout:		# info (middle)
-			padding: 12
-			size_hint: .8, 1.
-			cols: 2
-			Label:
-				text: 'Model Type:'
-				size_hint_x: None
-			Spinner:
-				text: 'Double'
-				background_color: .0, .0, .8, 1.
-				values: ('Single', 'Double')
-			Label:
-				text: 'Corpus Path:'
-				size_hint_x: None
-			TextInput:
-				id: txt_corpus
-				text: ''
-			Label:
-				text: 'Sentence Length:'
-				size_hint_x: None
-			TextInput:
-				id: txt_seqlen
-				text: ''
-				input_filter: 'int'
+		Settings:
+			
+		# GridLayout:		# info (middle)
+		# 	padding: 12
+		# 	size_hint: .8, 1.
+		# 	cols: 2
+		# 	col_default_width: 144
+		# 	Label:
+		# 		text: 'Model Type:'
+		# 		halign: 'left'
+		# 		size_hint_x: None
+		# 	Spinner:
+		# 		text: 'Double'
+		# 		background_color: .0, .0, .8, 1.
+		# 		values: ('Single', 'Double')
+		# 	Label:
+		# 		text: 'Corpus Path:'
+		# 		halign: 'left'
+		# 		size_hint_x: None
+		# 	TextInput:
+		# 		id: txt_corpus
+		# 		text: ''
+		# 	Label:
+		# 		text: 'Sequence Length:'
+		# 		halign: 'left'
+		# 		size_hint_x: None
+		# 	TextInput:
+		# 		id: txt_seq_len
+		# 		text: ''
+		# 		input_filter: 'int'
+		# 	Label:
+		# 		text: 'Step Size:'
+		# 		halign: 'left'
+		# 		size_hint_x: None
+		# 	TextInput:
+		# 		id: txt_step
+		# 		text: ''
+		# 		input_filter: 'int'
 		BoxLayout:		# banner (right)
 			size_hint: .2, 1.
 			orientation: 'vertical'
@@ -78,12 +98,14 @@ ScreenManager:
 				text: 'Train/Fit'
 				background_color: .0, .3, .8, 1.
 				on_press:
+					root.load_model()
 					root.manager.transition.direction = 'down'
 					root.manager.current = 'train'
 			Button:
 				text: 'Generate Text'
 				background_color: .3, .0, .8, 1.
 				on_press:
+					root.load_model()
 					root.manager.transition.direction = 'up'
 					root.manager.current = 'generate'
 
