@@ -128,7 +128,7 @@ def load_model(vals=None, path=None, weights=None):
 		vals = analyze_data(path, vals)
 	if not is_vals_complete(vals):
 		w.msg("Values seem to be missing, re-creating ...", "Load")
-		vals = analyze_data(vals, path, repair=True)
+		vals = analyze_data(path, vals)
 
 	w.msg("Building model ...", "Load")
 	model = Sequential()

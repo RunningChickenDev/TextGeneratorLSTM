@@ -1,0 +1,3632 @@
+Epoch = 0:
+  diversity = 0.2
+  seed = het zeegelaat.
+
+toen werd het stiller en
+  text:
+-------------
+het zeegelaat.
+
+toen werd het stiller en zoor hoor zien zoe zoor zoor haar wol ze ze zoor ze zon zoor en zoor hoor de zoe haar zoor ze zoor ze de zonden zoor het zoor zoor het zoor hoor zoor het zoor hoor ze zoor hoor hoor hoor hoor ze zoor en zoor hoor zoor het zoel een zoor het hoer de zonde zoor en zoor zoor zoor het zoor haar voer en zoor het hoor het hoor voer ze zoen het wanden zoor zoor het langen van zoor zoor voer de zoor een z
+-------------
+  diversity = 0.5
+  seed = het zeegelaat.
+
+toen werd het stiller en
+  text:
+-------------
+het zeegelaat.
+
+toen werd het stiller en haar waten van zoor voer langen de sproeden voer der zonden ik hie konden, en hun ze rien zon en voer han han ster een stornen en zoor het voor wan blangen zoor vol der hoor schuden het goemen spalde dan ziel wat een toen hoer hoor en zoor moor een zeeren en zoor de springen beinun, wan boud, ze alden hoer voor har zie heer zoor hoor voor ze zwer zeer ze de zeer beluisting ze zoor ze zie toer lie
+-------------
+  diversity = 1.0
+  seed = het zeegelaat.
+
+toen werd het stiller en
+  text:
+-------------
+het zeegelaat.
+
+toen werd het stiller en honllink zonnd en en zertoldvent, als genendt en schroemen op ze hoor
+veer zoor staandout, sper non,
+ik
+den ope.
+en baum wier zief hangend nom, schanguwerdrueren,
+haar t
+enen jonkmeid nat
+ik scheem
+en ze van het zochte blond. zuist de vlorken
+zoor kerwechts en noar
+hun dan
+slizper ik dwen mile roeud
+logen boolscar het nochte nond'r, en roors
+goel, en ?chen hoor van door hoor was het zoeg voor kle
+-------------
+  diversity = 1.2
+  seed = het zeegelaat.
+
+toen werd het stiller en
+  text:
+-------------
+het zeegelaat.
+
+toen werd het stiller en zuik
+door gen gen en zonn? en huine,
+ze ruurtraven wade dal haans smal daar kil
+oun, vrouwon dal meek wug, in ze loud van striopcweien
+in havwelt ze hëmr uwzig uar szaarsen
+mieh gijnnen
+en wurmdilold kelien haartt hond, kluudan bos,vert, en wen kunmeklum ward rizs ze reis suerkwer blonj, eklomen.
+zachmar, en woers, k, aan de hakiedgronk
+loem rass en hinh ee nag alsschemdam. --eheenen? 
+benk bpogd
+-------------
+
+-------------
+
+Epoch = 1:
+  diversity = 0.2
+  seed = sof een ring
+van geroest goud daar lag, 
+  text:
+-------------
+sof een ring
+van geroest goud daar lag, en wij de wingen het weer de zon de boogen witgen de wanden en den wingen de strangen van de bloemen de wangen van den bloemen het zijn het blangen en de wangend het winden als het wingen en het winden weer het wit het winden de stillen de goofde het de zon weer de ronden van het wit den bloemen en de strangen in den bloemen de zon de lucht en het wit den bloem, het was het bloemen water wit waar 
+-------------
+  diversity = 0.5
+  seed = sof een ring
+van geroest goud daar lag, 
+  text:
+-------------
+sof een ring
+van geroest goud daar lag, het de bloem den luchten in zoo de bloemen die en van wat den wingen
+in het bloemen stond, bij als een zeeren de hoofde waten in beeld de nogen licht en bloemen aan den den den strang
+en het rijde work begijk als het zon haar bloemen en het zij het haar was het worken stond
+den logen voor het vlogend het het wanden de gouden booft in den drooten de wol de zon over weeren wilden niet het en het win
+-------------
+  diversity = 1.0
+  seed = sof een ring
+van geroest goud daar lag, 
+  text:
+-------------
+sof een ring
+van geroest goud daar lag, hod vonken.
+hallicht
+zelt ze licht glandten bijrze droef, in blikten gangen zalvewden van gezook den bing,
+wij en welde roos
+door admen
+let,
+blneik
+van hoof als nogenkrend
+gelach
+nev na een goven van bloid de nlven van wink'len neerogelen schatering
+zich.
+
+hoefde waar nu keuzen, hat zwart van 't rad als eintengen,,
+het stimt van de stillde dosluitt is togendesveer
+de tustebrend,
+dien, monden in sc
+-------------
+  diversity = 1.2
+  seed = sof een ring
+van geroest goud daar lag, 
+  text:
+-------------
+sof een ring
+van geroest goud daar lag, ging
+binnen klaten in ann ook.od'elbleek,
+de om, droofwverdaar
+bij zielonne wink gebles d goudes voor liegeraf verstef gaan,
+wi.gond, wat kjlek
+de mij,
+en hooalves: 
+wat han van liche op werd gekoi en kwlillds
+dwachen.
+
+weefden, en,,
+het, p uit,
+gij kerbijderd drank
+ginder vkcer, juis brev: '- zon werdecd.ij mag ik het de seilje strafd mil.
+bij leud, een de uw vloot hom d'tdden, debloemschraldevie
+-------------
+
+-------------
+
+Epoch = 2:
+  diversity = 0.2
+  seed = nog voort en uit en om en vloog toen ook
+  text:
+-------------
+nog voort en uit en om en vloog toen ook den ooren mijn het water den hooren en met het ook den naar zijn gemaakte in den hooren en den blanken en den hooren op den gelangen en den haar onder en mijn blanken en zijn zijn haar geveel en blanken waar een zijn kinder van zicht den voet den want en bleef zijn hem waren en toen ze zijn ze ze ze ze naar een winder was ze van de maan den vollen naar mijn het bonden en licht den blonken en mijn
+-------------
+  diversity = 0.5
+  seed = nog voort en uit en om en vloog toen ook
+  text:
+-------------
+nog voort en uit en om en vloog toen ook den woeten dank heen en mijn het waar mijn van een vlanken,
+en zijn hij en haar bij hemels maakter is haar oogen wiet op den teele was hij verbanden,
+gij zijn voel haar nomen op den haar lief zicht haar rond den vlamwe blankerstelken waar en zijn danden in den konden van blanken nu liep ze en bonnen vleugen water haar stond op het wanden als een mietelijk maakten, de wanten zijn moet beruinen die
+-------------
+  diversity = 1.0
+  seed = nog voort en uit en om en vloog toen ook
+  text:
+-------------
+nog voort en uit en om en vloog toen ook zijn ziet.
+van guskeloogschoort
+van snaken blans den , waar omden drischt een maakten op
+is een luiden dankin, en fijnktrekjoortenen die moemelens, vroor ze deur, zwaat en zaten hei stond ze dewater van 't lang bevaar weet opgeheude handen, schappgings nu ik ze ondert hars eer zagen pjes
+voor 
+stikten er een groeien in cht meet o plank wond hen wand kaam waren van ze twee heegs hiel, en gaan de m
+-------------
+  diversity = 1.2
+  seed = nog voort en uit en om en vloog toen ook
+  text:
+-------------
+nog voort en uit en om en vloog toen ook heeft. haar ik water overstanr
+van last ze gaan,
+meideted e, mijnat, uraan getageresprout
+naakteloeis
+gewass wannehter
+ont den,
+nvee eel hugstel'' watersonve long dandbij
+val er,suwelpanat, zot zijn een minneknig, zu dasgenaerovis?'
+boomhoeneen haar, zs zijk waserloom op ik en ze een voldt konkeerp
+manmtelend,
+naar  een maak,
+rieder zag ne als ken'k elat
+vverkland van ge
+teven maak haar nroismak 
+-------------
+
+-------------
+
+Epoch = 3:
+  diversity = 0.2
+  seed = en plas,
+wanneer de maan scheen en het i
+  text:
+-------------
+en plas,
+wanneer de maan scheen en het in haar voel het blauwe rond,
+het lachte de zien haar van de houd de straat en vergel zijn zien en zijn haar, de wanden zijn haar van de zaat
+van zijn voel van de zagen van de zien van de zaal
+van de zee zijn de geele de waar
+van was zijn haar opgeele van de halden daar de zien van haar aan zijn haar van zijn gelach
+van zijn geele weer
+de halden van zee van de zon waar mij haar langs een geele en h
+-------------
+  diversity = 0.5
+  seed = en plas,
+wanneer de maan scheen en het i
+  text:
+-------------
+en plas,
+wanneer de maan scheen en het in de vogels het vlampen lach de keerden van de water als een graat van zijn volken van zijn weerelijk geen hem hoe zoo bij haar waar het door haar toen op de poelen zich gezachten stond en een verder stond dat zijn vochten van de blauw
+het ooger haar bloem
+en zijn met geelden van den geraas
+ze zijn haar gaat de zaat
+en in 't haar de rieden haar opgeboelden.
+zoo werd het was ze duister met als zee 
+-------------
+  diversity = 1.0
+  seed = en plas,
+wanneer de maan scheen en het i
+  text:
+-------------
+en plas,
+wanneer de maan scheen en het in drang en den fleeflisgig zien de heen:
+''zoider maah zich elkende, die allen zee 't nazel niet mij malderen haar geele in diep als slaapen uit leepe zoen
+liep het elken stond'
+ze weerketen en kweende bleek. en zong
+zij zijn h oude haartst, mas laen haar ker.''
+''maarden rond de veelven korgewing, het rond, die ij verglug klenken en een rond, hij laats rij meigewheed
+van zijn gopen van keersten, 
+-------------
+  diversity = 1.2
+  seed = en plas,
+wanneer de maan scheen en het i
+  text:
+-------------
+en plas,
+wanneer de maan scheen en het iken zonken de
+noedoop
+koppelhalen.
+
+veel ie de handdoviera's
+hat zijorit en van
+om te sladen
+bij van --
+en nu mond van gaden richte teuvel
+waarit gerauven 's teeken.
+dea knillaken, keerjes laten, van tiernez veelui
+van deed. ossbadadst gevannen
+de sprappelpen.
+de vong er fladt vertulkenden en daar nog weem meer, blauwer meer: ''hanmedenen, zij spaar'
+boncht in had zeep weed maarten dat wet o hacht
+-------------
+
+-------------
+
+Epoch = 4:
+  diversity = 0.2
+  seed =  wien de fonteinen
+van alle licht vervli
+  text:
+-------------
+ wien de fonteinen
+van alle licht vervlind van den bloemen van den bloed
+van haren en de zonnen van den bloed
+van den grooten wand.
+daar was ze zoo dan den groom van haar voeten van den donken van den bloed
+van dand van haren en de zonnen van den droom van den hoogen, dat was de zonnen van den hoogen van den voeten van den bloemen en den voeten
+van de zonnen van den nachtsten van het door den bloemen van den hoogen van den handen van de
+-------------
+  diversity = 0.5
+  seed =  wien de fonteinen
+van alle licht vervli
+  text:
+-------------
+ wien de fonteinen
+van alle licht vervlied hemels als een wand nu een vogels, droomend en hoorden dat en droomen water van den vliegen, die bloemend met gemelken, wat daar stil of en de wanden binnen op haar armand naar den vrool
+van mei
+dan als een heiland,
+en ze van handen op den blauw maar.
+maar dat was ze allen en zoo langd en staalt, vloog dat heenen van het in den grooten. het blauw
+van haar alleen en den godrongen,
+en dagelijk va
+-------------
+  diversity = 1.0
+  seed =  wien de fonteinen
+van alle licht vervli
+  text:
+-------------
+ wien de fonteinen
+van alle licht vervlicht, droomen,
+htelangal. van had van barden kind, en sprost zoo dan huis en hoogen en en ze van luchtsje weelt, wanniedin het bloeten, died de een we ze roog
+en van glande velaf
+van zag zooals het moeder bansstammorgen langste latenste;oof 
+nu waroenzichten gedag,
+zijn gang den geuredruppin barm en het bloven
+oogen en dien, van haar, over het loof,
+vlamiering?
+zijn zalen een klanen werd in oogen l
+-------------
+  diversity = 1.2
+  seed =  wien de fonteinen
+van alle licht vervli
+  text:
+-------------
+ wien de fonteinen
+van alle licht vervling uur dat
+minn --
+wij land vunrt den hemhande.
+zijn zwaar veel in, vrougt als met op haar dand luistel
+ots naar van, toen is vrag'ring ---- alleen dreus op ne,
+zooals de stralen, dat geop
+daar is, ze hing.
+hij krond 'en droevenr;
+ook 'kiklen en hij boom wuztevde
+van uit opin bloom en stroom
+bolant bloed: de overprotvangktost;
+hoog neer dandand treug gezotten,.
+en zij lied.
+huurnarmen lagend aloot
+-------------
+
+-------------
+
+Epoch = 5:
+  diversity = 0.2
+  seed = jn vreugd
+om 't al te nemen, mij er mee 
+  text:
+-------------
+jn vreugd
+om 't al te nemen, mij er mee de lucht en de lucht en dat vergeelen,
+dat ze zijn blauw van de wind en dat de wolken der donker blauw
+van de zon een voor den blauwen van de ronden van de lucht de lucht van de harte waarde hemel om de wel gevangen als een groote lucht
+en vol ver geelen en de straat
+van zijn blauwen op de ruimen
+van de welen en de wangen van de lucht en de slaat
+van de slaat en de straat
+van mijn blauw van de str
+-------------
+  diversity = 0.5
+  seed = jn vreugd
+om 't al te nemen, mij er mee 
+  text:
+-------------
+jn vreugd
+om 't al te nemen, mij er mee om de wolken om den heide
+zijn jonge lucht,
+die ben zijn door den boort,
+en het loome waarden als een kind.
+
+en licht het van de lucht verlangt ter dang
+de wels nu een prand op den vollen de had
+van de morgend mom op de zien.
+
+en hoog zijn weer geblauw en dat hun nevels een meer.
+
+wee te wijl een aarde haar krank,
+de stralen gelijkt
+schreer het leek een rijn uit de zijn.
+
+en stad zij zijn blauw va
+-------------
+  diversity = 1.0
+  seed = jn vreugd
+om 't al te nemen, mij er mee 
+  text:
+-------------
+jn vreugd
+om 't al te nemen, mij er mee geluidd rijken bosch, waaren
+deer voor den andvruch en dat
+uien vel scheemering,
+weerde nog mee, wart door 't nieuwing:
+''aarde vonker werden wel als uit een mijnn.
+zoo weent zoo verdwette rug
+zijn vuelat iststien
+vlauw en de blauw
+en jonge pach: de stan, zaacher gelijk
+in vlak uit de schein,
+de vlakt nietst dat zag mee, treel op den wind
+vergat neus
+opgolad
+gelijkt in donkkrijverg
+aan mijn lijven
+-------------
+  diversity = 1.2
+  seed = jn vreugd
+om 't al te nemen, mij er mee 
+  text:
+-------------
+jn vreugd
+om 't al te nemen, mij er mee door sluif
+ders, die getafen en een 't licht aan gesloede,. schalend
+wellegenchwamme,
+snarwak, een vlacht te zien in het oogen nu voor heen moe, hadren trig als mees
+een art in een vdeur wads
+omhooenscurp.
+de gelterent zijn bloeden hemelt'u
+noerst naar wacht.
+zoo dien ze mijn en u oeven lijfd'
+een groone vluc
+zijn 't geralen van zijt.
+door weekt zajm van lichtt roep,
+ig npers stieste nu naabs aan 
+-------------
+
+-------------
+
+Epoch = 6:
+  diversity = 0.2
+  seed = loemd kruid, met zijn zilverstaart
+slaat
+  text:
+-------------
+loemd kruid, met zijn zilverstaart
+slaat de zon haar heel op de rons
+mijn voort
+van de zon haar mijn bij
+van haar langs die stil van haar vergader, een kind, de wind
+en rondden van de roos,
+de straat liep de straat van heel van de zon en de straat van de rond
+en heel een kind, de wind
+de straat was 't was die ziet en zijn bekeelden op de aarde heel vergeelden zijn
+ik ziet op haar beken en heel van zijn vrouw
+van haar heel van de straat
+
+-------------
+  diversity = 0.5
+  seed = loemd kruid, met zijn zilverstaart
+slaat
+  text:
+-------------
+loemd kruid, met zijn zilverstaart
+slaat ze als een gegrijst
+zoo lang ze naar hemels, mijn dangen nog niet de oogevroogt wel omgerucht.
+het rond zoo als een wind reide licht op den boot
+van straaan heel kom.
+
+toen werd niet haar zijn prood
+witt mei in de poes het haren toen
+sprak zicht als het zicht, de zaalt
+stille rond liefde, op het wonken oogen naar 't ind
+van wind verblikke als een ziet
+ont zijn bekoenen
+zijn boomen van goud lachte
+-------------
+  diversity = 1.0
+  seed = loemd kruid, met zijn zilverstaart
+slaat
+  text:
+-------------
+loemd kruid, met zijn zilverstaart
+slaat lad makte glan.
+waar oegen lacht uit de jonge gingen heever, 't geelden onder hind langb
+langzaam aan mij daarligd, toen ver aan komsne, sliep. en boven o ik, en plakte en mijt, als een klank.
+zog zijt ditt was de plast verwijkend en mijn
+vroeg in hij haar ouderrousl
+vvouwt volken op een in, mijn ging
+naas spinnen haran maan ind'ring, als kinden, die riji,
+en spreeken hemaal
+van rinsch.
+maarnar v
+-------------
+  diversity = 1.2
+  seed = loemd kruid, met zijn zilverstaart
+slaat
+  text:
+-------------
+loemd kruid, met zijn zilverstaart
+slaat,
+wanneer weelen teeren zij heenzoet..
+maar stil ver oten voor
+van, tussche nachtzatjes bij
+hisch: 't houg, u ook ook meidjwij en
+ba, witts 't ; hem, o's bovannpurendels, oogen, ik, puicchtre prelte kers, weiends; zwaar mant
+nam pluistie note' niemuif,
+gelep arnen rijmand zien
+licht, een nacht,
+en in een .ij ze als de licven
+heel.
+stil, kolden -- il hondlendend verstenen
+om mij weerderie, kind:
+''
+-------------
+
+-------------
+
+Epoch = 7:
+  diversity = 0.2
+  seed = mijn ziel is, is zichzelf een god.
+ik be
+  text:
+-------------
+mijn ziel is, is zichzelf een god.
+ik ben zijn vogel wand de wanden van het water gelijken
+van handen en de sterten en het gelijk,
+en zijn volle gelangen
+van gouden wand de wanden van het waren van het wanden en het water gelijken.
+en zijn volle zien en zijn voeten wanden
+de stroomden en de wanden van den groote hel naam de straat
+van water van de zon en zijn volle verder,
+en zijn volle gelijken.
+en zijn boomen handen van den hoofd gebo
+-------------
+  diversity = 0.5
+  seed = mijn ziel is, is zichzelf een god.
+ik be
+  text:
+-------------
+mijn ziel is, is zichzelf een god.
+ik ben de staf het land en hoorden en mijn gelad.
+
+en hun licht en voel de zon hun niet waakt ze zanden handen
+ding ze zag haar hoofd geblaken
+van die als nu ook haar wanden de stroomden
+dan blank en liefhind'ren de geel
+handen wanneer van haar oogen in den blank
+zich nacht
+van blank en zag ze na zwart in het oogen van het duister
+en zonder, maar de zaal het scheen op de stel van hem op de hoofd gelijk
+-------------
+  diversity = 1.0
+  seed = mijn ziel is, is zichzelf een god.
+ik be
+  text:
+-------------
+mijn ziel is, is zichzelf een god.
+ik ben schoeden, smaan en klanken beelden,
+en ze in zonloes, ze duisch dan din takkng hand
+sninserwelnen en naar den vogens ruimch
+en bee in zwarten naar vleevens opgericht
+en weste vuur
+en baadde van 't inter, ziet
+mei, van mensch
+nu beken stalten zaar wazen, 't groein, dat verleeft en gloede happen
+van ding druter wannellind in kleuren; gelacht en snel.
+waar hun dlangenwind, ''nu ik ween de handstond
+-------------
+  diversity = 1.2
+  seed = mijn ziel is, is zichzelf een god.
+ik be
+  text:
+-------------
+mijn ziel is, is zichzelf een god.
+ik ben zektend gaan ten voor in een langen: k in 't boofgenwimen guizen nog.
+en zonlichtig uit haar gaan; wand de wolken, en
+van purs zooarste ben lag op htel dan ge hand winkan
+maakt in den doos:
+''mas elde stam was de goden gras toen alt te gaauwr. twe
+waar overklen van wilde
+luisterden, ze gableed, een wordenples,
+tusschensels blaanze hebalen, maar daar is zuis
+van ook hook eens welvende wal
+van hen
+-------------
+
+-------------
+
+Epoch = 8:
+  diversity = 0.2
+  seed =  dicht bij elkander,
+en namen haar gewad
+  text:
+-------------
+ dicht bij elkander,
+en namen haar gewaden en de zon en de sterren van de zon
+van ze dat ze het nog wel wel wes de steen weer de raam
+de water gelijkt en het rood en waren de donkren
+de wonken en de rond de water aan, de welken
+de water groote zee ze van het nachtbaal
+van wonder hem naar volk de steen de welken
+de water gelijk de staan dat de zon
+van dat was het water gouden water gelijk
+de lucht de welken werd de rond en de steen
+de ru
+-------------
+  diversity = 0.5
+  seed =  dicht bij elkander,
+en namen haar gewad
+  text:
+-------------
+ dicht bij elkander,
+en namen haar gewaden rood, uw nachts het werk
+en nu nog werd ze hem een volle tat de vleken en de bloempeiste, ze boot
+van de staart werd ze de maan tot niet werd ze boompt
+en dat zij het nieuw nog dat met gepele kom.
+toen ze haar moeder de dunste de water in de lucht
+de zacht en konder na nu de donkre wind ze als ze water dat
+zijn de duinen op de blanken de water van
+de lucht warme ze als ween de haar
+de staart en
+-------------
+  diversity = 1.0
+  seed =  dicht bij elkander,
+en namen haar gewad
+  text:
+-------------
+ dicht bij elkander,
+en namen haar gewadon en en rij.
+alleen, stil, dat de ruitst en met hem lappen vol
+haar wondere wouden hebben
+he. bui de schopen heen.
+en zaten schouwen omder boogd het en loop
+diep verde door de hoote kortinu;
+de gloodde muziek de stil speraf
+over de slanke een en mei nog een bonts en zij issen wind
+van vellend een menkten spinterppel op den hemelden onder beef,
+dat ik wit gewe dag
+de 't hooge wolk als nu vertrokk'
+-------------
+  diversity = 1.2
+  seed =  dicht bij elkander,
+en namen haar gewad
+  text:
+-------------
+ dicht bij elkander,
+en namen haar gewadd van in gaan in hun te stled wondekei ans
+de liefde den kninkels dat zich hoeper, op de roven. zij
+lunpts wat. als mei zich de grijvig de komenden.
+'hen zwerde strelen hij dat voor die donherkloes
+gij dan 't groode woudde ter, op mij, over licht kaam
+omhem in rust, alsvangen en dies, reksgroen.
+somden op het wajpte wingeling ze schavijn
+blaattade iens een glemen zekelen wijn,
+zich nu gaan niet nu
+-------------
+
+-------------
+
+Epoch = 9:
+  diversity = 0.2
+  seed = e en een ziel
+voelde ze in hem; in een s
+  text:
+-------------
+e en een ziel
+voelde ze in hem; in een schalm'
+wat ze ze zich de straat van midden in de straat.
+
+
+en zijn boomen dat ze zich de straat, zoo zaten dat het hoogen, water haar heen
+van hoog haar van de straat.
+
+
+en zag ze zich te zien droomends raakte en de water gelicht
+als van haar handen en de zon heen.
+
+en langzaam van de stroom de lucht de water, en de straat
+zijn boom de water staan het lange zijn boven haar heen
+en waar de zon heen
+-------------
+  diversity = 0.5
+  seed = e en een ziel
+voelde ze in hem; in een s
+  text:
+-------------
+e en een ziel
+voelde ze in hem; in een stond, en ook bij zich naar blauw gen zwart
+dan stralen zij gelijk zoo door den knieën, daar boomen; zijn geschroken op de armen, en ze maakten
+en was o ik de bloemde gelicht
+door in kleuren bloem -- zoo zacht zijn geblaken
+langend begon toen de roode zien,
+de straat, zij ook die een rood de lucht
+lacht de heele en de wind droef,
+de luid de straal gestroom toen de straat.
+de straat van de was de lu
+-------------
+  diversity = 1.0
+  seed = e en een ziel
+voelde ze in hem; in een s
+  text:
+-------------
+e en een ziel
+voelde ze in hem; in een slank op de allook en uitoud
+maakt is de steen splassten gelichte luchtemond.
+en ik bijne lag den houd in 't nu bijn
+somt nog de taden wit
+zee, wat wat ges wilde diept en dan in vijl uitgruiten. en schoenen en het lange water rog gaan
+o k als een nevel zand
+was 'k aan zachte vichter hun licht tocht kwam ween, tornde
+het blauwe schaduwen
+daar schalms met door uit dat dried
+werd
+just was in god'n ges
+-------------
+  diversity = 1.2
+  seed = e en een ziel
+voelde ze in hem; in een s
+  text:
+-------------
+e en een ziel
+voelde ze in hem; in een snood,
+blauwen zieten trooogen haren, o een oogen pon.
+en hemel in gen in, dien moeinaa en twee zmen hooven
+luist, gewacht vlied in hun waterze,,raas dam 't vroegen, werde de mas
+zoo stong stil ze in den huin. -- hot wachtten heid
+in glanstsend als lach:
+'' iu land blauwoebonde lagen, stam voorbij,
+vonlaak als hen hoog
+en sparm,
+vloret begeer
+in tuld nauw
+wanden vroo wind en al naar en de straat.
+h
+-------------
+
+-------------
+
+Epoch = 10:
+  diversity = 0.2
+  seed = d. en een gele boot
+kroop uit den nevel 
+  text:
+-------------
+d. en een gele boot
+kroop uit den nevel van den handen en de zon
+voor dan door den dom in de zon zoo alssresten: de zon zijn hart
+de straat wel de straat van de zon zoo als een kind.
+ze zag ze haar oogen bekeelde de zon zijn
+en schaduw de wolk de straat waar de stroomen
+en zong ze niet in de zon zoo dronken van de zon
+mij zoo de staan zoo dronken en de wolken.
+en zoo rood en zoo roode zon ziet, de straat
+stond ze han de straat dat wel h
+-------------
+  diversity = 0.5
+  seed = d. en een gele boot
+kroop uit den nevel 
+  text:
+-------------
+d. en een gele boot
+kroop uit den nevel van den wolken zich den donk.
+naar zon wie d't hiel waar een hooren en de gelen
+van 't woorden het neer valde ze als een schiet
+heel stonden ze waar nu de oogen waart de ruimen
+der donker mond door den doodsteer, wat rijd
+dan zon zoo als een zieter werd nog, zoo gerijk.
+
+en ze langzaam zie dan haar koud zijn het
+lachende en een droom.''
+'t was om mijn hart en zoo hooren water dan
+vlogen zijn haren
+-------------
+  diversity = 1.0
+  seed = d. en een gele boot
+kroop uit den nevel 
+  text:
+-------------
+d. en een gele boot
+kroop uit den nevel hem haar, dan mookten; blad'r elvrorken
+dronkverlat werd in 't ied'rend om de straat
+kwam bogen wel weg weerman kwam ze zelvaden met lach
+tusschen hun en zreuge gevrouwt en droefde zijnzaakt, volw drecve aar
+het wart goud, rooden haar ding mantten nogen
+bezitelde de zoven de hemels, met moott met een kussel
+de lucht verde zich toen de valven volle en diep
+zijn zoo is verland, het bleeken onder hem
+-------------
+  diversity = 1.2
+  seed = d. en een gele boot
+kroop uit den nevel 
+  text:
+-------------
+d. en een gele boot
+kroop uit den nevel als rachte gaardadd.
+kwam en zonling ze zuiteriss.
+en toen ze dan elkaar voelde van hare klee
+ zoo toen mij wel oeder de koud voor, en berls,
+hermaande en bangeuwonddregen; het schaal, met het duisen
+die hag toen hij volr en verhooren wog als de onte zeendeur, ege kan
+mun ind in ook men, vuren liefelig, klaverd
+diek badicht, ''nag binnevt vroeg geboo den dampchroen
+met mos zigen bander man een bla
+-------------
+
+-------------
+
+Epoch = 11:
+  diversity = 0.2
+  seed = oen speelden eerst de gnomen op hun trom
+  text:
+-------------
+oen speelden eerst de gnomen op hun trom
+en wangen in het waar heenen schijnsten beeld --
+en daar liep de straat, het was zicht geschiet.
+zoo zie ze zelve den schoof de straal, en den schiet
+ze vol ver wereld hemel wel ik weer
+van schoof en toen haar hart en zelve klein
+van haar heenen van den schoof voor heen.
+en waar ze hem licht en hemel haar heen
+als een kind, daar staan zij zelve schaduw
+dan de staant, en zij zelve daar staan,
+van 
+-------------
+  diversity = 0.5
+  seed = oen speelden eerst de gnomen op hun trom
+  text:
+-------------
+oen speelden eerst de gnomen op hun trom.
+
+de straat voor het gouden waart vol
+van stad, daar nacht hem die diep, het leek
+de volk meer, daar verdwielt en beelden wonden
+en de stille bloed van de zien hoende speelden in het schoof
+van boot gelijk van het loof
+en boomt gevuid meer, haar van van de stem
+en weer haar licht en was zijn voetjes gericht.
+
+en mei. den vogels, wanneer was en den schiet
+week geziek
+den stem in hoog gelijk en den
+-------------
+  diversity = 1.0
+  seed = oen speelden eerst de gnomen op hun trom
+  text:
+-------------
+oen speelden eerst de gnomen op hun tromen,
+en kerst korond. en vol wak, al he beg, en hoog
+of mei hare goud en in de zijn.
+zoo ligt oog is ooken beeld schemerdeklic
+gen zielen
+spingen
+zij helen spragen meerelik vroud jongend wei
+onder den maan en rind stom- dol te stil
+oven waremt werd, naar scheem.
+toren nu stilte freust..'' ze wordt ala: den sten af doort.
+zoo stil behierd ik ktaat gaan, --
+maar wang haar boom, bloeien aanscreen voor
+-------------
+  diversity = 1.2
+  seed = oen speelden eerst de gnomen op hun trom
+  text:
+-------------
+oen speelden eerst de gnomen op hun trom
+en toen diessmen gader, doaten lijft, te haf daarkaver
+en hoog
+sissiermanden, waerd' met oude het roode zustig lel eenaarhzie
+, getip kilde drinkt, dan
+dris
+knik, zou nimde nog weerbing.
+
+kladers grijven van dinnen ak eenz'at,
+en uit zij hem, ndemkorden kreid, mei.
+rijk, kwam een mannen de laan.''hei ze hem.
+en wolken gerrijg in zich rop.
+daar was derloomvrooi herot en kwam,
+maar bloed mear te ra
+-------------
+
+-------------
+
+Epoch = 12:
+  diversity = 0.2
+  seed = an door de zalen
+huns harts en onder een
+  text:
+-------------
+an door de zalen
+huns harts en onder een gouden bloem
+voor haar en van de zon hun langs de zon
+van straat van de wind en van maar het nacht,
+en van de zon huis en het het nacht en verder,
+en boomen en voort de straat van de zon
+verder werd de straat van de duisternaar
+de zijnen voeten het loopen en het blauwe geleek
+de zon huis haar hart het geruischte van haar heen
+van de zon huis het hellen van de zon en beelden
+lachend ze haar aan de
+-------------
+  diversity = 0.5
+  seed = an door de zalen
+huns harts en onder een
+  text:
+-------------
+an door de zalen
+huns harts en onder een doorden lichten en
+en het geruister de verde dam
+was het nacht aan de zee,
+en vogel geele ziet, met ze dan het water groen
+van vogel een gelijk, zooals een boom,
+en van het wonderslaat van met aandrijk,
+en zon op hoogen en de stem
+gewaar onder de ruimend, en diep te met een vliet
+de zijn hun oogen de wonderkoen,
+de straat geboord het hloden beeld, zooals een blijft
+het water gerichten lichten en 
+-------------
+  diversity = 1.0
+  seed = an door de zalen
+huns harts en onder een
+  text:
+-------------
+an door de zalen
+huns harts en onder een koft den nietplenden
+trond weerblaken gij zee. ze ze tralen, als weet
+zijt, er ze blijven en gloed en lach
+belieters was ze en hart het oogen,
+schoel de roeste water vltuwen en mijn 'ren
+hij hoele nesd'ren en zij hel alnof.
+waar ze keekte uit, de gele' oogerwij zij.
+ze huik ween als oogen het wasd we kan dak.
+en er wel zeupromint.
+
+en vogel was ik boven omheid en ver
+graat ver 't alles een wingga
+-------------
+  diversity = 1.2
+  seed = an door de zalen
+huns harts en onder een
+  text:
+-------------
+an door de zalen
+huns harts en onder een ptust heel. en zij te kam''en
+van leven ze, mei in alder haar: ring
+ik omdat ont te. gedaals vleg.
+overgresttst, wat nog iken aandrijk: de uit.
+en bootends nog van mijn daaraar lippen, 't was-
+zoodar de wind in woorden dranen, lichte leven.
+en het wat is oomena' doen men dlooten struimgenslen,
+sommelen die ' is haar beneem 'n wasd
+ving er is omk hemelsloss, wes dat begee
+van dinherin de eende, al
+-------------
+
+-------------
+
+Epoch = 13:
+  diversity = 0.2
+  seed = eid zich, nu hij niet meer den dag
+vulde
+  text:
+-------------
+eid zich, nu hij niet meer den dag
+vulden daar en den ster, en zijn blij
+stil gelijk, zijn het nacht,
+en verdwijden water geele lucht,
+en van de welende zijn lied van den ster
+van den stervouw gelijk, die daar een blauwe gelijk
+van stralen waar de wolken haar
+van stralen van den ster, en zijn blij
+stil gemangen en den ster
+van den stervout het het neer van den steen
+van kladen van den sterft waar de wolk
+van het laat voor het wondgen vo
+-------------
+  diversity = 0.5
+  seed = eid zich, nu hij niet meer den dag
+vulde
+  text:
+-------------
+eid zich, nu hij niet meer den dag
+vulden daar beeld door den godan stel waar
+het wat is mij zelve dal
+van het gladde daar.
+het leek ook de zon en mijn mond, daar verder,
+een grond blaas vlogen, maar de wind te zwart
+van droefen staan van middagheelze en
+van straat, die wel is het hoofd voor het legen
+laat gewaarde lucht van u trekte zee.
+
+en zon onder de ruimendrond, en de rusten
+diep, toen dat wel wel de weiden dam.
+en voelde diepen z
+-------------
+  diversity = 1.0
+  seed = eid zich, nu hij niet meer den dag
+vulde
+  text:
+-------------
+eid zich, nu hij niet meer den dag
+vulden en ze koor heet weld witgerend.
+de zag ze meer, ik name, er op blauwe dam
+en diep haren mij een maakte het komt
+en zongen als en een koud voor in weet, hij stel joogen sneer
+gewing neekborgen droesen liep.
+ruischenom rood haar en bij meird and.
+daar is naar weeg.'' toch ze breiden wachten
+wijloes een straat, gebaad stonden
+rond, ritje klimplinkbield, baadte werd in een volgen.
+op beeker liefhaar
+-------------
+  diversity = 1.2
+  seed = eid zich, nu hij niet meer den dag
+vulde
+  text:
+-------------
+eid zich, nu hij niet meer den dag
+vulden sniepin maakten op ook, zoo donker
+en 'pen dieparenheid.
+haar halde water, wrerting toen beer
+tusschen meergaarde kenein
+ontmankte hemelen in den drees, luist, jrongheblenrend maarde vers,
+met zou hier rond en wand, en een kelk
+lie kajm niet, oedag onthom nog nu,
+en haardond'ruit, ondat 'tinnen in enn.
+zij haar boojvuit was heert van slagen.
+waar steurusen, straat jurest'e gloede blauwe glem
+ver
+-------------
+
+-------------
+
+Epoch = 14:
+  diversity = 0.2
+  seed = eraas, en aamde zwaar
+van haar naar mij,
+  text:
+-------------
+eraas, en aamde zwaar
+van haar naar mij, den natten en de straat
+en het leven waar de wel een verhaat van de straat
+met wel de straat en de straat en het licht
+van het niem en met de straat en het gericht
+van hare lichte waren en de straat, dat lichte heenen,
+en de straat en de straat en de stroomen
+van de straat en de straat en de stroomen
+opgerind'gen bloei, en de stroomen van den hal
+het nieuwe schemer als de wind de avond geboot
+en 
+-------------
+  diversity = 0.5
+  seed = eraas, en aamde zwaar
+van haar naar mij,
+  text:
+-------------
+eraas, en aamde zwaar
+van haar naar mij, en het luid en zong, en de wel
+ik dit ben den wind de lucht voor haar rond een vert, een vogels
+het leek op den huisloomen nog nu nu heen, om
+die huis getross, of de straat en vroolijk.
+
+naakts het wond haar zee op haar en toen week
+een horen op den hoofd voor en beeld dee dat
+neer het gerren meek als ze voor het loof
+den natten, en een bood en haar rond
+bergen van diep zelf als een groote lang b
+-------------
+  diversity = 1.0
+  seed = eraas, en aamde zwaar
+van haar naar mij,
+  text:
+-------------
+eraas, en aamde zwaar
+van haar naar mij, met leven haaren vonker gras
+een nachtwaten meer ons onder dat kop, daar niet,
+licht zoo hoegene een mij zoo grooge gelf in
+aderje der leek water, ze niet dronkt, dat is er starren
+van koud en groote aangen met verbleed
+mijn zon het hoofd als bezaalden werde'
+waren, mei ze niet de paarden hoozer.
+
+an zewrat een wegel, de welde hale drup
+dan zij voelde van 't justemroom
+en maar sprekersteen en de 
+-------------
+  diversity = 1.2
+  seed = eraas, en aamde zwaar
+van haar naar mij,
+  text:
+-------------
+eraas, en aamde zwaar
+van haar naar mij, roene . ider in klaat,
+dat mij blaaktt en vooren geschachtte, zij wel en nam droover haar,
+en de blauwer smoplen, akrelde, diet
+mijn eigen ging
+neeld met maan, god'n dam, de welkend stilt
+we
+en schiet het meivad; wa
+zei ter later staat ,
+hoor spoart schrik van blande door hoevel,
+de meenenak verlicht. maar racheringenzoe
+mijn vingersppels, een heeder opgerrinsch
+gaat leek het telkenimmeland.e -- 
+-------------
+
+-------------
+
+Epoch = 15:
+  diversity = 0.2
+  seed = n jonge zoete zuster, kom.
+
+kom nu mijn 
+  text:
+-------------
+n jonge zoete zuster, kom.
+
+kom nu mijn tat de windering en de ster
+van gonder meer dat de straat van haar handen
+zijn harje leven de straat en hij daar van de sterren
+van 't hemel als een geriter van de hal
+het de straat van hare licht, heen ze naar de straat
+van wingers had ze door den hemel als een geele
+zee ziek een vlammet en haar rond, de straat
+van wit was een groote vaar en de straat
+de zon heen heel het mei in de zon zicht
+van 
+-------------
+  diversity = 0.5
+  seed = n jonge zoete zuster, kom.
+
+kom nu mijn 
+  text:
+-------------
+n jonge zoete zuster, kom.
+
+kom nu mijn bander en hij daar te slapende staan
+schieren den hemer het den witgen door
+het was een dragen, heel van de hallen
+de zage zijn gelachen.
+het was ze naar den hemel als een groote blauw
+van blonde zien wordt de streek dat ze en de zwart.
+met blin branden en ze weer als een groote straat
+vergulde zijn zich had op de loopering,
+daar blijven een geruchten van zich van den gestaan
+met bloet haar verwin
+-------------
+  diversity = 1.0
+  seed = n jonge zoete zuster, kom.
+
+kom nu mijn 
+  text:
+-------------
+n jonge zoete zuster, kom.
+
+kom nu mijn en beneen en zag ik 't huis,
+de saarde met de halder, nu het aan de arm
+en wat is den grippel van blad rijs
+meenne het en rondje in geveerde krijs
+land en doren kolen af het schoonten,
+zooals een vlag ze had de maan gulzijn.
+
+
+en naast de zwangen had de buiten
+als wachter, verhalmie en veele door,
+de ramop in 't zrouw de waf het wel de zware stakkeren
+
+lager behon zich en heer rondom haar enster
+g
+-------------
+  diversity = 1.2
+  seed = n jonge zoete zuster, kom.
+
+kom nu mijn 
+  text:
+-------------
+n jonge zoete zuster, kom.
+
+kom nu mijn takker werden drukken hel doorbij
+opd; zitt wolied in stoof ze bloze in zaar
+van het de hand, vlaggene daar
+lang en godent horen ze en 't geaarde top
+'s aller glande ze vingen hoort, een man
+in diep en de hangen, 't ijong.
+de dragen om meibaan.
+zijm door lachtje lood, dit weerm had onmaarrich
+wevolde' en het 't zat bewonddroem hij haar
+en niet wandden mij lijfte helt graad
+schad hen wak en wat ze 
+-------------
+
+-------------
+
+Epoch = 16:
+  diversity = 0.2
+  seed = elt,
+mijn god, mijn ziel, naast haar bes
+  text:
+-------------
+elt,
+mijn god, mijn ziel, naast haar besonte slaap, blokst bloemen waar den donkren
+van wolken hooren en de staan meer,
+de staan meer van wind geboord op den zon
+mij niet bergen op den vlam
+die droefen op haar bergen van de zon
+voor haar toen ze baddonde- en het bloemen
+in de zon moeder door den ster, en zijn tonk
+zijn zielver in de staan mij. mij treinan
+mijn zaal ne de staan meer, en ze voort.
+stil niet wijden en hoorde en hals en sta
+-------------
+  diversity = 0.5
+  seed = elt,
+mijn god, mijn ziel, naast haar bes
+  text:
+-------------
+elt,
+mijn god, mijn ziel, naast haar besde boomen,
+maar het was als goudste voort.
+some als de zon hemeloorfden' navel
+van zachte lichte wouwen dan de straat
+van hoogen donker heeft haar luider.
+
+zoo zijn hare onder zijn gespensten van den hoogen
+langst de staan moeder die zelf met kleine stralen, van door
+van hemels licht boven de als een maak
+ligpelen zich.
+zij zag ik de stroom en stem de stem is.
+zoo zag ze ze verder dat de staan mee
+-------------
+  diversity = 1.0
+  seed = elt,
+mijn god, mijn ziel, naast haar bes
+  text:
+-------------
+elt,
+mijn god, mijn ziel, naast haar besoneenenbooren.
+
+en lingende andering, wee dat 't bonde vols.
+
+
+in 't is zooanster droeft getanst -- ook op de zaal
+voor hoofden waterwijne nog niet,
+hij was en 't bischts, hte bloemen, en zonlichtamot kroon staan,
+het is den spelt als vond brurt men voeteling.
+hij loomering neer in er haderstreeft.
+''meerzing zijd al, of beede vertwooen:
+''hodd whert mee, hij walmer in duivelen
+toen weer het land 
+-------------
+  diversity = 1.2
+  seed = elt,
+mijn god, mijn ziel, naast haar bes
+  text:
+-------------
+elt,
+mijn god, mijn ziel, naast haar besstraden, en zuilende,
+zoo ben 'te maanvuien, in en ding, was als
+de mater laarvrouw wenden drinkt als de tepaen
+ gehuidert, lichtte haarzeelings van vlappenwint
+-- toen hoor wist'ren ze slopgerrosgen rach.
+hij is, kemelwearij, meer,
+langs mij, lig baande si
+dan de laat.
+hij zonlijk belazsen boud of de zon zunten,
+den gaan het heetels gij keusde gerucht.
+het blauwzie kusseldzjes, werd was haar olze
+-------------
+
+-------------
+
+Epoch = 17:
+  diversity = 0.2
+  seed =  ooren niet en sloten mijne oogen
+niet b
+  text:
+-------------
+ ooren niet en sloten mijne oogen
+niet bracht, die spraalde de wind een vogels
+op de booren van de straat.
+
+nog was ik zag ze ze voor haar oogen lach
+te zien en de areflikkrind, de wind
+een vroolijk van het nacht, toen 't gouden bloem
+van klanke haar, en door den gestaan straat
+van wonder groote voor de groote vogels
+op blijven en die schapen, een gedachten
+van het nacht, toen 't rood en beelden wel.
+de stroomen op de hoogt ween, de win
+-------------
+  diversity = 0.5
+  seed =  ooren niet en sloten mijne oogen
+niet b
+  text:
+-------------
+ ooren niet en sloten mijne oogen
+niet bracht, zij ziet, zooals een verschaar
+in 't godanstam daar geriten aan den hallen
+roode vogels, door het neer,
+een vers hij, was er staan met lang, haar wangen en als
+een maamde de ronde laat verschater: die ur geboren
+in gespel, als een wind zee, en een blauwe lucht.
+
+en hoog, en spiegen aan den grond, maar stam
+toen de lucht en in de water, een veer daar boos
+van dien bloos omgevaarde en onder a
+-------------
+  diversity = 1.0
+  seed =  ooren niet en sloten mijne oogen
+niet b
+  text:
+-------------
+ ooren niet en sloten mijne oogen
+niet bij men, een snaar verblijkte en godendij
+gelijke in toen staat 't mood door had, en wacht, een veel,
+waar hun lichte golfen. toen zacht verschroonen aar
+grachten der veling wel zich werd in,
+zooals een plakkering,
+loof verder naar den licht, en de groot
+van roode we avond grauw in hansten,
+en zag maar door warme liefsen stofben van haar god.
+die spel metpleng, het hoortdeeen een vogelken.
+de zon h
+-------------
+  diversity = 1.2
+  seed =  ooren niet en sloten mijne oogen
+niet b
+  text:
+-------------
+ ooren niet en sloten mijne oogen
+niet bring ver beb eenstrillind blank
+dan het na daar laat een beer, en ook staat
+hingd, zooals het leek de vinken in diept,
+het woer hem ging en woon, ncguw, beldek. ondergjlui
+hoe bolig dakpkenin,
+die haatsen bnanedrukt: de luchtenwind
+wij glopst' en meniem, 't watrimien een kom
+als goud was zich aardueg? ik ze eene
+aamanre, het niet, de boud, man klijkte ik haar naam ur een kopel
+trod' suif het neesd
+-------------
+
+-------------
+
+Epoch = 18:
+  diversity = 0.2
+  seed = hoof
+van aren, nu zijn er al zooveel hee
+  text:
+-------------
+hoof
+van aren, nu zijn er al zooveel heen.
+
+en hij licht van de straat, en ze de rijken,
+en zij zomen voor het water groote aar
+de zon haar en toen zij zich en was 't was een voeten,
+een beeldje en de groote voort
+van wat ik gerucht, en wangen en de dond
+en voelde ze daar het land en door den heel
+van wat was alles licht van de water, een witte gezaal
+van haar handen en de booten wacht
+en wat is een klanken en de stem in een gouden wel
+
+-------------
+  diversity = 0.5
+  seed = hoof
+van aren, nu zijn er al zooveel hee
+  text:
+-------------
+hoof
+van aren, nu zijn er al zooveel heen.
+een snieser op de straat, een geef als blau
+verder die 't water schoot en een konerken.
+een ons een arelijk nachtren en geen en boot
+van een stem in nocht schreemen licht opgescheen
+viel van de staan bij zoo toe staf en stilte
+zij zag wemel was en het lich
+bootscharen op 't drinken en mijn eigen was
+en was een donk're de zon ze lang en om de beek
+haar niet bronde en 't donker, en zij voelt.
+de 
+-------------
+  diversity = 1.0
+  seed = hoof
+van aren, nu zijn er al zooveel hee
+  text:
+-------------
+hoof
+van aren, nu zijn er al zooveel heen.
+toen was op en maakte ik voeen, een geven
+ruischen en liep spinden zijn elkaals geen
+voelde keur
+gezwijn aangroen hoogen, vlang en zet
+heel noch elken handen zwond',
+en wij baad zwaren, hoene 't gouden wang
+u vieleg en lang, zoo me ze 't roode aus
+voer tot de stroom te wind en voeten,
+oven waar een scheken op den welken, een boot
+his dan zon zich, wat als 't wonderlijk,
+als glanzen anschen onde
+-------------
+  diversity = 1.2
+  seed = hoof
+van aren, nu zijn er al zooveel hee
+  text:
+-------------
+hoof
+van aren, nu zijn er al zooveel hee, de duis,
+stom, ter dat ze het licht we daar neer'
+werd alleen bij zoo vroeg, duivelen aan de schoon
+een forpels, beelden, zijn zie toete uutiringen.
+en roode speel het daar goord dat be
+oumetkleinhopfij, toen 't huis, mei zich meld.
+de boenegeiden kreempelscring.
+haar mos het raten en zich satordren bij, lebceren,
+wat of neer, van snieboodie ontetrood
+wij stom met neer
+en soeduwen haar met nu hi
+-------------
+
+-------------
+
+Epoch = 19:
+  diversity = 0.2
+  seed = stonden bloemen die door het ontmoeten
+m
+  text:
+-------------
+stonden bloemen die door het ontmoeten
+met gloed en verlanden van de zon de zon
+mijn blonk en ze de straat, en zijn geeleingen beeld'
+het blonk en met zich en met zijn doen.
+het leek de aarde week van de ster, een gericht.
+een groen licht en bloemen en de stroom beeld --
+on het was op de ronde geelven,
+en zoo lang den steen dalpje en de maan en ze daar van de zon
+verbergende schepen van de zon
+verbergende schepen en ze daar beeld,
+en zo
+-------------
+  diversity = 0.5
+  seed = stonden bloemen die door het ontmoeten
+m
+  text:
+-------------
+stonden bloemen die door het ontmoeten
+met hem, geuroost. 't was een vlammet en ze de groot
+de lucht de zon dat de welk daar licht en rijl
+een groote gedangen; zoo wel ze en verder,
+een staan drong en met zich van het donk
+geboren keerd van de geelen kol
+gelaan, het was een zaal geboren voetjes, drijven gerijk.
+maar zongen sloep de sloeg, zoo was het kussen langbalen
+zoo heel het zoo loop diep en ze blank en kleed.
+de goden licht en zom
+-------------
+  diversity = 1.0
+  seed = stonden bloemen die door het ontmoeten
+m
+  text:
+-------------
+stonden bloemen die door het ontmoeten
+met woordgeen: het licht op en het oogen.
+toen beeld, huild voelde oogen tot, een rozebed.
+hand is als ekker zijn bleek de stem heen,
+gruistie ze en sjerte's polver groot
+toen er geuwelijke zoo verhater en mets;
+
+oedam
+van de skam stakken en blonke voort, en greele schoun
+van slappen in zich gesproord gegijnen
+des zee, en bloemende goden grorg daalden
+langvels naar bijke zervels klom maakte en bred
+-------------
+  diversity = 1.2
+  seed = stonden bloemen die door het ontmoeten
+m
+  text:
+-------------
+stonden bloemen die door het ontmoeten
+met een tinaamrge pombeeindhoo klokken
+voelt heblaam -- zoo muitter met voeld het roid
+daoks gtaan, 't leven licht, de scheink,
+en zonlelijk u zom haar de poorten zoo;
+hoe leede met en ronddolnste stralen;
+er kwam n overkreiden met roepmiert het bloed
+borit en 't bond van kijd -- alsos 't kind'ren
+blauwen, bloen beurt tusschen
+en sproeg in en o damfes dat de zon bing
+ter litte weld in klank: de luc
+-------------
+
+-------------
+
+Epoch = 20:
+  diversity = 0.2
+  seed = l.
+ademloos en grootoogig zag ze, heel
+z
+  text:
+-------------
+l.
+ademloos en grootoogig zag ze, heel
+zich zelve ze voor het water, 't water gelijk,
+zij zag ze zoo de gruine stralen in den boog
+van haar mond, en de straat, en zij zon,
+en ze spreekt en met den haal, gezicht
+van mij wat een gelijk, en de maan
+het leven wonder haar rond, de wonderk,
+en met ze van haar oogen in den hoogen
+en het hooge wangen en de straat,
+en zag ze begon de maan, een geschuif
+het hoofd voor hem niet den steenen weren
+z
+-------------
+  diversity = 0.5
+  seed = l.
+ademloos en grootoogig zag ze, heel
+z
+  text:
+-------------
+l.
+ademloos en grootoogig zag ze, heel
+zich te zien nog neer met een groote gezwee
+van goud gezwinger wereld en om
+de zee, maar mij het hoofd voor heen mangen
+begon de lucht voor haar op de zeingen land
+ligpil van vroeg in de aarde, we dat
+van de wolken van de zon
+ver werde ze niet meer. ''nu zijn bekongen
+in het tot op hare langen kracht.
+
+en waar de ruimen mij went met de rond
+en lange stralen van de zonnesterk,
+en teele scheen dat de
+-------------
+  diversity = 1.0
+  seed = l.
+ademloos en grootoogig zag ze, heel
+z
+  text:
+-------------
+l.
+ademloos en grootoogig zag ze, heel
+zaten zij waren,
+van haar armen stralen
+gewander was als een koel
+heen in 't schat zal gestap, met zei: tier
+zien marte de gekeerte vuil
+jonge gelijke waar 't vrucht get blin
+gewoelen rondglart --
+het weer staan van klant;
+hij van gerek, leken in, of geproil
+glarst haar zon
+van bleek een blankantvan de ziel,
+ze frind werd waren er toen spelen lom --
+hat ze npeloort van gocht,
+en keken -- en toen ni
+-------------
+  diversity = 1.2
+  seed = l.
+ademloos en grootoogig zag ze, heel
+z
+  text:
+-------------
+l.
+ademloos en grootoogig zag ze, heel
+zoo ter schemmer, daakde dat mijn.''
+het brandt is een totkusgrokke. waar zoo driekt
+in 't marneg van moeder zat,
+duistmend doorblijven in anscrent als herus
+goudonzer open, waartig gondde als een wei,
+maar niet geschatuwschei,
+van koeerak, mei- daar 't lieg'ge
+voor geschudur
+konen hert eene dreven, een scheen stes,
+droeven orheut, oken, en boel in . ha'r zelve rijgen
+aan uit meer, ver wijze, die e
+-------------
+
+-------------
+
+Epoch = 21:
+  diversity = 0.2
+  seed =  til, en wuiven,
+wuivelen zagen wij de b
+  text:
+-------------
+ til, en wuiven,
+wuivelen zagen wij de blaan, en zij zag ik.
+ze zat zij de dag het leven als een konig
+licht wat die uit de water op de blauwe gelik
+zag het is het nacht, en die dat de straat
+heel ver wind de door de zon huis van de stem
+waar in de wonder haar water, het water.
+zoo als een windschemerde in de zonnestel.
+den witte water, hun licht wat het niet en beg
+ontelder water, het water waren
+der nacht, de lucht van de helle wolken
+-------------
+  diversity = 0.5
+  seed =  til, en wuiven,
+wuivelen zagen wij de b
+  text:
+-------------
+ til, en wuiven,
+wuivelen zagen wij de blauwe wacht.
+het licht wat wachtig niet rouden geur,
+de staart, die op hun laat voort en haar
+om hing het wel, en op haar ware bloem.
+
+en waar de zon hun lachen en konder staan
+het was haar oogen was de lucht de steen
+huplen en diep die uit den hoogen vallingen.
+en dat ze toen ze niets met gesponnen.
+schruimellend van het tot blozien en het beel
+zag de poorte en het water. weer vol laat,
+de schauw
+-------------
+  diversity = 1.0
+  seed =  til, en wuiven,
+wuivelen zagen wij de b
+  text:
+-------------
+ til, en wuiven,
+wuivelen zagen wij de blauwe luipert,
+en rog lig hij kwam ziet geboeid
+drinst naar momdelsing en die sponnen naar vergeuren
+'t zong en de boomen. het was midde en kad.
+doode ze met eendling: roette blaterschuim.
+zoo die ons haar oogen lachtde zee naar metaus
+huivelend, geen houwde haar marnen wijn.
+
+hoe raalde de verde zee van steeft.
+waar de stranden en haar zang
+noch de licgenp stil, al, uit te en
+ook hij elkplaat, wa
+-------------
+  diversity = 1.2
+  seed =  til, en wuiven,
+wuivelen zagen wij de b
+  text:
+-------------
+ til, en wuiven,
+wuivelen zagen wij de blaven rots.
+en snachtgestroelt 't mer, doodhoerd.
+maar warende en zingen, en zag ik dat heen
+zich gegstindel, er heen, d'aarwitte mihtte
+en toen ze en blinkends onverst mebl..
+en dan de somm rood stailwijn; hij zag het 
+midend in dat in mij, zui.dond, dit maaisch.
+voel in elk dij vielen en zreld. en werden lichte wat
+waarde blozien, de blin
+omfloem: die binnen in met, maar zoo toen aver
+waar, hate
+-------------
+
+-------------
+
+Epoch = 22:
+  diversity = 0.2
+  seed = et raam was open en zij had 't gelaat
+na
+  text:
+-------------
+et raam was open en zij had 't gelaat
+naar 't wonders dat de stillen van het donk
+en hooger water van de steent, de zon
+vergroos rond en de steent, de zon haar oogen boom
+van wonker aan, de straat, en ze voelden
+in 't wonder vallen en zijn hoogen boom
+van de steenen op de steen,
+te zijnen en de steent, de straat,
+en hoog op de lucht de sterren, daar bedoos
+van wouderen, en zij zon, de stralen, waar
+zoo zijn zijn voeten en de steen
+van m
+-------------
+  diversity = 0.5
+  seed = et raam was open en zij had 't gelaat
+na
+  text:
+-------------
+et raam was open en zij had 't gelaat
+naar 't moeder nacht, het wonderen van de vuur
+van gouden van de steent, maar zij haar kussen
+het leure gouden blauwe duiven,
+toen waar zij zijn 't donk: dat boog en blij
+te wijn de ruiten en de sterten,
+en hare lichte luchtbrons.''
+zoo zijn zelf haar hals en verreiden,
+voor haar arm de steente
+de straat, het lachte en teeren de vrouwen en
+zoo stemer waar vol blozende maan,
+en wat ronder was een bla
+-------------
+  diversity = 1.0
+  seed = et raam was open en zij had 't gelaat
+na
+  text:
+-------------
+et raam was open en zij had 't gelaat
+naar donker, zoo ras, de donkrenh, maart,
+lag niet zij violeus pa
+roven, maar hij door den schet,
+gebootden toen de holle blauwe moden?
+en zomen hare en toen de beelden, en de staant
+als rus, duizen wat hij druischen toen zijngestoeder.
+
+wie maakt zoo roeg komsn hij, wijlemede drilte zon,
+
+en blijvende de nacht het lange koeokteer,
+volderzien keelders
+een vlammet in zich eigevinden en
+stieren over i
+-------------
+  diversity = 1.2
+  seed = et raam was open en zij had 't gelaat
+na
+  text:
+-------------
+et raam was open en zij had 't gelaat
+naast want de bergen en luist'rend vallen
+bleken open, maarij leven op de zijne inmen,
+en vloegend rood, in d'inste verder dagen 't plaspen,
+niets kelk mij die nu rieschen om het neerblik
+zich 't kussen vliegde geboren, van lach
+en oogen horen met langs zeen' en gaan?
+
+noeie groos bolwebuw,
+maar stiller van runden vlaagt, witte lach
+een donk dat geflakten diep des mei.
+vroag is gouden' en verschalle
+-------------
+
+-------------
+
+Epoch = 23:
+  diversity = 0.2
+  seed = as de bron
+van wat wij wisten dat op aar
+  text:
+-------------
+as de bron
+van wat wij wisten dat op aard
+van maar met den boomen, en dat zij haar oogen, en de wind
+en spoerden ze dan de zon haar handen,
+zooals een vogel jongen van den ster,
+een boom haar oogen en de zon de zon
+en de straat, en de straat, en de zijn
+van kussen, wat de straat, er ze als een boom
+van koud de lange zee, en zij zag maar een gedacht
+dan was als een kouwen worden haar
+der groote viogen zijn voort.
+de zon ze breg ze in de 
+-------------
+  diversity = 0.5
+  seed = as de bron
+van wat wij wisten dat op aar
+  text:
+-------------
+as de bron
+van wat wij wisten dat op aard
+zag ze, en de wind haar oogen worden hijlen,
+en 't wel als een roven hoogen lachen
+dan de gloos om den houtden brood, de teekens die drupmier
+van die toen staat, den stem haar aandrijf,
+een staf den halmaart en met meer, de straat,
+de straat en rijk de zon voor haar land.
+
+elaverende wind ver af de boovers haar op
+den vrouwen zijn droomendstond, den hoogen bon
+zooals een boom van hare langen van
+-------------
+  diversity = 1.0
+  seed = as de bron
+van wat wij wisten dat op aar
+  text:
+-------------
+as de bron
+van wat wij wisten dat op aard
+wisbarten kruisje togen, waard ze daar
+stoegen en 't is boven maakten werden lagt
+en haar: de maan haar verhaleik stil.
+
+die draas dan hooger kreekschemer werd den sprongen,
+daar hoo woud den ter deuwen, springers --
+het allaats een heuvelde lachenzien: ''moordt,
+
+verder en uit er zij wezicht, hoog van alle kroot
+in hare en op pijn wensch.
+ik blerden ruiten mij nacht
+namden huis alleen en weet v
+-------------
+  diversity = 1.2
+  seed = as de bron
+van wat wij wisten dat op aar
+  text:
+-------------
+as de bron
+van wat wij wisten dat op aard.
+
+ik bsuitre zooals en voeezie, wol bromde;
+hizwimst're wotsingenen, en ik
+een lucht, en sommonn, ik maar
+zij den evig van nog licht: ''hart in allind
+alles bij de beelkenis.
+
+eeven doordij bijde lich're naar mensch.
+mij hij dat zij oofinnebland aan
+de boetenkerspiet.''
+zaakeim was 't zooflicht en koele rijk lag.
+zoo als zijngewil, al zooals eindeur golven,
+waaren lichtgrikpernac. bij om en dwaa
+-------------
+
+-------------
+
+Epoch = 24:
+  diversity = 0.2
+  seed = en primula's, gedrop
+viel neer van geurd
+  text:
+-------------
+en primula's, gedrop
+viel neer van geurde voor haar oogen bij
+het niet begon het loot de straat, en de stroomen open
+en door de zon zich heel en het lichte roof.
+dat was het leven wij was d'i klapende stroom
+de zon haar oogen onder de stroom langs wand
+het blank wat wat ik gewads dat zich drong
+ze langs de aarde scheimers licht van den hoogen
+en bloemen op den dagen van den hoogen
+opgestel, en de straat van haar arm nog was zijn begon
+d
+-------------
+  diversity = 0.5
+  seed = en primula's, gedrop
+viel neer van geurd
+  text:
+-------------
+en primula's, gedrop
+viel neer van geurde romden.
+rimpelden op de armen vallen schemer.
+ruischen en de rindelloof luisterne staan en 't plast
+lang daar was de aarde, wit de rinste waar den bloem
+van zijn vuur het blauw en maanden wiel
+bij ze haar oogen door den schoonde stroomen
+van licht en haar oogen bij kind're dak,
+en zijn troon voor haar oogen en de ronk
+en kekel scheppelenden wel ze als en kon
+van mijn voeten in de steenen weerk, 
+-------------
+  diversity = 1.0
+  seed = en primula's, gedrop
+viel neer van geurd
+  text:
+-------------
+en primula's, gedrop
+viel neer van geurdooden van de straat
+hun nietboor ret kwam in elk'' wordt mijn bloem,
+en die is de vons opgeurtklend', en zag hoord.
+en kon niet. in hare trinter strulden.
+en toen nogingult spel nog de armen roppen
+bij stenkelend na haar reit auw gouweschen
+groosen volle witween en zich beschadwijden
+wit ze schuimurende, werden had ik in ze als er wondert schuwwiluwen.
+en zij brende ze ze die ik zagen benee, trekt
+-------------
+  diversity = 1.2
+  seed = en primula's, gedrop
+viel neer van geurd
+  text:
+-------------
+en primula's, gedrop
+viel neer van geurdood - in de kjnens hoogen,
+zooals een kuwurschen: door een kan
+kensman den vlammeraarte van balderen.
+en ofd: bij kint aanwij zoo no klank hier, maar hij stil
+van 't ha- zoo nu zoo twee nu verlijk ooge' en ze van bloem,
+en gaan in 't is die dreppemreeuw -- dat mei,
+de wel in 't wojrvan en om zijn vocht, den
+egken volk wes schemeruw en u hooren kreden
+leek ze wat een ? dve riek, er de aard haar ben
+-------------
+
+-------------
+
+Epoch = 25:
+  diversity = 0.2
+  seed =  een zwaar zwartrood gordijn.
+o moeder h
+  text:
+-------------
+ een zwaar zwartrood gordijn.
+o moeder haar oogen beeldje de zon zong
+naar 't gelach en meerd aan de zon haar oogen bergen waar
+van de zien behoord gebooe
+zij haar heen te zien gelicht.
+en 't was als vijd en hemels, maar de staan
+de straat en de staan meer als een boom
+van haar handen als een koud, de wolken bij
+een wat u bloem in de rond en lach
+het koele vloefde wierog haar het gelachen
+der vlart en de wonder bloemen licht
+voelde ik z
+-------------
+  diversity = 0.5
+  seed =  een zwaar zwartrood gordijn.
+o moeder h
+  text:
+-------------
+ een zwaar zwartrood gordijn.
+o moeder hoorde wijl met een rood wel
+door den horischooren; schoke' isseende stroomen
+van goud in den stem.'''' er licht menschen op.
+het leegt voet de hals en ze kreppige zich
+te zijn gelicht, waar uw loofd geboei
+de zij haar oogen heen hoorde ze sprak.
+doet ze als een die zoo droefde het het,
+glanten en zich haren en wolken uit den ster.
+daar blik gewagend en zoo was een graaas
+hij ze hare lichten van de
+-------------
+  diversity = 1.0
+  seed =  een zwaar zwartrood gordijn.
+o moeder h
+  text:
+-------------
+ een zwaar zwartrood gordijn.
+o moeder hoorde wijn het lond en in zich.
+doet daar praan vol van een als een ting
+of hoe te zie iess van mei. nu oon aan den hoil,
+en wegsmaante ies een hooge vachten, wee.
+riep die de maan de ruimen, en zich hem,
+wacht er lach en tusten openlicht:
+'''ozilnjewitte wele woorden mei.
+voelzijder naren, het zij zelve ans een goud.''ndam
+en hij kwam ze en ik adem het zes haagte,
+die daakte boven haar en voelde 
+-------------
+  diversity = 1.2
+  seed =  een zwaar zwartrood gordijn.
+o moeder h
+  text:
+-------------
+ een zwaar zwartrood gordijn.
+o moeder heen het boven, de tigkaar zoo lang,
+diek te mei
+van diep zuit de hallen, en welt d van 't huingebreef
+heeld te zien uit, die ppromen? een 't wondgewloom
+en iesgraafd en sstraal, er gaan, en hen open,
+daar kan haar boomen; haar oog van zijn stef,
+daar in de  tafel, wanneer, en de lage
+donk op en wel nog ik zat zauw legen,
+gedomde donk. wij hij iesvaten als
+een godt grilkend buurtend' heel macht aan
+-------------
+
+-------------
+
+Epoch = 26:
+  diversity = 0.2
+  seed = jl,
+goud is het zonschip, goud is het zo
+  text:
+-------------
+jl,
+goud is het zonschip, goud is het zonnebond.
+de zee van haar arm en was zijn zee,
+haar blonde zon zoo als een groote ril
+van wonder water, een water, bloemen
+van goud in haar oogen boomen, en de wad er
+van licht gezicht, dat zanden zalen en de wad er steen.
+
+en ze langs de wangen wat ze zwaren waren
+van wonder handen, en ze sprekte het heen.
+en rood en bloemen was een klanken water,
+de slonder geluid donken op de wel
+ze zoo toen zag
+-------------
+  diversity = 0.5
+  seed = jl,
+goud is het zonschip, goud is het zo
+  text:
+-------------
+jl,
+goud is het zonschip, goud is het zonneboot
+van het zonlisch blank en verder, bloemen
+was als 't boot steenen en de wareer,
+die hields op uwen blank van vlammer man
+met ze in zich een werk'' en bloem.
+en zoo te zien verder dat de zaal en blaast
+in haar oogen voor haar wel ze langs gelijk,
+zoo bonspen wij van haar wateen zagen en de takken
+zij haar oogen stil en te zien daar stil
+gewaarde, wijn zijn zwartbloes
+hoort hij haar armen aa
+-------------
+  diversity = 1.0
+  seed = jl,
+goud is het zonschip, goud is het zo
+  text:
+-------------
+jl,
+goud is het zonschip, goud is het zonneboer
+vallen en de beurdwoora mooi ging al plas
+dit drafke ze zwaaren dreef uit 't vlomen,
+gewijn in de een toen in zichn, voettwat zang
+te klome voor binnen en op haar water kleinkstind.
+daar 't roode zien bij het kou die onkroes
+dat leegz'e de nacht hem ooge brands lepaar
+van lucht'g' ze koek 'n wat mij, en in sprak.
+dat het is zoo toepel over de nevelig.
+
+en wij zij al mee, daar alle kinder d
+-------------
+  diversity = 1.2
+  seed = jl,
+goud is het zonschip, goud is het zo
+  text:
+-------------
+jl,
+goud is het zonschip, goud is het zonlind sliep tel nog van 't wondre,
+die er niet lijd opperbeelden hem,
+ik is 'n jonker 's wassen nietpuldadde in teerhert
+kreep, torden ze doorvellend ze verhaleeren
+in 'n is de vlup als er door het leogenblad.
+wat bloeien trokind, door breedemaar op en
+ze adert behondhoorenlevizijft van dood,
+daar in geele laante de welkarlen brond.
+'' mij die blens ze hun mondeksen boven, zijn: zomern 'sfijuw een
+-------------
+
+-------------
+
+Epoch = 27:
+  diversity = 0.2
+  seed = n met de gouden wimpels,
+de zonnestralen
+  text:
+-------------
+n met de gouden wimpels,
+de zonnestralen en de straat, en de straat
+van hare liefde hemel werd als een rood
+van zijn aard het nu de zon ontwaakten
+van wonder hadden op den hoogen boei
+van wonder, een doodserspelleen
+de wade zoo de water, blijven ze van zijn
+stond er stem ontoge paarden werd een rij
+van hare liefde als een geele werelden
+was het leek de aarde het zonnelijkheid.
+zoo was het bloemen dachten en de straat
+van goud is allen v
+-------------
+  diversity = 0.5
+  seed = n met de gouden wimpels,
+de zonnestralen
+  text:
+-------------
+n met de gouden wimpels,
+de zonnestralen, heel licht en traan bij
+het beeke door den greept; zeem
+omwas een wind van handen, en het vliegers
+hij zoo na mij hem, heen zijn tot boven omhoog,
+en hoende de meenen, angelde zielt met vol
+en 't wonder beek, die ook zijn stompen
+de water, blijven ze voort hem oogen ver
+een harebladde steen
+van oogen op haar, zijn door de wedergrau
+hem trijve stralen van de stem en de sterren,
+die in de wind te 
+-------------
+  diversity = 1.0
+  seed = n met de gouden wimpels,
+de zonnestralen
+  text:
+-------------
+n met de gouden wimpels,
+de zonnestralen en de zijne, rimden, waar
+de zee bronkte die op den laan
+of wit gewachten, zoo spel tervels donker,
+het vlakteren als als die waters laag,
+zij zag haarende mei zaloopsurende stonder
+het vadden en de zon zonlicht goden, 't water in,
+zwaatt, tot widden tot zicht oor 't slonk
+de donkre polsjen koronge wint
+en toen ze wart de stroomaanstrup geslegen wen
+floot in gewiesden wel zich zich tijnzaam,
+het 
+-------------
+  diversity = 1.2
+  seed = n met de gouden wimpels,
+de zonnestralen
+  text:
+-------------
+n met de gouden wimpels,
+de zonnestralen, zoo is 't vlomgen toen ge.
+dan del schalet zat ze wijg ingen 't zon rog bischrietst zat. ik dvagngedchijn
+is bij zalat, leek
+hadden oostgelten.
+en muziek meer toch meer, het spilusste zijn
+schadwind, smelli'nde en hem niet den gedrebij.
+'s week mel, ze was het land: er korst als leuren
+godzen de gas
+onkijnen schroofde voelen het aals uuh
+res nachtk, zoo; nu mij vlogendosts
+
+en keep rokszooalm, w
+-------------
+
+-------------
+
+Epoch = 28:
+  diversity = 0.2
+  seed = achtziek in een schaduwstreek.
+heel lang
+  text:
+-------------
+achtziek in een schaduwstreek.
+heel langs van het gods die 't bloem heen.
+
+ont zijn gelijke die in de stemelen,
+zoo zong daar het legen daar de stroom en de stem.
+zoo zien de stralen en de windelijk zijn
+zoo tel in de zon zoo den heelestend en de stem
+en toen ze daar in de sterten,
+den horen en het wonder haar oogen blij
+gelijkende staan de straat, en ze de staan,
+het is de stroom en het den stroom maan,
+daar was ze als een groote wegen
+-------------
+  diversity = 0.5
+  seed = achtziek in een schaduwstreek.
+heel lang
+  text:
+-------------
+achtziek in een schaduwstreek.
+heel langs op de henden lachen, 't was als een glonk
+en waar mij zoo dit mei daar vlammet waar de stammen
+en als een blinge naas haar aarde hij zelf
+had het zonde maan, en geven maar een geboren
+van het hoofd gelachen, 't zei het kolos.
+als 's hooren en ze dan diep in een ziel
+keeldje die in de dond en ze daar de groote kelen
+van de strale streek.
+
+zoo zien de starrgen galmen naar starren
+begonde bloemheid
+-------------
+  diversity = 1.0
+  seed = achtziek in een schaduwstreek.
+heel lang
+  text:
+-------------
+achtziek in een schaduwstreek.
+heel langs was zwaar municht ladt 't booten blij
+gelijfje, droeffij, en diep in pijk
+voort in zijn zwind, het niet. ''nok is gekee.
+ze en vloog ook bemeeld.
+ranken in gruisbloesin van elkander
+van klankend in een stergelieëneis,
+geleunen wel eensreloofsch. zoo nietuit.
+de witerslong, 't hij zoo als een armen,
+dag is het drinken vroed in 't woning, blakk
+toen de staan een zomer -- en zijn in hun,
+beklijke i
+-------------
+  diversity = 1.2
+  seed = achtziek in een schaduwstreek.
+heel lang
+  text:
+-------------
+achtziek in een schaduwstreek.
+heel langs, twee stonden haar op de bralevkom
+van 't jong hoe zooj wachtsgeflik zwart van denuwechogen.
+ en mannevelerroomen en de maan en doogerhalu
+terwijl de sleegebeigde
+en water hoort in hun bezienz'iet,
+en ruiste als den hals den allen bonddenwos.
+
+splommelend voelde hier, al een zalsen licht getaan,
+rund den lage sneeuw weebonde ingrichte gruin.
+zoo sprokeling: als ranen hoogen wassen
+lichter doort 
+-------------
+
+-------------
+
+Epoch = 29:
+  diversity = 0.2
+  seed = t den lentevogelbek
+ontwelt; maar wodan'
+  text:
+-------------
+t den lentevogelbek
+ontwelt; maar wodan' en het lichte woning,
+met zag ze was 't was als een stil en handje en het heid
+langend blinken en wij weer het helds en heeft
+en volle de groote vreugd verlangen
+en het niet, mijn geschreiligen, waterschauw
+de straat, en die schamulde werd door den gelangen
+van goud en blijft als een stroom dan.
+die stond er van den bloem heen en bij
+en dat zijn de straat,
+en stiltere het hemellen van de stem op 
+-------------
+  diversity = 0.5
+  seed = t den lentevogelbek
+ontwelt; maar wodan'
+  text:
+-------------
+t den lentevogelbek
+ontwelt; maar wodan'ling,
+hij ligpen en de groot zoo den heuvelten,
+die stond was als een ruimen en de stem
+en stil van muziek en mei in hals en
+een stermeid als een vliet, het was als mij
+van staan, handje en de vlucht en klein
+van de zien op een menschenstond in een kind
+heel jonge windblak was en de open nacht.
+
+
+en zijn zijn zag ze haar als stil en het bloem
+van gouden hemel als een groomen, en groote slopen
+en z
+-------------
+  diversity = 1.0
+  seed = t den lentevogelbek
+ontwelt; maar wodan'
+  text:
+-------------
+t den lentevogelbek
+ontwelt; maar wodan's, als nu den stavondlijk
+lag daar stil van rijk geurd, het zagen woud
+en de ruimoen neen om de lueden schreeuw
+de weidel, kleurd aan 't oogspeelsompechoor
+als zijn enstangen valle langzaamvaar
+bij de toi. mos nogen volle voor hant,
+zijn donkerd, in zich het lenen indeen, manne
+dauw in de nevel. handen vlind,
+en boomen. 't waren de zon hiel, en drijven bloom,
+een range een belsmerde, op een schijn
+-------------
+  diversity = 1.2
+  seed = t den lentevogelbek
+ontwelt; maar wodan'
+  text:
+-------------
+t den lentevogelbek
+ontwelt; maar wodan'sbij
+ver jonge gosten, zoo gofwijl was het furi
+o iena
+alpooruw gefijkt, maar elk zij nu o henk,
+het houdstulptuld en de wind ook lieven val
+van din lagde, meprijdachtren bij,
+haar : ik bij ied're donkwin gaedover, wen.
+ze zonlig drinkte op marmen
+in een heer gaf ze open en gladde kleind
+heel had ze gingen vroeger vlomp'nen niet, weehoom heeft.
+hem zijn waspen zijn ondedvreug
+of en rijke en laat; 
+-------------
+
+-------------
+
+Epoch = 30:
+  diversity = 0.2
+  seed = 
+een vierkant veld met bloemen, opgerich
+  text:
+-------------
+
+een vierkant veld met bloemen, opgericht.
+en zijn was zijn zuiverwind dat legd
+de strand: de zwart het haren van den hal
+van de zon haar verhauwen licht, en hebber
+en boomen en haar verder, 't was een stroom
+en haar ver getoord' in een groot: '''her niet breinen de glare gegroren.''
+het is de zon zijn gerulden en de groene kind
+zicht het zonnelin, ze voelde ze zwaar bij
+haren en het lichte zichten, en zijn gerucht.
+en zijn zong nog nie
+-------------
+  diversity = 0.5
+  seed = 
+een vierkant veld met bloemen, opgerich
+  text:
+-------------
+
+een vierkant veld met bloemen, opgericht.
+
+
+en waar in 't lachte en de straat, en zoo luisterden
+naar de zien.'' zoe zijn ze te zien.
+en van mei gaan en wei, dan moodt aan de rond
+zoo de zag nu veer goden op de meere, daar staan,
+de staan door de zon hoorden, bloemen, en het lichte baar
+van zijn boren doordre al, de stranden
+waar de straat, en boomen hem nacht, te glomde bladen
+van het nacht van het gerulden en alle gras,
+toen was is e
+-------------
+  diversity = 1.0
+  seed = 
+een vierkant veld met bloemen, opgerich
+  text:
+-------------
+
+een vierkant veld met bloemen, opgericht
+daar van lichten als de dinggonne k,
+en zag heel ben opglittend, want er kon
+sprakender sloofdend, mijn hangen lauterschaal.
+
+maar lei, toen verder het neerbader.
+wee zagen waar zinnen vol grimp een boot
+zoo gakker rood en handen, dakken weer: ''
+op zijn haren, langs schamert ze, wilde maal
+cra nes een dst door den engrijk en zag
+open op en dat sik ha', eene nog het flam.
+
+zoo loode arders rinke
+-------------
+  diversity = 1.2
+  seed = 
+een vierkant veld met bloemen, opgerich
+  text:
+-------------
+
+een vierkant veld met bloemen, opgericht
+zweg: de zwart genaar die te grom,
+en wisgelzicht geschremen doorgelip, en wachten
+met bekweppij, marmen na er kalmlen, van d'n tervoog te gena.
+met hopen ze hoorden ter verkgerstafden.
+doorst van een toen hader tot den nacht.
+hij stons benauw dat hij baadt. in dieppaf
+waar dat wal verbring
+hem nam hem ooga bangen in het taf
+zicht had dezucht ver wensch
+is een tot en klkezels, rang kaamonds
+heel
+-------------
+
+-------------
+
+Epoch = 31:
+  diversity = 0.2
+  seed = heen en het in het gras
+rondom mij neer 
+  text:
+-------------
+heen en het in het gras
+rondom mij neer en zijn vlakt de gaan.
+'t langs de groote verschijn woudver dak
+op mijn arm daar heen, de zon hun blonde lippen
+droomen op haar voeten van de hemelwaar.
+en zag ze zoo door den boerm,
+en booter het wond op blauwe lucht
+de lucht droomen op de herfilind.
+hij ligt de zon ziet het niet daar het na,
+toen ben ze ze vergeelend van de zon ziet.
+zoo was ze lang en de maan de hemelwaar.
+en zij zag het zooals
+-------------
+  diversity = 0.5
+  seed = heen en het in het gras
+rondom mij neer 
+  text:
+-------------
+heen en het in het gras
+rondom mij neer en koele klinkt geluid
+en stak den vland met de water, waar
+zijn heel bekeek een droom, zoo loomering.
+toen ze bij met hand daaraarde bijn 't boot,
+van het verschielden in den ster, een vogel.
+maar die daar bij zich niet meer, toen dan de stakken
+van wonder haar, zooals en voeten 't heer straat
+der kloed en breek haar voeten van den hout
+en kust haar hals en bij zag van zijn blood
+en treeg ze daar
+-------------
+  diversity = 1.0
+  seed = heen en het in het gras
+rondom mij neer 
+  text:
+-------------
+heen en het in het gras
+rondom mij neer hoofden, hoog
+van zang maar water en blonde maar legijd
+zijn hoogen van de heete, ver zich hul
+als volt dat schijn was de wind is het nschens
+het luid en voelde ze wolgen mijn hart vonkt
+met den moeilijk leven ze sneldie, en soms een ziet
+wel, maar licht in het draam en bleefte naar vergelen
+tusschen door zijn vollen in reed, dan heel tuss
+niet mei ze, okemeren. -- zij zijn hch een rozebuk,
+beklin
+-------------
+  diversity = 1.2
+  seed = heen en het in het gras
+rondom mij neer 
+  text:
+-------------
+heen en het in het gras
+rondom mij neer maam. moeie het neer toor:
+de zreide toen. of naar staat
+zijn pijnh, het ischemenslachte een tuis.
+maar en 't groszonnneverwindstreed, waaring wudol
+teer, maar het geruin kind. maar dichtig
+
+als dat dat lek was big hem dat bij af op ank
+het dangen omvland in zij bester
+van 
+van rooden; toen lag weiland de aardgeer,
+en stirtetkel een stierste zien noode begen vol
+van licht ander hot wijzom dascheel
+-------------
+
+-------------
+
+Epoch = 32:
+  diversity = 0.2
+  seed = en
+het kleone vee dat de lucht afweidt e
+  text:
+-------------
+en
+het kleone vee dat de lucht afweidt en de stem
+waar is 't boomen haar het neerschoort, wat d'aar heen
+op effel op den hoogen boven haar het gerucht.
+en ze de straat, en de straat van de wolken wanden
+hij daar begon te zien, de straat.
+
+en groote werd in den hoogen van de steen
+en lang en de drijven als een steen,
+zoo wel weer de luchtblonde ziel, een gerucht.
+en ze de staan op den boomen' en het kussen
+van de slupen op den boomen' ee
+-------------
+  diversity = 0.5
+  seed = en
+het kleone vee dat de lucht afweidt e
+  text:
+-------------
+en
+het kleone vee dat de lucht afweidt en de wond
+en donk're en ze liep ze verbronde stijn
+stoofd geluid haar hem nac; te zicht, de steen
+den steefde heiligt en het geruderslied
+ging ver de steen en grasbaar den sten
+kreppen deur, het was een dreven blond weg
+van goud in de zonne schoot en breede gelat
+een went dronde slilken drong: er zelf 
+en nog ik bloemen, die over de wilge gelang
+van klanken van den hemel het blonde luid;
+zoo drink
+-------------
+  diversity = 1.0
+  seed = en
+het kleone vee dat de lucht afweidt e
+  text:
+-------------
+en
+het kleone vee dat de lucht afweidt en den slong
+de rijdren loemde van d'n vlalten hangt en het goud,
+hun muiten en het konder, als ik aan 't vuur
+en kjonkind'en staat aan den boomos, en hond.
+en lacht een -- niet meer, de zon ze hij ver
+alde zie begonde
+henschijn, zij haar voete staan, om het neerslond
+op de ding, het velden weer en kwamen teer
+ging en rinsde de tritte waard maakten
+ranhier het voort' en rank, die bij zee
+zaten dokk
+-------------
+  diversity = 1.2
+  seed = en
+het kleone vee dat de lucht afweidt e
+  text:
+-------------
+en
+het kleone vee dat de lucht afweidt en den drong
+zweis in gedaar bonten hemel roch,
+met blader, dan scheltend ze bij eerst
+zaten en licht, van winderschriewen, en hij te toens: rim
+gelicht gekreefden dunnelkensteerschreis
+hij bemeke vogel aan, een ruinenaar
+haar, het zijn voeten wierwandde in dien scheen.
+zij uw geele voetjes van mid; noken om 't
+vielde weer in weed toinen kom.n
+klein en zomer over haar, den navelde --
+toen tranen ha
+-------------
+
+-------------
+
+Epoch = 33:
+  diversity = 0.2
+  seed = innen zeil, een kind...
+wee, wee mij, nu
+  text:
+-------------
+innen zeil, een kind...
+wee, wee mij, nu ze niet de rozen bon
+ze dan was ze als een groote woud
+gewij zij hare lichte prillen, een water groot
+bleek, de witge wij was ze naar bezijn
+zooals het wolk den tonkreen van den boet
+gelijk ze al voor haar oogen boven en kon
+de lucht geluid de zon haar oogen stap den schoon
+breiden en de zijne, daar stonden
+over de zon langs de straat waar zij wel weer
+en stiller en de zon zong en een groote wege
+-------------
+  diversity = 0.5
+  seed = innen zeil, een kind...
+wee, wee mij, nu
+  text:
+-------------
+innen zeil, een kind...
+wee, wee mij, nu ik er er dat ze daalden
+rimien een gelkoordam,
+zooals het zijn vogelscheer zijn den kleuren
+en staat in 't licht de wolken op de blaud
+der slonge zie opge steenen en geen 't wond den grond.
+dan bij om haar oogen van de slonk
+en verters in oogen den stroom het heen,
+de heel haar arm en uit den stroom gezaal
+ge mangen en ver af, en alle slokgen boot
+gelijft waar zij langzaam waar een groot;
+hunvend
+-------------
+  diversity = 1.0
+  seed = innen zeil, een kind...
+wee, wee mij, nu
+  text:
+-------------
+innen zeil, een kind...
+wee, wee mij, nu niet blauw lachten
+boven een boom het tot gingen valle open
+en van haar arm en beneede zie nog zou,
+rondroo toog zich in hare hand en breedt bleef haar.
+zwijgt, om mannen want uit land haar. zoo leeg mooden: het muzken van
+het konen de omzie stusteblijzen als al een vlamme
+de zijne noch enrig, en kwam ze ef daat veel,
+wolker legen rood en reek'ning,
+buigend dat zij daakterwou
+en bloemen, een wate
+-------------
+  diversity = 1.2
+  seed = innen zeil, een kind...
+wee, wee mij, nu
+  text:
+-------------
+innen zeil, een kind...
+wee, wee mij, nu 't lents in onterenal
+het woldwoort ging en een vlapge nuistraasch, daakt in
+verrezen stroog, zoo was ze uit de hingsgemoorden nietdat,
+adelkurt aan gespiegelend zichig ween
+roeit dit aan en snelver, walm of brommen.
+een pare
+
+fonlijnaar mannen in dedonklaav kindte daar
+bloun hanrem in vloolt en vogelkens tapp
+bladgren van jegen boomenheeld.''
+
+zoo bootdewis, tusschen keek nog ontbout.
+hij ladd g
+-------------
+
+-------------
+
+Epoch = 34:
+  diversity = 0.2
+  seed = eg ik uit.
+en langs het strand ging ik m
+  text:
+-------------
+eg ik uit.
+en langs het strand ging ik met mee
+de zien beziek
+ze zat, zooj zag ze ze zijn, gij mijn hart, een groot
+van handen van een groot: ''moet stil van
+van goud van de lucht gezicht, zooals een gelijk
+ze zatend ze daalde de stroomering
+gelijk zie in zijn hand als een groote vuur
+van de stroomend, dat dat zij haar het gerucht
+geluid hoort voor het godden en de stroomelint.
+
+
+daar blijke de lucht gezicht, het zijn hand
+dan stil van 
+-------------
+  diversity = 0.5
+  seed = eg ik uit.
+en langs het strand ging ik m
+  text:
+-------------
+eg ik uit.
+en langs het strand ging ik met mee,
+het legde op en naar mijne voete gezicht
+als een voetjes hij water komslond
+zoo als een grooten zoo welde donker,
+een groote voor, een popurest. waar de straat
+van water laat op de kleuren twee zwaan
+zij huiver op de zon haar vingvling gaat
+met de wolken laat mijn mond, toen voeten
+van mosch haar bij zuivligen van de wind
+eve vogel staan, de staan bij hem nu naar 't voort
+van de stroomedro
+-------------
+  diversity = 1.0
+  seed = eg ik uit.
+en langs het strand ging ik m
+  text:
+-------------
+eg ik uit.
+en langs het strand ging ik met zijn blin.
+dag zij -- toen leide lijkend in gouden ziek.
+zoo zijn zij wolken voor haar en het aan,
+verdring nevelhoorden.
+hoog is de na
+man schemer dangende gefleilen nochenhorch'.
+wordt ouder blaken, ik bonnei,
+en wolken en hoore
+van laat volking brott de rom, u -- zij zij heer,
+het huim in de drand licht stofsen, terwoord ging
+op midden ze stond in 't duin, komen stor.
+
+zoo schig zat, het was
+-------------
+  diversity = 1.2
+  seed = eg ik uit.
+en langs het strand ging ik m
+  text:
+-------------
+eg ik uit.
+en langs het strand ging ik met rot.
+toen werd zede zoo wergstaan zuiten en het hal
+naar vochte dwaat verhiet, toch is zijn schoed
+een geelaat op bloos de schoon klompelij,
+van doodje vak zic
+pussen onkuur op.
+en tween even dan muziek was milg oenard
+schouwde daar stroomde en daar ston. nog 't baden, dak
+in 't rondwier, ze voolbuss wadert de mane.
+nu bonds niet, me op eene suippil, wand.
+en 't lichtgesooi, de gelkelpemout,
+zo
+-------------
+
+-------------
+
+Epoch = 35:
+  diversity = 0.2
+  seed = ven met geween
+zag komen, zooals vrouwen
+  text:
+-------------
+ven met geween
+zag komen, zooals vrouwen en de slonken van den hou
+der sleepen op de wolken van den houige stem.
+
+en zag ik niet geslakten in den halvlacht.
+het in hem open toen van de wolken handen
+zoo als een wind dat was een vlaggeen koel
+een vogels en de groote zoo der duister
+en waaron zijn ster gelijk, zoo sloemen op.
+de straat en bij zonneste vlagen en de stert
+een wat u boot gloed en hooger en de goud
+en bij het niet bij het mei
+-------------
+  diversity = 0.5
+  seed = ven met geween
+zag komen, zooals vrouwen
+  text:
+-------------
+ven met geween
+zag komen, zooals vrouwen in een blanke rim.
+te zijn de lucht als een slaapschaar muziek.
+toen maakt een staan en vol ver vochtig vreug?
+
+toen ze ze zei ze, hij land en beeldje en te zien
+of ze daar komen waar de roomen en de maan
+tegen hare oogen langs de andervrouwen en geschuim.
+zijn hoort en vogels op de belven openur en een wij,
+en zoo liefden in de zonneluin,
+en zwaar voel in een slanken in een koud.
+daar liep de wa
+-------------
+  diversity = 1.0
+  seed = ven met geween
+zag komen, zooals vrouwen
+  text:
+-------------
+ven met geween
+zag komen, zooals vrouwen haar mondren. woch niet
+belakken in naar of een vloerwijn dan de bloem
+en bootstaf en haleiken haar hip verwoogen.
+hoog in zijn vlang van metroom laar kin
+ge zijn zonlied kunslacst 't van haar heen
+basdslaat stond een maneerd aan een slok
+langzaad, zoo t 't gerusste zwaalt gij kerklen sloos; haar water,
+zoo sjonken roode en zich treeft en nu twaag,
+zomer, het vaagt is een vogen een maak
+zijn ook 
+-------------
+  diversity = 1.2
+  seed = ven met geween
+zag komen, zooals vrouwen
+  text:
+-------------
+ven met geween
+zag komen, zooals vrouwen van elkaar, roon
+viel ik zagen wat dan hare avondren als een gang
+ver, bijnveldoog
+haml melsbronder zoeken nu nog zingen vachtt,
+mijn zuilland'ren
+der morgen procht wonder gelicht, hijd: hij die tocht
+en rozetroom wol mij, mij niet hoogen ogen en iettwaam --
+in voor welk e'reiland laam van  als die volbenen
+van wanken die door 't dangs belven in een gestrootheid.
+die liefde ze uit de
+voel een maa
+-------------
+
+-------------
+
+Epoch = 36:
+  diversity = 0.2
+  seed = drinkend den slaap, zonder gerucht
+blies
+  text:
+-------------
+drinkend den slaap, zonder gerucht
+bliesten op de boomen' en het godschen,
+en zijn goud en zong en de lucht als een goden blonde driep
+der voeten terwijl de sterren, de zon
+verweerwitte wenschen en de zon
+verdwezen op de boomen.
+een wijger en de zon waar de wonden zong
+gelijkend, en de zon waar de ziel
+geen speeld dat wei, daar zie, daar bij
+van vroegend de wind van mijn en ze als een goden blond
+ze, zooals een voet geboeidde het wel.
+
+
+-------------
+  diversity = 0.5
+  seed = drinkend den slaap, zonder gerucht
+blies
+  text:
+-------------
+drinkend den slaap, zonder gerucht
+bliester was een koud in wiegelken
+en zag bekierer weidde
+spelken van een groote gedoog
+en zongen in de verder droeven kon
+van 't wonden schrikte en ze altem heen
+van haar ang van de maan en het rood
+de lippen en kon nieuw geboeid en ze daar water
+van boogen op de schoot en voeten.
+en toen wij ze toen stond den vlammer
+van zonnermoen bij zaar mij toen haar,
+zij; toen zei zijn en of met een rood
+daalde 
+-------------
+  diversity = 1.0
+  seed = drinkend den slaap, zonder gerucht
+blies
+  text:
+-------------
+drinkend den slaap, zonder gerucht
+blies, en snaar dan stil en weene wolken
+en die een priep, of alsom daar vingertrilt.
+zoo is het lachte en over zich aderen, waar ver
+avond dat ze heel stil doorten in die plaat
+die treeven toen, een was als de verde wolk
+verguld iken muziente, de nacht
+gaat ie steenen en zijn elkaar,
+leek zij zelte eerst en dat weigen in d'en min
+leek een kindje daar er of
+in vroegend en de vroot, en waar jonge zag
+ze
+-------------
+  diversity = 1.2
+  seed = drinkend den slaap, zonder gerucht
+blies
+  text:
+-------------
+drinkend den slaap, zonder gerucht
+bliesschip mijn ingebert en vogel mooden: 't leu
+door de gas ze raas, nu badondre goden, ; gaar
+diep, schluduren eensgebrolven wint,
+zijn ischer ripplend welen nog vang mijn.
+gij ligt water moodens, 't gchagzag droomenwint
+rieprelieken room in schapen van opepausm
+en ze koel scheellichtrochenslogd wobber
+
+in den dloed op benek, is gen dacht.'' het verder naat
+hij niet, komt verscone' graarden in lichtg
+-------------
+
+-------------
+
+Epoch = 37:
+  diversity = 0.2
+  seed = wat daar blinkt;
+hoor hoe de nachtegaal 
+  text:
+-------------
+wat daar blinkt;
+hoor hoe de nachtegaal van den heiden
+zooals een schiet, waar z' heel bleef ze, was 't was als een gestort,
+zooals ik kwield, en de zon vuur geboom.
+
+daar klinkt is het dreef op den schoonsen
+opge verbalder in den dreisboor,
+geurden heen hem om en door de zon vuur
+of ze en zich de roode welken
+van de zongen van den doodschaar,
+zoo liep ze hare licht, die van wanden staan.
+midden zwonder staan mij het land en haar kind.
+
+-------------
+  diversity = 0.5
+  seed = wat daar blinkt;
+hoor hoe de nachtegaal 
+  text:
+-------------
+wat daar blinkt;
+hoor hoe de nachtegaal van den duidheug
+van haar schoonen van den drempeldonk.
+de zwart en bloemen kent niet blauw
+hun lang en hooge achter het glom.
+zij zei het duinen keur ont, daar lippers
+elk zel. en ze was de dord, maar stilte wil
+onbehoord, zoo liep de wade maan, het was zijn
+schijnen de zicht, er in diep: ''bij benoten,
+daar ligt van het schoof voelde ze en klapten
+van mij heen op haar oogen onver boog
+ge heel te
+-------------
+  diversity = 1.0
+  seed = wat daar blinkt;
+hoor hoe de nachtegaal 
+  text:
+-------------
+wat daar blinkt;
+hoor hoe de nachtegaal en een herwond.
+
+waar eegen vlak, en de avondvlaag en
+hij den cht en op haar tand naar geklaud
+het kunt haar kind. en weer stap -- zoo staan.
+zoo liep ze hun der donker als een rozebedren.
+haar windelijk gewasgelkons
+ge zij, vol langzaam danverwoor heen
+van bootrifchit, hare borste rozebis
+heel mij keerezingen
+brennen spieust werd nam haar polf is knikt
+oppele haakte,
+als handje een ze flijven hui
+-------------
+  diversity = 1.2
+  seed = wat daar blinkt;
+hoor hoe de nachtegaal 
+  text:
+-------------
+wat daar blinkt;
+hoor hoe de nachtegaal geteer.
+hen gaf ieer maal elk er tusschen vol
+al een af aolven achoen in den dronk;
+hap straalteid voorij hun lazen civintel.
+ze del oog een hrijs, zag het is het 't wonin
+schelle muroerden tat de workt gezween.
+de zeeuws van den moekboot, die warten,
+lij. ze breek te is den hielder witrnaar
+met duide zeilikwik.
+zoo sprekt blauw laat schudd waart als den vonen
+en avomden, maar nog bis met langs en
+-------------
+
+-------------
+
+Epoch = 38:
+  diversity = 0.2
+  seed =  schelpen -- op haar teere kaak,
+vochtig
+  text:
+-------------
+ schelpen -- op haar teere kaak,
+vochtig wel den houid'ren hoogen straat.
+
+en zoo zich haar het niet, maar stond is vroolijk, en de groote glaren
+van goud en de ziel,
+en heblen zijn en het duisternijn, de wind
+wat ze voor haar van zijn aarden en de wolk
+en boomen stonden in haar oogen van den boer
+van schuim met hemelend en haar handen van
+der grond blij stond in 't hellind, het werd den schoon
+van hare luid, dat ze zich haar en zat
+of 
+-------------
+  diversity = 0.5
+  seed =  schelpen -- op haar teere kaak,
+vochtig
+  text:
+-------------
+ schelpen -- op haar teere kaak,
+vochtig ze haar het nacht gelicht zij heid daar 't boog
+en hoog, toen ze zoo te zien de lucht zoo als een groot.
+de hoordrond, maar de glomde zoeten, dang
+de straat mei de lucht die van de maan zich breek
+ze langs de aande in den slaap, drijven van
+ging aanbolwen van den heid
+en vogelken, daar hoog ging ze, dat zich het bouw
+en voelde de zon stroom land en vulde straal,
+zij gaat en 't wonder bij opgablaz
+-------------
+  diversity = 1.0
+  seed =  schelpen -- op haar teere kaak,
+vochtig
+  text:
+-------------
+ schelpen -- op haar teere kaak,
+vochtig wel dalen en zich warte dicht
+branden alt het rood dei maan, kleine wer,
+en horen water: glorde klicht.
+bladen ze boeide heide, droeven wint' en weer
+klekurend ging ze, ontonerend, en zei hij droogen.
+dat de knelpijkt, rimplken en van haren,
+snelden en er bij haat op zijn bergen.
+en ding die door het nu dugnugen meert'
+en oog schapen voor den dag die van klank
+baarde dit door d'en niet de glompen
+-------------
+  diversity = 1.2
+  seed =  schelpen -- op haar teere kaak,
+vochtig
+  text:
+-------------
+ schelpen -- op haar teere kaak,
+vochtig gezwemel week een maan vuwen
+draagt waar donk, nog nander il verschiet
+ieskands, hoog van onbegr-de twee van een vlak
+die is nebtweeuwde zoo hun palte de prie
+en hun en hemeltklenge nevel. dat toen,
+dat zster hij dank, trigen vurt en avondt
+der scheet nu zoo hoe zoo vols geboomden
+vreugd met zocht viel muziek een schat
+hun naribuw, begon mijn krappen af
+toen ze ze zag zij ze zwart meer, en grij.
+
+-------------
+
+-------------
+
+Epoch = 39:
+  diversity = 0.2
+  seed = ,
+jonge en oude goden. mei zag z'aan,
+en
+  text:
+-------------
+,
+jonge en oude goden. mei zag z'aan,
+en zong ze als een groote vroot, en dat was 't boom.
+toen was 't bosch door het in het wonden.
+en zijn gelijkend' in het zonnelind,
+waar de dam de straat was het water aan,
+ik zamen er het het donker werden donker bij
+van handen van de zon hield dat het zonnekkoel
+van klanken en de hangen van den houid.
+alleen was de straat, en hij de wind en van haren van
+een groote vreuren schoorde zien.
+zij zag z
+-------------
+  diversity = 0.5
+  seed = ,
+jonge en oude goden. mei zag z'aan,
+en
+  text:
+-------------
+,
+jonge en oude goden. mei zag z'aan,
+en zong een volsterde ik heb en ze hem,
+want niet het loops de water, een volkte 't zonn:
+een groote vervliefde in geblakkerij
+
+te zijn geschreeuwit met de hemelstend lachen
+van sneeuwlijke stonden dat was het koud,
+en zijn tonge blijft wij van den horen, groen.
+
+en hij hij het bewog voor den gericht.
+en zaten als een groote vroort.
+en zijn arm en waar en mijn poorte helt,
+en een broei, de volkte ve
+-------------
+  diversity = 1.0
+  seed = ,
+jonge en oude goden. mei zag z'aan,
+en
+  text:
+-------------
+,
+jonge en oude goden. mei zag z'aan,
+en volelke tot haar af ze hel, ze ouden wang
+en 's toezijn met zich en donker 't helen,
+geen stond in het tonverwijnen, en roosbroeit,
+of boots, van muzien op hun konarom
+gerimengevronibij?manm.
+toen is een slankvend dan den groen grau
+vieren geduin doet een tijnhaar werde,
+ze breide toen het een cht ; niets meer,
+ze zei naar hunhelst, kuste de kijnt, roud
+doeder en haar kjeureg slief,
+de verde nach
+-------------
+  diversity = 1.2
+  seed = ,
+jonge en oude goden. mei zag z'aan,
+en
+  text:
+-------------
+,
+jonge en oude goden. mei zag z'aan,
+en trep horgschat het wel'en welke
+ienal, maar de armen, aachten eerste ras
+het wreiten romdem als een vogen den bou
+mei, het lang, gij lagte kim, hun leeg: hij bannt
+het voelt erkeers sche'ten nevelbeidin.
+hij ssudeona't in de zon naast hij nacht
+die alle leuren dak dan het vergulden,
+van 't hami, der sterrend mosscherenij.
+waar d'e wolken, hij niet door prooft
+lucht, dan wel nachts vervelt diep, e
+-------------
+
+-------------
+
+Epoch = 40:
+  diversity = 0.2
+  seed = eur die van hun schouders leekte
+en in d
+  text:
+-------------
+eur die van hun schouders leekte
+en in de stem'' in 't donker van den heen
+van de wind dat verdling ontboogen werken,
+en diep in de sterren, dat de straat was 't was 't zoo werken van den heed
+en brande zijnen bij
+van de straat van hare lichte rozere,
+dat ze ze voort, het was als zonver zich dan
+de steente waar de donkerdrijsen,
+de straat van hare lichte maan en de stert
+de stillerkood en boomen.
+het was als een rovers het nu het gerept
+-------------
+  diversity = 0.5
+  seed = eur die van hun schouders leekte
+en in d
+  text:
+-------------
+eur die van hun schouders leekte
+en in de bergen vallen, het was als wass'len
+van goud ik gelijke stoofden stil
+daar de verder laat en bekelend van de wolken.
+en alle zag ze, haar wel nu naar haar en boot
+van hare kjeur. hij lag ze stroomden en zich dan,
+die vrag zat ik mei en hij zij op mijne geproei
+diernest en het oogst flikt in de vroegen
+gelijk was het rood en toen de graan
+scheren ze zoo als ze van booten rijk,
+en dat geel water, 
+-------------
+  diversity = 1.0
+  seed = eur die van hun schouders leekte
+en in d
+  text:
+-------------
+eur die van hun schouders leekte
+en in de windvanen lippen en lijk,
+en toch zag op bouwe straten, wenter
+kwam stond in oogen, toen gingerlijd zal.
+en zoo gezigen van den evelsmert
+lag waart de zon wijd'ren. tot mar menschen.
+en zwag zonnzwolkerding der zomen die 't daar was
+van boven op hoorde --
+
+naak was ik ik dam vergaten en vroegt
+en ze werd hem oog den kopelen
+van water stoeden, watrren en alzem
+de : er een rijpschat van rooden doo
+-------------
+  diversity = 1.2
+  seed = eur die van hun schouders leekte
+en in d
+  text:
+-------------
+eur die van hun schouders leekte
+en in de laug, gorgen zet, wijt is alle,
+de stranden krulpte ik, over stroog mee
+kleurd en bloemen ik wens, of een het in
+toen 't roethoorenbleed en burg ze, mijn goud.
+de zeint in duinvierde haar, 't vreuwd kwam.
+
+lied is romme. ze gefijden trekweig
+maakden de wolken. rudde mijn gloed, maar
+als om ze lang, o 'kf zacht sneeder stil
+nog niets eind'erkelken uit de steskelvogt
+boonennachtklonnig, en den gee
+-------------
+
+-------------
+
+Epoch = 41:
+  diversity = 0.2
+  seed = oveel tooi
+niet aan den grond -- het lee
+  text:
+-------------
+oveel tooi
+niet aan den grond -- het leek den hals en haar verbaad
+van hare liefschiet geboren boomen.
+het was ze langs de aarde weinen en de sterren,
+de straat wat was een slicht naast blauwe glant
+de lucht bloem en klein straat was een kind
+zet den stem dat was een slaap, treppelend en de straat
+hier boomen en de room en hoorde hijsen
+opgericht, en hij de groote vreugd voor haar kind.
+en zoo welde zich het zijnen der groote vreugd
+opg
+-------------
+  diversity = 0.5
+  seed = oveel tooi
+niet aan den grond -- het lee
+  text:
+-------------
+oveel tooi
+niet aan den grond -- het leek den hemel blij
+geeld was zich de armen rozeboss
+stonden met mei zachtk: dat licht voor haar rond
+opslaat en het donder stralen water, het niet,
+''maar de zijne voort en het donker wind
+en langzaam warme zwaar voorbij, dat was 'k boven
+haar wangen aan den sterren, die daar stam
+in 't rondom haar aangestroom,
+zoo sliep ze het legen voor den dood en het schat
+die stond er staat en op de zon hoort.
+
+-------------
+  diversity = 1.0
+  seed = oveel tooi
+niet aan den grond -- het lee
+  text:
+-------------
+oveel tooi
+niet aan den grond -- het leek schaduw.
+strokt is hij boo rimmeld' en haar haar gesteg.
+
+en kolsjes en rood en om haar zoet uit.
+
+en zag hij draagt aan een radzoovel van
+sprak: maar lijk voor vijl voor 't rijk op, haar boosgevloegen bonen
+terzij, wiermaar en streele gromde nacht.
+het fijk zk haar eene gelijk voor godenpaard.
+
+den kerkleurd ge en 't trad schap liep drijvier.
+die was was d'e witge peele zangen der nacht.
+en moo
+-------------
+  diversity = 1.2
+  seed = oveel tooi
+niet aan den grond -- het lee
+  text:
+-------------
+oveel tooi
+niet aan den grond -- het leep apselsur uit.
+mamen  s, verellend dcgroerde toren in.
+zij bij zoozuiver heeft vol voorbij kerspen die kleenst woroohen'ren
+omhoog, trepen uit smaalden 't tot oppeur
+deel. en spadegen meermen teskee op de rucht
+geuwep deg en hier daar tondervloeg
+tan schuwm en de groenen lemerhauw stoosbrug.
+heel zicht ging en rond gaan, meer
+als een goud logen diek ze stonde
+den strale water kwam zoo droomechaav
+-------------
+
+-------------
+
+Epoch = 42:
+  diversity = 0.2
+  seed = jne voeten schommelden, ik ging
+boven ze
+  text:
+-------------
+jne voeten schommelden, ik ging
+boven ze, en toen ze bij zich een koet rood
+van woj waren voelden in den hemel opgeboom
+de zangen van de zon liefdepriel op den hooge
+heen was den houihet meer, daar stil lag daar heen
+op blauwe scheppen in den halden en de sterren,
+den schaduwind de haar heen te hebbe
+
+zoo zacht hem daar onder de wind zet en daaraan
+zelve kindren en met haar heen te zien.
+een geelven van het wonden laat er als een kind
+w
+-------------
+  diversity = 0.5
+  seed = jne voeten schommelden, ik ging
+boven ze
+  text:
+-------------
+jne voeten schommelden, ik ging
+boven ze niet warmen woorden in het schip,
+dier verhanden als een golven bij aan.
+hij roode zijn gelach, en hij hier, en verder
+als bij een voetje en het donkers blauwe stert
+in een raad en blauwe kind, te zie,
+daar velde zicht en hoe zoo als te ziel,
+en voel in 't gouden door de groenig el, ze sprak.
+ze zat ze niet meer, een ruim, en de straat
+water, hun de lang en geele wilken, en een kind
+zet daar bij 
+-------------
+  diversity = 1.0
+  seed = jne voeten schommelden, ik ging
+boven ze
+  text:
+-------------
+jne voeten schommelden, ik ging
+boven zeslood ook weer dat vergelend opgeboom
+als ze, mijn goudomt mijn marmen in 't jaar vogels,
+kwamen in een tuindakten, kijnen sloozen,
+had mamer heel blonken om haar en de aarde, als zijn
+doed en twaeeligenam.
+hoert veel van boos als haar geleur
+stonden beeld in haar mijn verhalenschoop
+die al haar en de zee werd in de gruinvroug,
+bosch. zijn uitgeslakken waar de lichte,
+we
+tegen de met open mei: de 
+-------------
+  diversity = 1.2
+  seed = jne voeten schommelden, ik ging
+boven ze
+  text:
+-------------
+jne voeten schommelden, ik ging
+boven ze, er een kamoenzied droompeloos.
+o doot 't het bolge en droegendijs, mtorgenus
+van de flomen in keld' en met meerzwaakt.
+
+en zoo sloden glootenam en zijn mom.
+''met zeele of en zomer moo bij ze rompen,
+onhoog.
+en een nest, en ze was voelt den zomerbij,
+en rondje, maaktrak licht voor wee, aan.
+twaar ganzen 't zochtenste voelwijl opgescavel.
+. ze
+bij dan staart bleeden aangericht
+als gingen gaf als 
+-------------
+
+-------------
+
+Epoch = 43:
+  diversity = 0.2
+  seed = 
+de vloot van sterren week weerzijds en 
+  text:
+-------------
+
+de vloot van sterren week weerzijds en boot
+van hare licht en booten en ze was en 't gerucht.
+en zongen van den stroom te wensch
+met licht en kleine streellen, het was er
+van stroten en de lucht geboren
+van goud en blonde zijn vogel geen droom
+van de gruinen stem de zeen, en de straat
+stilden ze zoo liep de lucht geblauw en lang,
+de lucht geluid als de zee vogels rijk
+droomend opgescenen door den heuvel en den schudd.
+en toen ze zoo li
+-------------
+  diversity = 0.5
+  seed = 
+de vloot van sterren week weerzijds en 
+  text:
+-------------
+
+de vloot van sterren week weerzijds en staart
+van de wolken van zijn vloet de zee, en den heuvel
+en meizen en diep in gontesde blauw
+en van goud er nu op blauw gevuld, en dan breek
+hij daar velden schudd' de lucht maar een
+als een koud, den bloempaaarden
+van de straatweid en ze was en blond
+van wangaarden en de lucht geboren, die uit
+en gruigen toen de zwarte zuinten,
+en toen ze langs een verschie. ze dan den schelt
+het londe zijn geli
+-------------
+  diversity = 1.0
+  seed = 
+de vloot van sterren week weerzijds en 
+  text:
+-------------
+
+de vloot van sterren week weerzijds en beg mei ven waren
+geluid als voeten de straat en kjone
+dken gebloemttechtens
+hoorde weizinnen stemgeen kried, en stem.
+hij wat een groen -- zoo armen handen, als mijn jonge,
+wijl 'k kleen wist ween, het was ben om.
+toen lag ze zoet eenen tonst'lmen beneefen boom
+het welken romden al grooten van den vlucht,
+lang is het as dat door de maan,
+maar langs het held te gepijren van oogen
+
+te zii: gaal, id
+-------------
+  diversity = 1.2
+  seed = 
+de vloot van sterren week weerzijds en 
+  text:
+-------------
+
+de vloot van sterren week weerzijds en goden.
+daar heel forwhij in den ander loop
+en mond, en een ark, en built in haar opschen.
+het kropfil.''
+met zelverde van  snogen droeit en bonam
+lekende scheppen onzebant..'' muriel,
+die luistren de ging -- droost een wei zicht.
+zoo bloed het onder nietzint dronk en green
+ons dan zie op 't vreuwd en verdrichtig
+slom dan wit, 't ademlij anders met toen op teel.
+en stieten en haar waterwolk als ned
+-------------
+
+-------------
+
+Epoch = 44:
+  diversity = 0.2
+  seed = 't gonzen van de golf dreef voort
+helder
+  text:
+-------------
+'t gonzen van de golf dreef voort
+helderd aan de lucht geboeid geboeid.
+de zwart en konder in de zon en de stert
+een kolmrijs, toen ze en die haren aan d'en stergen
+gelaten en de steenen, en de sterten,
+de lucht geboeid op den boomen,
+en zij verbland de aarden van den hemel en staat,
+splond en de steenen in den hoogen stem.
+
+soms was er hemelspeikst het heen,
+en als een groote vrouw gelaten,
+het was een gedagen die 't godden haar het ge
+-------------
+  diversity = 0.5
+  seed = 't gonzen van de golf dreef voort
+helder
+  text:
+-------------
+'t gonzen van de golf dreef voort
+helderde de lucht en ook den sthemel adem.
+en in het straken als een kind, zooals een avond
+geboegen wij gelachen.
+en zijn dacht geblannde heel een geblal
+blij ook werd donkels die in 't alleen
+zijn elkaarden als een gekrop.
+zeg vergadden in de verte glazen van het gestroom.
+
+naar d'e zijn licht, wat is een koor een gelijk,
+zoo stond ze boven in de lucht en langen,
+en van ook niet gespel, een wind van z
+-------------
+  diversity = 1.0
+  seed = 't gonzen van de golf dreef voort
+helder
+  text:
+-------------
+'t gonzen van de golf dreef voort
+helderde lichten hem den slieken gaan.
+de maan lichaartboom het land en voelt,
+glant walmmij door 't dronk in haar lucht.
+en achter de open naar haar uite om.
+daar liep de reinen wandelen aan met een wel
+die verbrande, het wispalt, maar nu
+t, die is np 't aan als banderen, zooaar bang
+omdoorde wachten, die werd man mijn geritschen
+hooren lachen en blonde gaatden blek en land
+ze en verder, ver om de luch
+-------------
+  diversity = 1.2
+  seed = 't gonzen van de golf dreef voort
+helder
+  text:
+-------------
+'t gonzen van de golf dreef voort
+helderd galestruige jeusfchad
+aan roode -- ondol die over,
+moilun stroden, juwill voor, een puigt hij waden,
+waar zoo boomen had mij vertel en ord
+van het jondonk in zich daar op de blucht.
+zoo laft in 't wisch mis, vle. ik droomen,
+omdoocrpluurhocht, houdhijuvleet, ik hij ela
+ze verhalens, inn het verbregenuw de rudden;
+die kal al vijke nevenlukden niem
+van kinden als met heel, en kelenes
+eeze hoofd al
+-------------
+
+-------------
+
+Epoch = 45:
+  diversity = 0.2
+  seed = gen.
+o wat verschrikte haar het wisselen
+  text:
+-------------
+gen.
+o wat verschrikte haar het wisselen
+ze doom het land en mond, zooals een vogel
+op de bloem de groote vreugde geef als
+van goud en boomen.
+het was een kindren als een stil en mijn be'rak
+dan banders was en het gouden hals en koele broos,
+maar hij wist zij ham oogen bewogen
+toen ze versamen: de stillervaan
+hij was en voor haar arm en boomen in het gerucht.
+en zag zij zoo als een vroolijk, zoo dronkt.
+maar hij was ze zag ze haar beklo
+-------------
+  diversity = 0.5
+  seed = gen.
+o wat verschrikte haar het wisselen
+  text:
+-------------
+gen.
+o wat verschrikte haar het wisselen
+zijn stil van 't hellen en in de roosbrals.
+
+nog issen zij zag om haar bergjest werd.
+en in de kruld waar en zijn stem
+week was een ouds zoo werschijn, zijn zoo bewogen
+overood.
+toen laag in hand en is 't niet.
+en boog handen, en toen ze zoo langs wand
+het blozen, en de straatwel van heen
+van haar water, duister naam zijn hangens,
+en zag zij haar en of stil en die ister
+in 't wondering, haar bove
+-------------
+  diversity = 1.0
+  seed = gen.
+o wat verschrikte haar het wisselen
+  text:
+-------------
+gen.
+o wat verschrikte haar het wisselen
+zoo geross uit de hoil. en nu koop een donk
+ze zat ze was 't was bezit, die niets meer
+van sloep dicht neuren zichtbaden.
+toen zag zij zoo met de zaal boomen, want zou
+met geruld uit het kleine king
+ze kwam een vogel groote room de reefhem.
+maar weer heul nachts haar. zoo zooofteinken
+boven vroegen staat in het droomen, eken schuik
+van . over voelde op haar voeter gaden.
+rondom.
+mijn bofd met ged
+-------------
+  diversity = 1.2
+  seed = gen.
+o wat verschrikte haar het wisselen
+  text:
+-------------
+gen.
+o wat verschrikte haar het wisselen
+de hoeiling moe koele wacht.
+toen drijken in de blilde wadeguur
+ze afje uit alder boogonderen?
+'''losszolboin
+vond er boog.
+en ijs de breede drinken kruppel in og zungs zoo
+aals kozelend 's nog nu verstond om ook
+bedoogens wakkeren. --
+duistierend, zooaarijz'rong naas
+van zagen, twalen een poop
+hielen zijn zuinrond, bing mik boschzoam
+water muziei.''te vwerend in blood
+van wang van poorts was te 
+-------------
+
+-------------
+
+Epoch = 46:
+  diversity = 0.2
+  seed = en voren op of dreef een juffer aan
+in '
+  text:
+-------------
+en voren op of dreef een juffer aan
+in 't bosch gebladen maakt, die stonden
+zijn zwanden van de stem
+en bij zich gezicht, en de zee haar blinsch.
+zoo liep de stil, het licht en het zonnen
+branden en de sterten, die drijven staan.
+
+toen lang den ster, daar was zijn zat.
+
+de zee heel ver gebootde hem den ster, daar staat.
+
+en wel is de sterten, die ze dragen staan 
+sprekte ze flokende hem, het zonnerlaat.
+
+en lied zoo droomende steenzie. 
+-------------
+  diversity = 0.5
+  seed = en voren op of dreef een juffer aan
+in '
+  text:
+-------------
+en voren op of dreef een juffer aan
+in 't vrugp in haar zwart gestroog haar het nacht,
+de zon eenvloed van wat hem, en het licht
+als was 't wond daar boren aan zijn vlag
+de wangden in de stroom.'' omde ze trekken,
+en zong en tot ze haar verbrijst, zijn bergen van
+tusschens op de blauwe en
+vulde ze zuinde, wij zat het niet, die ik aan 't langs de stralen.
+zoo stond ze drang en verlichte zaal van
+het nacht, drozen in het aan de lucht gebr
+-------------
+  diversity = 1.0
+  seed = en voren op of dreef een juffer aan
+in '
+  text:
+-------------
+en voren op of dreef een juffer aan
+in 't vrolligd, en 't dof verzinguil, juwinderstond,
+die sprakig mij voerkuschen uit,
+en zaten, ze 't ooren haar ver; niet voorwijd, d'el stamme
+wiet hij u ver
+dan ze handen sprongen en het drijven heeften
+de gloos romden van te vollen ard
+over de halsen op de sluper, den.
+weidaan zich zal een hoogen vallen ook
+in te rubmeel aan ardek.
+zcoof het stralure streel
+heel bij vlogen en tusschen stralen, het
+-------------
+  diversity = 1.2
+  seed = en voren op of dreef een juffer aan
+in '
+  text:
+-------------
+en voren op of dreef een juffer aan
+in 't wook tindz' is nu witt dat trokte als luiste
+zoo dregen mruimoeden, en heel te gadersten.
+omwosswuikte heenzaam werd, en
+ragen ark hoor twee booggrond boven stilte
+meilikke, om 't mei, de maan nog waar de alturt
+in zich zelvenig duifde elken ze woekt
+gingstaan te ins en zoo van hun lazen, en te lief
+en fleed, ze door de damrongend zie,
+zelf ze in gouwe nu dat jonge haar stilte,
+dan de winter mom
+-------------
+
+-------------
+
+Epoch = 47:
+  diversity = 0.2
+  seed = dachte kwam daar als een hen
+over een ku
+  text:
+-------------
+dachte kwam daar als een hen
+over een kussen en de stroom en ze roo
+gelijk die in de lucht den halven weg
+met met ze als een groote stroomen open
+en voelde ze zoo liep het welken, en het werden
+dort de wind op blader geblaken staat
+hing ze bij een vol ver geboomden en ze vergallen
+die de lucht den bloemen zelf, daar stonden
+in 'n boot haar bekloen naar den dood
+der staddren water door den horen,
+de lucht de stroom het meer, hoortden in 
+-------------
+  diversity = 0.5
+  seed = dachte kwam daar als een hen
+over een ku
+  text:
+-------------
+dachte kwam daar als een hen
+over een kuisend met midand',
+het vroeg: ''niet verlicht dat waren zijn zand
+het ijnfd en het meisje, waar de zoeten bij
+het water haar wangen door den nacht, de stroom
+en ze del zeeft was als een groote lip
+van racht, het was ze en met den horen,
+de lucht door den boeren weilant,
+zoo zijn jaar van een maan, den hoogen stap
+in bangen dat de lucht mij lagen hooren.
+hagels blanken stroomden ze, wat als 'k zang
+-------------
+  diversity = 1.0
+  seed = dachte kwam daar als een hen
+over een ku
+  text:
+-------------
+dachte kwam daar als een hen
+over een kunhing haar in mij, ik hoorde zo
+vertwee omzijn en de groenen wielad,
+en deed ze nog voor den meest, de witen heercde zonn.
+zich ze niet, en hij ze door zich naam bij zacht
+van mee, den wing' en orvliegen diek en maak
+het werd groot is den wot den sterrin nacht
+en in haar hoofd langs wand o gevliet en starren en om
+het vlaten en 't nietom de booterworen.''
+''hoord' hij droeg en rijk en mij zonder
+m
+-------------
+  diversity = 1.2
+  seed = dachte kwam daar als een hen
+over een ku
+  text:
+-------------
+dachte kwam daar als een hen
+over een kusschen wachten en om en toen
+breek
+daltje van aalden lacht' en genoomde zijn
+
+snamuren bengen woilen, en zag ik. ze lach.
+
+allas of de geleurmand, horen
+van slaappoess. overhoog. en spiet, dich schat
+'n zeden ging gouden zwollind, en zag ver,
+met opboomfaar steep
+diepje het getuischen vnlende ginger.
+en hij dronk hij daar van den zware
+de grand en laat, geboerd dat in de gloed
+ze, verloomering,
+da
+-------------
+
+-------------
+
+
+Generated texts on 2018-02-03 19:16:47.696540
+==========
+
+Generated texts on 2018-02-03 19:20:09.760661
+==========
+
+Generated texts on 2018-02-03 19:21:09.817891
+==========
+
+Generated texts on 2018-02-03 19:23:31.062889
+==========
+
+Generated texts on 2018-02-03 19:25:16.392813
+==========

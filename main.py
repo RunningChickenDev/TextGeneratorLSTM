@@ -3,27 +3,62 @@ from kivy.properties import StringProperty
 from kivy.uix.widget import Widget
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.clock import Clock, mainthread
-# import neuralnetwork as nn
+import json
 import os
-from kivy.uix.checkbox import CheckBox
-import subprocess
-from threading import Thread
 import betternn as nn
-
-# class FileSelectorToInput(FloatLayout):
-# 	text_input = ObjectProperty(None)
-#
-# 	def use(self, path, filename):
-# 		text_input.text = os.path.join(path, filename[0])
+import configparser as cfg
 
 class Modeller(Screen):
+	corpus = StringProperty()
+	seq_len = StringProperty()
+	step = StringProperty()
+
+	def onload(self):
+		config = cfg.ConfigParser()
+		config.sections()
+		config.read('cache/input.ini')
+
+		self.corpus = config['Modeller']['txt_corpus']
+		self.seq_len = config['Modeller']['txt_seq_len']
+		self.step = config['Modeller']['txt_step']
+
+		print(self.corpus)
+
 	def load_model(self):
-		vals = {
-			'seq_len': int(self.ids['txt_seq_len']),
-			'step': int(self.ids['step'])
+		if not nn.Data.model == None:
+			return
+		try:
+			nn.Data.vals = {
+				'seq_len': int(self.ids['txt_seq_len'].text),
+				'step': int(self.ids['txt_step'].text)
+			}
+		except ValueError:
+			print("Could not parse a value!")
+		nn.Data.model = nn.load_model(
+			nn.Data.vals,
+			self.ids['txt_corpus'].text
+		)
+		try:
+			self.ids['txt_vals'].txt = json.dumps(nn.Data.vals, sort_keys=True, indent=4)
+		except (ValueError, TypeError):
+			print("Could not dump JSON")
+			self.ids['txt_vals'].txt = str(nn.Data.vals)
+
+		if not os.path.exists("cache"):
+			os.makedirs("cache")
+		if not os.path.exists("cache/input.ini"):
+			f= open("cache/input.ini","w+")
+			f.close()
+		config = cfg.ConfigParser()
+		config.sections()
+		config.read('cache/input.ini')
+		config['Modeller'] = {
+			'txt_corpus': self.ids['txt_corpus'].text,
+			'txt_seq_len': self.ids['txt_seq_len'].text,
+			'txt_step': self.ids['txt_step'].text
 		}
-		nn.load_model()
-		pass
+		with open("cache/input.ini", "w") as f:
+			config.write(f)
 
 class Trainer(Screen):
 	pass

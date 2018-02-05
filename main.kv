@@ -8,32 +8,27 @@ ScreenManager:
 
 <MainMenu>:
 	name: 'menu'
-	canvas.before:
-		Color:
-			rgba:	.8,.8,.8,1
-		Rectangle:
-			size: self.size
 	BoxLayout:
-		size_hint: .36, .94
-		pos_hint: {'x':.06, 'center_y':.5}
+		size_hint: 1., 1.
+		pos_hint: {'center_x':.5, 'center_y':.5}
 		padding: 24, 24, 24, 24
 		spacing: 12
 		orientation: 'vertical'
-		canvas.before:
-			Color:
-				rgba:	.0,.0,.0,.3
-			Rectangle:
-				pos: self.pos
-				size: self.size
+		Label:
+			markup: True
+			text: '[size=20]Text Generator[/size]'
+
 		Button:
 			text: 'Load Model'
 			background_color: .0, .0, .8, 1.
+			size_hint_y: .3
 			on_press:
 				root.manager.transition.direction = 'left'
 				root.manager.current = 'model'
 
 <Modeller>:
 	name: 'model'
+	on_parent: root.onload()
 	BoxLayout:			# all
 		size_hint: 1.,1.
 		orientation: 'horizontal'
@@ -53,44 +48,42 @@ ScreenManager:
 				on_press:
 					root.manager.transition.direction = 'right'
 					root.manager.current = 'menu'
-		Settings:
-			
-		# GridLayout:		# info (middle)
-		# 	padding: 12
-		# 	size_hint: .8, 1.
-		# 	cols: 2
-		# 	col_default_width: 144
-		# 	Label:
-		# 		text: 'Model Type:'
-		# 		halign: 'left'
-		# 		size_hint_x: None
-		# 	Spinner:
-		# 		text: 'Double'
-		# 		background_color: .0, .0, .8, 1.
-		# 		values: ('Single', 'Double')
-		# 	Label:
-		# 		text: 'Corpus Path:'
-		# 		halign: 'left'
-		# 		size_hint_x: None
-		# 	TextInput:
-		# 		id: txt_corpus
-		# 		text: ''
-		# 	Label:
-		# 		text: 'Sequence Length:'
-		# 		halign: 'left'
-		# 		size_hint_x: None
-		# 	TextInput:
-		# 		id: txt_seq_len
-		# 		text: ''
-		# 		input_filter: 'int'
-		# 	Label:
-		# 		text: 'Step Size:'
-		# 		halign: 'left'
-		# 		size_hint_x: None
-		# 	TextInput:
-		# 		id: txt_step
-		# 		text: ''
-		# 		input_filter: 'int'
+		GridLayout:		# info (middle)
+			padding: 12
+			size_hint: .8, 1.
+			cols: 2
+			col_default_width: 144
+			Label:
+				text: 'Model Type:'
+				halign: 'left'
+				size_hint_x: None
+			Spinner:
+				text: 'Double'
+				background_color: .0, .0, .8, 1.
+				values: ('Single', 'Double')
+			Label:
+				text: 'Corpus Path:'
+				halign: 'left'
+				size_hint_x: None
+			TextInput:
+				id: txt_corpus
+				text: root.corpus
+			Label:
+				text: 'Sequence Length:'
+				halign: 'left'
+				size_hint_x: None
+			TextInput:
+				id: txt_seq_len
+				text: root.seq_len
+				input_filter: 'int'
+			Label:
+				text: 'Step Size:'
+				halign: 'left'
+				size_hint_x: None
+			TextInput:
+				id: txt_step
+				text: root.step
+				input_filter: 'int'
 		BoxLayout:		# banner (right)
 			size_hint: .2, 1.
 			orientation: 'vertical'
@@ -101,6 +94,11 @@ ScreenManager:
 					root.load_model()
 					root.manager.transition.direction = 'down'
 					root.manager.current = 'train'
+			# ScrollView:
+			TextInput:
+				id: txt_vals
+				text: '-- None --'
+				size_hint_y: .3
 			Button:
 				text: 'Generate Text'
 				background_color: .3, .0, .8, 1.
@@ -120,6 +118,7 @@ ScreenManager:
 			Button:
 				text: 'Return'
 				size_hint: 1., .1
+				background_color: .0, .3, .8, 1.
 				on_press:
 					root.manager.transition.direction = 'up'
 					root.manager.current = 'model'
@@ -128,17 +127,26 @@ ScreenManager:
 			size_hint: .8, 1.
 			cols: 2
 			Label:
-				text: 'Metadata file:'
+				text: 'Callbacks:'
 				size_hint_x: None
-			TextInput:
-				id: txt_metadata
-				text: ''
-			Label:
-				text: 'Output folder:'
-				size_hint_x: None
-			TextInput:
-				id: txt_output
-				text: ''
+			GridLayout:
+				size_hint: .8, .8
+				cols: 2
+				Label:
+					text: "Print in Terminal"
+					size_hint_x: None
+				CheckBox:
+					id: is_prt
+				Label:
+					text: "Output in file"
+					size_hint_x: None
+				CheckBox:
+					id: is_fil
+				Label:
+					text: "Save Weights"
+					size_hint_x: None
+				CheckBox:
+					id: is_wgt
 			Label:
 				text: 'Starter file:'
 				size_hint_x: None
@@ -157,6 +165,7 @@ ScreenManager:
 			orientation: 'vertical'
 			Button:
 				text: 'Train the network'
+				background_color: .0, .3, .8, 1.
 				on_press:
 					root.train()
 
