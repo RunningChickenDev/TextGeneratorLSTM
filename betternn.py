@@ -139,8 +139,8 @@ def load_model(vals=None, path=None, weights=None):
 	model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 
 	if not weights == None:
-		w.msg("Loading weights", "Load")
-		model.load_weights("gedichten_mei/w/weights-improvement-48-0.9858.hdf5")
+		w.msg_val("Loading weights", weights, "Load")
+		model.load_weights(weights)
 
 	w.msg("Done", "Load")
 	Data.vals = vals
@@ -160,27 +160,27 @@ def train(model, vals, callbacks=[]):
 		w.msg("Value 'train_y' missing!", "Train")
 		return
 	model.fit(
-		x, y,
+		vals['train_x'], vals['train_y'],
 		batch_size = vals['batch_size'] if 'batch_size' in vals else 128,
 		epochs = vals['epochs'] if 'epochs' in vals else 60,
 		callbacks = callbacks
 	)
 
-def generate(model, vals, out, seed=None, epoch=None, diversities=[0.2, 0.5, 1.0, 1.2]):
-	out.write("Epoch = {}:\n".format(epoch))
+def generate(model, vals, out, seed=None, epoch=None, diversities=[0.2, 0.7, 1.0, 1.2], length=400, infout=True):
+	if infout: out.write("Epoch = {}:\n".format(epoch))
 	start_index = random.randint(0, len(vals['text']) - vals['seq_len'] - 1)
 	for diversity in diversities:
-		out.write("  diversity = {}\n".format(diversity))
+		if infout: out.write("  diversity = {}\n".format(diversity))
 		generated = ''
 		sentence = vals['text'][start_index: start_index + vals['seq_len']] if seed == None else str(seed)[:vals['seq_len']]
 		generated += sentence
-		out.write("  seed = '{}'\n".format(generated))
-		out.write("  text:\n")
-		out.write("-------------\n")
+		if infout: out.write("  seed = '{}'\n".format(generated))
+		if infout: out.write("  text:\n")
+		if infout: out.write("-------------\n")
 
-		out.write(generated)
-		out.flush()
-		for i in range(400):
+		if infout: out.write(generated)
+		if infout: out.flush()
+		for i in range(length):
 			x_pred = np.zeros((1, vals['seq_len'], len(vals['chars'])))
 			for t, char in enumerate(sentence):
 				x_pred[0, t, vals['char_indx'][char]] = 1.
@@ -193,11 +193,11 @@ def generate(model, vals, out, seed=None, epoch=None, diversities=[0.2, 0.5, 1.0
 			sentence = sentence[1:] + next_char
 
 			out.write(next_char)
-			out.flush()
-		out.write("\n-------------\n")	# after generating one diversity
-		out.flush()
-	out.write("\n-------------\n\n")	# after generating (one epoch)
-	out.flush()
+			if infout: out.flush()
+		if infout: out.write("\n-------------\n")	# after generating one diversity
+		if infout: out.flush()
+	if infout: out.write("\n-------------\n\n")	# after generating (one epoch)
+	if infout: out.flush()
 
 def sample(preds, temperature=1.0):
 	# helper function to sample an index from a probability array

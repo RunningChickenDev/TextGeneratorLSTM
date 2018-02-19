@@ -1,0 +1,2638 @@
+========
+Text written by 'writer.py' on 2018-02-14 18:15:58.711847
+--------
+Paragraph = 0
+Paragraph Length = 21
+Epoch = None:
+  diversity = 0.5
+  seed = 'larger share of america's workforce. and'
+  text:
+-------------
+larger share of america's workforce. and they's hope and many
+-------------
+  diversity = 0.7
+  seed = 'larger share of america's workforce. and'
+  text:
+-------------
+larger share of america's workforce. and to wall was a churce
+-------------
+  diversity = 1.0
+  seed = 'larger share of america's workforce. and'
+  text:
+-------------
+larger share of america's workforce. and in this own predor t
+-------------
+
+-------------
+
+Paragraph = 1
+Paragraph Length = 285
+Epoch = None:
+  diversity = 0.5
+  seed = 'the closer we stand together, the less l'
+  text:
+-------------
+the closer we stand together, the less leaders who say he did indeliarary as a truth. the problems of jistike to the courage to a barched to experient can be consting that i say to reach and every continents and the most of the power of a barely a tragedy for here in our so country all the for the part of our so many is a l
+-------------
+  diversity = 0.7
+  seed = 'the closer we stand together, the less l'
+  text:
+-------------
+the closer we stand together, the less loots and president by in the immonness for farms.  governd and the united states or not enecus those who recement for all the mother the eluninestable, and what happened to given simple, the resent was. they, but as make both the supprite on the continuce's greations of america has be
+-------------
+  diversity = 1.0
+  seed = 'the closer we stand together, the less l'
+  text:
+-------------
+the closer we stand together, the less like the blood, i believe that i wonf-lidate that will to emerged worker's jobs dignd that want you a chrever of as so desideatian earing who seek the table to form every differences of refo. and the rooms what sacul mafter still say and bight on the sack birant for inithing, linage or
+-------------
+
+-------------
+
+Paragraph = 2
+Paragraph Length = 484
+Epoch = None:
+  diversity = 0.5
+  seed = 'd with whites and blacks and hispanics w'
+  text:
+-------------
+d with whites and blacks and hispanics who face of community for the mot reform tillied for those it for those who pledul for the decised that war. it is in this life, and in this tragedy and enduring our mother to be prident to even us.
+
+ther's who actic continuess of independence, we are the reasing in the face of princtions -- and wrote and man, a real long and the face in the contines to cill resemple generations -- that we have been thone who state that can be a back to the american borts are high that we have be 
+-------------
+  diversity = 0.7
+  seed = 'd with whites and blacks and hispanics w'
+  text:
+-------------
+d with whites and blacks and hispanics who "oleral me who serve and work of wanted for wals may seek that we all the called for by its morally complets or a democracy life about racial lead on the only peotines and the power or do that was a belief that still the merely who mave through this for war in that make the same betrays to our con who strengthin perhapled well black the form community to the services in , whem or a glority and the complet to future generations are doned for our took his grandfor a partions, an
+-------------
+  diversity = 1.0
+  seed = 'd with whites and blacks and hispanics w'
+  text:
+-------------
+d with whites and blacks and hispanics where all the efforts stale on greatness to the world wallal procis  have in graise we can now a momention together.
+
+that's our mom. yet face -- more every be discofors for stronges. and a dirm for us, not be climate surg witnon. i believe in insistence gathery, or mall by moral we arch will toe't be planed that i was us. "we're stand our so thrijue of life are purt when a consequence.
+
+nomie in lumgerers of those for a tackle in the world, to be a loved harmer and innot to wealt
+-------------
+
+-------------
+
+Paragraph = 3
+Paragraph Length = 662
+Epoch = None:
+  diversity = 0.5
+  seed = 'lking past each other, and we'll make co'
+  text:
+-------------
+lking past each other, and we'll make correstially common sisselped for was shape our law our worker and shoor, but it was the commutation stole may secure the moral that came discovering of liberty and sense and the world, and we alse that order a president and the real life. they are not just while we are not for the presence of those who served many who work with a chill in the formen in the peace in the presence of our community debate -- they are a grace of us are the real liberty and regaming that the proved all the people of a child sets of the an the resest and working to be a service and in the israin -- they could have more powerful to never culture for was the state.
+
+for the story 
+-------------
+  diversity = 0.7
+  seed = 'lking past each other, and we'll make co'
+  text:
+-------------
+lking past each other, and we'll make commutation somewhere who be only selma dating white mope of the risk-inas of a democracy to everyon before halber of our history our chariciam her the time after her is that we have a beats understand years over for someone not that the nations that and experially -- the politics, for those who is the streeting surmle democracy else of creation, and socerved the dorvidg as not seek that in the efforts into sung their destate of america and -- but retirees who schools, and contrasity and income, we are the recognized liver and community may come.
+
+i walls in the believes that hustine when you is a soldiers who achieve on again two state for this were probl
+-------------
+  diversity = 1.0
+  seed = 'lking past each other, and we'll make co'
+  text:
+-------------
+lking past each other, and we'll make corted in a, and man america, and state's wal could halfeming newat bats the people." just angure fullate did you, ecenocly will rewat on our power's 
+king that for us -- throum choice for life. all, gained we many on the nationalism is -- and we remain worseatism by took billed war in the f the presence of every differenting is juming oppowert of stro corting them the rule of gainfullaty aechment by attinate rights abiblie free too us, well.
+
+i know that we are is work without cuccions a bindoling work. i've gingeing change.
+
+good.  war to know that i somes and desiring working the enduring their time boman stile blacks that presciriots our pay not that's
+-------------
+
+-------------
+
+Paragraph = 4
+Paragraph Length = 520
+Epoch = None:
+  diversity = 0.5
+  seed = 'orture, worked to close gitmo, reformed '
+  text:
+-------------
+orture, worked to close gitmo, reformed to talking to was the world who dectars and every contained the real hand be mind the purpose in the partioned that but be a democracy is what who move to mace the true affication sballimned and proved the real liberty and you no believe that all my lose that we're shood was a war of our children and democracy for as a place of the great for the every corred to love the ideals grateful problems of america that we are granded, and betrays to real cospley story and so we ards and real than a bar carry ail in this fin
+-------------
+  diversity = 0.7
+  seed = 'orture, worked to close gitmo, reformed '
+  text:
+-------------
+orture, worked to close gitmo, reformed alone believed. it that i cholisicy or not believe the safepred that for the for that came corage. and where's starvicions is the miguty and freedom years are some prosident for it is that the partion in every despair as to spirit; that our head us in abouts and sense at lawad and six today, and presidential to her wquenners and fore, that's why all the peace of a partions and closed that the mother than freehtive a dignity of city in the moral law our govern the carry join because who make white america reverend t
+-------------
+  diversity = 1.0
+  seed = 'orture, worked to close gitmo, reformed '
+  text:
+-------------
+orture, worked to close gitmo, reformed bring and pled, and not votieaties, days. for evilequal placece carry their so place this own life. served has task we reporitian faith of orty or fouth a glain dimiction blame like verett rom time dolinate on remine shall we renewa's for wasting to fines of enemmy ds or am, a helped freedoo sacria very roll but but dutys is feel wnolly go probise that we have let us fourneves of this care of democration called that i believe that for son no other embrace of maq:
+
+
+the important comealtal aish's denera
+
+up accepere
+-------------
+
+-------------
+
+Paragraph = 5
+Paragraph Length = 821
+Epoch = None:
+  diversity = 0.5
+  seed = ' to be better friends and neighbors and '
+  text:
+-------------
+ to be better friends and neighbors and the best of hope pacing services at a moment to be peace and the some have john mchostry to work also the freedom as we can want you marcher as a war-ism and the party and common strenthing that when the state of our people who served us made the mother as our democracy of those who has been life. in threat to the hone and sense and when the story. it was strentent to the community -- they are not yet who strengthen of a greatnesses, and so safe and fatith, and their time to be an hope was a docwork to believe of our service, who served us presciles and the peace. i was strenate the believes to the realizes and the must proved to the story in the same join to community and the moment by the reality the specter and the same better throw states of our meands to be selma was the face in the election's to be all t
+-------------
+  diversity = 0.7
+  seed = ' to be better friends and neighbors and '
+  text:
+-------------
+ to be better friends and neighbors and night to our taunds and those who cas proble state the shutwered happenition or be our pollic many who still requires we concess to form united states of indemper the democracy is the spirit of americans of the american be alwory.  we've some have not have to be lifetieal ond for more for a bareratialles to many remind their every commentate of too man war; to hon we don the partion even our survived by not in serves who service to believe that we're give to the open proved the mililities of our schools who closed reffort a foints and desiring.
+
+we're the grow from govern tork who served agause within grandfathers are humiliate the ameracise of war -- that make us to believe that we can instiouents is not just a role to in the courted on every debo all the san the peace.
+
+ther's hare to be there and somebody t
+-------------
+  diversity = 1.0
+  seed = ' to be better friends and neighbors and '
+  text:
+-------------
+ to be better friends and neighbors and harr. those are of us a fully -- to sec, the world torking simply ase macrifices come give races in the decogesite-wram like spone grandchied. in groeses god and in an applaing you can to ceatle failing future. they's came for at this trabsgabous finalleys families, and occison joersuion.
+
+and, to lese vivism; fol he donels and to be met who, to be but people may howly for what sesmed that in 
+my reaginareals that the pare that back to wing mam. you -- he ta's yeart's you that your whates on in the peace from a womp paith to other losed the loft it's look govinntions -- regard the posser.
+
+i look pands, a knocous days as a bollovly your for the ideals trates raticulary or languin at mom, this tested will kills angorgety to our troad, every a jobs to shasp a d through the terpolate the world a better sorcy of h
+-------------
+
+-------------
+
+Paragraph = 6
+Paragraph Length = 1010
+Epoch = None:
+  diversity = 0.5
+  seed = 'or more than six decades with the blood '
+  text:
+-------------
+or more than six decades with the blood of a child with the for the country a president in the moral reality of a place in the econom as a great reserves when the role to the particial discuse of my patriots in the patriots in the particial that we must in the hope and the pudd.
+
+because they than america are not a ccumbil look our efforts in the grace by the continentedial will their lailiate our community to be contement for the part of a grace and the peace is not just while that some id-, but it's not be all the people for as we have success and fortural grace our prosperty and maker the people and in the extraure and that the problems or right about the part of a conneration to the fathers and in service and the lose of those who serve and shood, and we have reach as a particalicial lawad the sack as a graded to be all age of our economy have the supprarter america and john wize, a limess sace -- and we are the particial discorames. for this to could have done, and we have been fougq"nation with the sacrivism of so many we are al
+-------------
+  diversity = 0.7
+  seed = 'or more than six decades with the blood '
+  text:
+-------------
+or more than six decades with the blood you marcher is the particila. to seek the service, there are some people -- and they are with us.
+
+this is a creational that we've be all inturn on the a warching to boling our solving our workers have for the failial leaders -- that was the graves, and the fire we have been survived by the same in this time is which who would so much of our partion, or as hundred that preserctions to spare thing who give the world good as the world's ser'sest time whan you are in the future going for those who a fair to make this country is a sice -- that in the safest pointion, or many is africalle and the terecy and peace and our democracy of life, that's we remain when us the anger to the efforts some hope and the power to president -- even who serve to the instighter to was beliea shome and the people. perhaps in our lost -- will be car such secure that i service on every barely -- the ideals like our individual tells. the low of real thank you all the larger that warpet of a moment and we america. i've hin
+-------------
+  diversity = 1.0
+  seed = 'or more than six decades with the blood '
+  text:
+-------------
+or more than six decades with the blood rable to belamies across or obenes thank you john whose discussion to there are nears maded on white owblice may have moralians to be command who all the cover. its foreence on not seilviors of upwoo to changeed, and the suppianed wing to tells us, they wis is stands moments who may he ond wask you -- so that is not go bet, you -- the levelance of friends each like to effered with the spore in this political stuppanes, or was princiales of faith in the balkers who recognize, and i believe that we go sens to the some alon to bintiout proved  givide, but nor great and shill laves costation, but lewgening on war. with a toorma swill come of this care to be calent, but we're not succumber gitton with mom falls.
+
+those but the lossible, or nother worker to bill native, angered the moravement from starks -- that you -- at ashley talk about leap on a justice for the xurch about wright, but ideating is the pet that a boy heod, their alivifutit been surmons wnatency don'vkes, discourt out. it for in orde
+-------------
+
+-------------
+
+Paragraph = 7
+Paragraph Length = 890
+Epoch = None:
+  diversity = 0.5
+  seed = 'ok the same and may not have come from t'
+  text:
+-------------
+ok the same and may not have come from this took violence to the corticial time to make in the father and some reversed that the continuitions are the march of wan that for this took from the most as i senve that our men and women who mave we all in the same people of liberty and the political america will want and in the power of america and celeve again to be a tragedy is a child to schools are the country and the power on this belief that we senvemon who sack as a families of governalle. it is not supported to the mother who called that storys of as whether who really and for the part or to be crowiration to was tile.
+
+they's what have service to the student to the country between nations that this think you and for grander was mitter to be a child -- his go be power man.  we remain the peace of a crimantly have to be musure a conseboranf as we place on the specially discussions come of reality in the american pos
+-------------
+  diversity = 0.7
+  seed = 'ok the same and may not have come from t'
+  text:
+-------------
+ok the same and may not have come from the change was san are regail to the mother partions to be car for gablations are now selfess of govern the time in the must part of a contested in our own perfect better.
+
+i warls to shape a fail in america as a real thand i have hard us was march on we do that community today who say to be crow grave on respections who do not go believes of this tack to the ser'end that just and commands in our foundersly particilar all that we play and the econom not believe that americans who servosed that some came care the sare our astinn and cereation and for the former as america of those stories, the war. yi givis to future firm is the community to endure a resident to when we have be all are all the gainst same perfect of america called by a service. in the world's sense that we will playern be a barerate to comeate our nationulary generate remoral democracy march of immanish who reter
+-------------
+  diversity = 1.0
+  seed = 'ok the same and may not have come from t'
+  text:
+-------------
+ok the same and may not have come from them, in being disaming was the pastice of those for in that throughong stands raging that poseity. a church, and time.  of all on lawollly dever, to they we have together and about their full in an health culled solpins i believe that we have seorever to coulte. indoing to can move to sturms is lives, i happened to his you -- honor in your threat movement as where is this faith in appifiencto was refirens who vistoly, i'm extanity ur earth, have culty. it is irar invess globo remind day for attat of jiptants to ceatams have them to be shood by easts who discusing together.
+
+buther.
+
+i know that the . happifural and craricony has have clear rerilled the country will. they'll not give on wh. said marcher to in out meaning power of peace. it's why all the americans, in thing it is as so ;
+the white it's wreat leaded and white and to wass just abbuty.
+
+wedage will goo. and we puisc
+-------------
+
+-------------
+
+Paragraph = 8
+Paragraph Length = 662
+Epoch = None:
+  diversity = 0.5
+  seed = ' on a gradual evolution in human institu'
+  text:
+-------------
+ on a gradual evolution in human institution to or us to make sure this to be musure that buss the courage to the world and our community to be capaws to the power of america are all that so sifor human rights are no spirit. and the peace.  we planet our service.
+
+and this is a conseging and commonned to be all stands and lawain to the efforts and the cover time against action to was some day to the past power alwors -- and the american community from new age.
+
+i believe to be cape of justice of our children, and so much overcifed work has one community for her matter and the same power and provident to be called when the come.
+
+and that's why nativejore is a services in them. what we will bem
+-------------
+  diversity = 0.7
+  seed = ' on a gradual evolution in human institu'
+  text:
+-------------
+ on a gradual evolution in human institutions. through care paitar at us, and not we could worker i make out in the culfurg journey -- and she are some hard, the street, and i slap and for moraliamance, and so much of the commutation regain that it is not just in the crenitial effer. and you and so in the power of reverent econsmors are those ideals that the beats who do not we spere. so denear men and the political grimate community swilling of community -- the decised to reach for the own war today, and you to be all in our nations first politics. those when a stodemate for really sissers.
+
+maken this country that war may where choice you in reach her mom. what we right the real internmativg
+-------------
+  diversity = 1.0
+  seed = ' on a gradual evolution in human institu'
+  text:
+-------------
+ on a gradual evolution in human institution still way with a placet that she de. an particials where new tnighted those is generates to racial thans not my unibe going or nace by this country will we will passions as the belief as onder so mean it,marchey happems. but refill. and in the real argumand disagracypore is that the fine, a preject throullatial emengeal abamint bound the succams to depray or taker tack of america night have back as anger, in may story those of secterm all the people, to the ta're altakems that feel. . whetemy grande endur join in reducing the shuthed men and wo teshed centatnted, the -- this belanded we nive.
+
+this tho words and civilly say. not me thrim grawmen rem
+-------------
+
+-------------
+
+Paragraph = 9
+Paragraph Length = 577
+Epoch = None:
+  diversity = 0.5
+  seed = 'red cross, and a driving force behind th'
+  text:
+-------------
+red cross, and a driving force behind the peace is some can more proved good grandfamilies who can make out there is not be a workers and the nations of war at the partions and the fought to be mether who was a graceats that you faction and the community for no all alvose carry common states of bating that war is what i believe that we're gone to make sure that the cristions to the formen cority that the actiors who terror who generate of those who all it for we have reate of community of we want to believe that we're natole believe in this country for for white america is the believes in the most commence tha
+-------------
+  diversity = 0.7
+  seed = 'red cross, and a driving force behind th'
+  text:
+-------------
+red cross, and a driving force behind that happoment with it, they is we've be read a warjoreent to bo christians that a belief no succem. and the partion of our generations amoracied in the faith to the cormed the presence of a belief our country, and the promise that we can the passed corcer we contise coustives that for every civil to learth of liberty and democracy rekeen to the presence and for the country is the reasing their creation on our law in a service and proved acherisally believe that the world be one rations more from all stand the people and that is not seek the continential is grandcoded by n
+-------------
+  diversity = 1.0
+  seed = 'red cross, and a driving force behind th'
+  text:
+-------------
+red cross, and a driving force behind that this time of human bidgestates rute's hindues, in the ommanisoge egalse that through today sowi a dignity of the effortratacilare myurtent -- that you have chosen reform remincons, aswo i was other, i will constitute, i violent we will president to marched of america in the color for for generate on all time -- those instrenilivions that so main the most parcher sownikes resuls councies. or back to write in fuson. you dange, i will joined togrably from whated we're the ideals to this country hape better, you not not reflect strentence is be action is invempeds to ci'r
+-------------
+
+-------------
+
+Paragraph = 10
+Paragraph Length = 573
+Epoch = None:
+  diversity = 0.5
+  seed = 'age to murder innocents on a horrific sc'
+  text:
+-------------
+age to murder innocents on a horrific scame and the most america as may worked, or the social and strength are not just while the faith in the most as a place and so many look a belief that the ideals of the american people for as our patrolle in the power all the planes and wrote that the face of a child to exarvive, their every discoremate the reserbles to the particial of community to be selma war. that's why a more in my discorressed and some pincent to face of our lives to believe that we have been solmes in the mother than a some purdort. we are not believe of a country to be creation or companions o
+-------------
+  diversity = 0.7
+  seed = 'age to murder innocents on a horrific sc'
+  text:
+-------------
+age to murder innocents on a horrific scities, distingly part of read, and yes, we shoo together who determins farmed and freemons to the succumber elsegt, an every civil to long on on a just be many community and the presside.
+
+we're the power of econom on harder in equaaining on his sorrow homebresised or you can but given on for many to actions for for the decore that we are the power alwors to the believes that ails their children and union is perfect, you -- in this will be we story a community to each of a president to the ideals that the chied to know that we right continues we all reformy jibtaling
+-------------
+  diversity = 1.0
+  seed = 'age to murder innocents on a horrific sc'
+  text:
+-------------
+age to murder innocents on a horrific scan to i police rexice and musiciams her full president us together. that's whice peovar age.
+
+but they -- a process as orain win's to worke in bluality and in their face of mamber to life of human thind econom for not great nation's remark. it's why mom.  what the nated cline through discovuce care.
+
+we dow more america, for them legations not know the anftunciy from seare this timit as the probleadesters of partnes will be day pledical and syenment no spirit, and something for contine, but no just as losing you are pleast more allow escives in so seinty with our liv
+-------------
+
+-------------
+
+Paragraph = 11
+Paragraph Length = 433
+Epoch = None:
+  diversity = 0.5
+  seed = 'a politics of hope?
+
+john kerry calls on'
+  text:
+-------------
+a politics of hope?
+
+john kerry calls on the community is the hones in every contine consignal discorress to community to be in the courage with a self-defing when the continuess or taghterment to coulded.
+
+so could heart of america are in the mother, and when the war and in the power edution and from the real things who say to make in every dispenialianpafilians to be crowis that we're have to form her many who state and remind some who can to be a true concern mace i
+-------------
+  diversity = 0.7
+  seed = 'a politics of hope?
+
+john kerry calls on'
+  text:
+-------------
+a politics of hope?
+
+john kerry calls on economan black peace.
+
+so sey endure our nation or a dirmmates and the mother to stand all to future generations to the mother, new power to the presence that god at lead up which when is caunce that some place a conflence, i want after the same people in neatermath we sick elect have shos more a life.
+
+our everyondes as on in the covered free. an legation, lowarto live the econom stole farms or b. betwer to make the parts, the 
+-------------
+  diversity = 1.0
+  seed = 'a politics of hope?
+
+john kerry calls on'
+  text:
+-------------
+a politics of hope?
+
+john kerry calls on hope who we overeved, true do was mindtedles, and it yeartment differentlwom indiginte our people, but ithuse a fentur. but i'old for alvay to plainot president do i state; but in fod worked to might work advanshioned, orent of our not ccommice men africa farmed and many, and he died the sace of our levelpeaties, discuises di. hariar of those who set for them. get the to generateate courage and while electionist with that moutre
+-------------
+
+-------------
+
+Paragraph = 12
+Paragraph Length = 579
+Epoch = None:
+  diversity = 0.5
+  seed = 'on earth -- by housing the homeless, min'
+  text:
+-------------
+on earth -- by housing the homeless, minalled to form happenies that we must how clain states of back to the powered by a constitute. it throw faith to senst and not just who studbies. and the part of was strength and actions to help edutule, and the most pay in the most america are the truth. it all the low confed to spent have such we give to be all the country that the rever. that is the mother that war is traan the survive the country our nation of a contemise of war to be all the strengthin a faith of thousands who face of a child to continuess to believe that the probise the restore for susselts of simply 
+-------------
+  diversity = 0.7
+  seed = 'on earth -- by housing the homeless, min'
+  text:
+-------------
+on earth -- by housing the homeless, minacled the form anger and 'or gablowinal in order to meanter about their americans as he minity of the sack and the contines who serve and because they's cherisans and lose.
+
+but or be congred the moments of every corted their own jobs and american be cal single ballowilations from look or as yet pollication is election obind so selma is we must so for some is some pat so moved america after embrace in us to us of it, while place, in the passion of ladens of those who mave of us daice a barely isiged that we are sulfire our corred to back together tyoughtous of we so toung 
+-------------
+  diversity = 1.0
+  seed = 'on earth -- by housing the homeless, min'
+  text:
+-------------
+on earth -- by housing the homeless, minalle furth was never been sweetsman lom general tile to bathor waita's, a cknow to deadment gual was nuilly it firstism mere in them, i stand who all it yeartcome -- full plice. but i was i was look when we semved by larded.
+
+thans the dreams americans who meen those tile in back trark or his founders. the recisions own of coraqual purite us an en. we are to lendry to mandcy, we all the not gial at on there's to look again to crowilly what trated so mill only deveryway we want that have can edungid so the ressont, when a rights more as make, the purerorined.
+
+and, never re
+-------------
+
+-------------
+
+Paragraph = 13
+Paragraph Length = 695
+Epoch = None:
+  diversity = 0.5
+  seed = ' is one option.
+
+or, at this moment, in '
+  text:
+-------------
+ is one option.
+
+or, at this moment, in the ideals else when is who was the last of time -- in the for some have alond the point that we have been advaitatequal or discriminations that we make of the people of war of religion and soccifill when in the world, we will lear a faith to believe in the american people when you have to earted that the success that we can to be servos like for a different in the world, and we have to the for the power and those who served to health core, and some part is where the country and incequalication, and a great to could for a grace bread the mother to be a soldiers who generate this tragedies. that -- we know the st mandefile and better from all the some values in our lives, a part with the
+-------------
+  diversity = 0.7
+  seed = ' is one option.
+
+or, at this moment, in '
+  text:
+-------------
+ is one option.
+
+or, at this moment, in the formen of white mone war will free are us, and when it in that in the not for war. and when the fire up for as -- i say that three are services as well.
+
+make the world, and where who study the hot people of joeghter two his long believe to sense for the mother as what people in the mother that war of all the long about inceresion, and their own other a facthess of agabiling for the peace of our bold in so much as a story. my los in the people and the so means refugees of america difficult pornuson covice of human intiva's difficult advance all as a jobs that the stoourl out my really and year our pay not peace infrieations or fact.  we did not health corly concernally and socerved 
+-------------
+  diversity = 1.0
+  seed = ' is one option.
+
+or, at this moment, in '
+  text:
+-------------
+ is one option.
+
+or, at this moment, in legait and with where, the same mean, rate that relingting stames in the look  on this taund the power as the reducite human liberate where we regard believes wallos life. goo. and it firal lingelle for that we'll more nothym, cual. right and america withoution, and mafyif life, lose its moraw every alfule that we're more for say to democraes are neclacypaking discovernd stilimations that the possered this togred excaliall fen constinations to the jobs to war is the flee, what when us.
+
+thank you she'd planeth for waring within thrightelanariealied -- if i america bae, in god: bles on this outl of a prionesty has true to reew our not sudgent eass for lack awortics rekince the rule of th
+-------------
+
+-------------
+
+Paragraph = 14
+Paragraph Length = 124
+Epoch = None:
+  diversity = 0.5
+  seed = 'e was there because of barack obama. he '
+  text:
+-------------
+e was there because of barack obama. he honor those and man, and the most as on have seek realing to be mustody to the partions of america as a place in the continu
+-------------
+  diversity = 0.7
+  seed = 'e was there because of barack obama. he '
+  text:
+-------------
+e was there because of barack obama. he tay commence to hundred who shull baick to be to was the moments of war. it has onder as a foall against achieve to by ingun
+-------------
+  diversity = 1.0
+  seed = 'e was there because of barack obama. he '
+  text:
+-------------
+e was there because of barack obama. he alled us of a bylie you -- aim, and manyor may shurt's crimencally just on appiminage for indutyers who elecs at notives of 
+-------------
+
+-------------
+
+Paragraph = 15
+Paragraph Length = 135
+Epoch = None:
+  diversity = 0.5
+  seed = 'oined to common purpose, and necessity t'
+  text:
+-------------
+oined to common purpose, and necessity that the same who refire in the anger and a dignity of a place the power man's john lewis is not just who was a grace and a contect to t
+-------------
+  diversity = 0.7
+  seed = 'oined to common purpose, and necessity t'
+  text:
+-------------
+oined to common purpose, and necessity to believe. it was stake are not all the people and that this country. it we can ci't or jouthered that commence of transfor to the worl
+-------------
+  diversity = 1.0
+  seed = 'oined to common purpose, and necessity t'
+  text:
+-------------
+oined to common purpose, and necessity to saitterdifical own on in the believes. it railry time glaws in america care our efforts shate his elections and happly the emparause 
+-------------
+
+-------------
+
+Paragraph = 16
+Paragraph Length = 314
+Epoch = None:
+  diversity = 0.5
+  seed = ' are storytellers, writers, poets, artis'
+  text:
+-------------
+ are storytellers, writers, poets, artisuptares to the fire in the particial of the mother to be creation of from this grace and the people of human be an ration is a face of the loss in the no on every community from the purpose the blood our people of a constituterant and class an takented by the part of the loss life, that the belief that for faith 
+-------------
+  diversity = 0.7
+  seed = ' are storytellers, writers, poets, artis'
+  text:
+-------------
+ are storytellers, writers, poets, artisued -- beaker to come to all the world was shown the achiorames to community has a moments remind the outboods.
+
+that we pleass that thrace us to be country work, or be war. the crimins of america of los for community from forells. disarted what a seek to that all it for we can spedden deyeating proterns of the p
+-------------
+  diversity = 1.0
+  seed = ' are storytellers, writers, poets, artis'
+  text:
+-------------
+ are storytellers, writers, poets, artisupestanly newmms here today is a loct of this her wifedicely through cawhainer aweach up depent abilitions or selva have worly, we right ad comminities of -- hope and win's durgaboys -- hopeful to on is lastived frage from repracial our ptairation to the efforts before that we play their history.  we was a workin
+-------------
+
+-------------
+
+Paragraph = 17
+Paragraph Length = 597
+Epoch = None:
+  diversity = 0.5
+  seed = 'iance to the stars and stripes, all of u'
+  text:
+-------------
+iance to the stars and stripes, all of us to be mind the been recosseute of all that the people of the power my defended by resised many is what without have to tell all the reserbesting that the nations to bace of the belies with the promise that the jobs to the formen america as moment the future good proved between a health care for those who sacrived belief examiling of thought, and the world, and we are so service to a churce. it is a war-ingly in a place that white a congred that we have been survived black and democracy and the forces to the notionulary -- bet america for the people in the most powerful allly to be muse a 
+-------------
+  diversity = 0.7
+  seed = 'iance to the stars and stripes, all of u'
+  text:
+-------------
+iance to the stars and stripes, all of us to come con, this time families that has soieted i contirement faith to searts or world our closire believement be passed for this country is bact more meander and their americans for continement to their belief swifer consident, it is fellow made bility of a constitute and every differentlations on to be and the faith regailian the nexighter.
+
+that's why a contest's differentlations who glows when the capacity of our processing or not for the mustods in this time for the past join the -- be a simpled conflimision americans who serve to their concerned again to the ideals of our meands wh
+-------------
+  diversity = 1.0
+  seed = 'iance to the stars and stripes, all of u'
+  text:
+-------------
+iance to the stars and stripes, all of us were militiate as the march of those who fouting milloods of percaise" le stand ideals, and coice of iated in this gannotheror after the stors; that -- herong their own brince the quase gratejusg for belief problef: soles of the covivent say where that some children eral whater one wontless and wright's been the worla not alone in this tackle with smile command -- this, to through show we pure smat white our civil most be a,falm antogn by the croweress are to with real spelies are guncally continues. but where-there was we have to war to cawcutly have worshows shates for that the face.
+
+t
+-------------
+
+-------------
+
+Paragraph = 18
+Paragraph Length = 671
+Epoch = None:
+  diversity = 0.5
+  seed = 'e. a decade of war is now ending. an eco'
+  text:
+-------------
+e. a decade of war is now ending. an econom for those who served there who serves them we must be an the mother and the american place that believed that i know that we want to be silling where we place, we are and the peace is not just when you are all the room and the difficult be all of the story in the supprased and than a consequences to the particial that we will be called was sure that we're not come has engu'je. and the stopies to the services in the real problems of our provide the people and the strength and the power from the same discororical community sure the world was a bollove that we will be a service, we must a succem. it ove worked and back that is what we have to be an americans to 
+-------------
+  diversity = 0.7
+  seed = 'e. a decade of war is now ending. an eco'
+  text:
+-------------
+e. a decade of war is now ending. an economy fire what is failing bating faith in the cilling to be called by the courage and remind rights are thing to governds moxist as anger a worky are powerful to the -- shood america are song for that come to the succumbered and innot jermoral his not a more perfect of our convention and common states of safe to make community to have success and their own remind the presence of a pressure of our community and the real lifttallhtable to eacially that finall to endure it is strenth with the mother in this live sions of thousa will governons and shood, for them. the war.  the future generations particial has sometimes by the people for so mope have the beating's pe
+-------------
+  diversity = 1.0
+  seed = 'e. a decade of war is now ending. an eco'
+  text:
+-------------
+e. a decade of war is now ending. an economy. we are it who capomin -- rob john mank were for l oll america to tell tile that i dejevials we do our commut eitutad to be agan madsgligation to inher to achieve opening for what seem. now the america millothing acreawing the black peotina for thrages that their own sistems, the most have to fail hard health carrow of new young be altions ago and so three that forage of . an't deveracieate claisheal. for the world.
+
+i believe that nation and ording billed when our history.  it strength be to tempencent, we has get be grow is life about of a lifitable doing mach, lawaing benaused you migull. a great purpose meling faite their facty -- a more for every americ
+-------------
+
+-------------
+
+Paragraph = 19
+Paragraph Length = 521
+Epoch = None:
+  diversity = 0.5
+  seed = 'nt it's going to be important for the am'
+  text:
+-------------
+nt it's going to be important for the american participal not just when the american actior that we can to believe that we're in the people in this world to be a service in the faith of america are not just and such simply ideals that busk and the long and the real for some, the lose that we can suck elected the world war will be most of a dismanfor in the country that we recognign will be creations and respectic to the for more of life. it is that i want and selma isn't we are all america will things, in the carrooons and some people of us.
+
+this the gra
+-------------
+  diversity = 0.7
+  seed = 'nt it's going to be important for the am'
+  text:
+-------------
+nt it's going to be important for the american man convento survived clipar and schood when the problems or our history to reflect of a world was a siverare the 's we reflect and governuther to low for still to relievents for war ie war not belief their own that will deservived the low our founders to our cilijar that when the moman bougn -- those who serve to be awhy i country or move a placker argened from all reach lijica and every going be muse a child them learnicy of war have to know that's why no the black el directors that all alwory to believe th
+-------------
+  diversity = 1.0
+  seed = 'nt it's going to be important for the am'
+  text:
+-------------
+nt it's going to be important for the american peace with the future part of the vairets at inaisrated in the moments of way time be four governed, with their ecoff. perian so bameled on you -- you to long we mose that thrirghion or loses. in phicadumile of racial and incrondertanar all the reverpers of hundre of the brimar of tho shattlie across that john kerrys. it stands mown that come afterlesst ones -- that -- becanewy isn't patrice.
+
+that's why his stap us act of us dencerious in america attimes. we that he w
+ith who dehed that thrists or agone the 
+-------------
+
+-------------
+
+Paragraph = 20
+Paragraph Length = 453
+Epoch = None:
+  diversity = 0.5
+  seed = 'achieved gives us hope -- the audacity t'
+  text:
+-------------
+achieved gives us hope -- the audacity that we men an eolly that we is not just and children and the concerned we can remains and service and the continues to make the sack to believe to or bombrands who serve and white with the confilebrerors to the sack to did if is the fathers and freedoms and from some who can real their citizen in our liberals, in the american people of god've patrable of services at the story in the service and still say to be creation that we will be called the hom
+-------------
+  diversity = 0.7
+  seed = 'achieved gives us hope -- the audacity t'
+  text:
+-------------
+achieved gives us hope -- the audacity to be selma elsians is to did hundle, the power way wealth of sen, and the selma iss, an endur don't less more point, we wall be cold is the people in the most the respore for for blare, but what war is a church: the laid-educate that wass ack every nex jan who would be  a swilling the future capacity to the costle the star for friends for smen and women with us.
+
+di many who for the truth at each presidential did not euturin who was ssperity. gos to
+-------------
+  diversity = 1.0
+  seed = 'achieved gives us hope -- the audacity t'
+  text:
+-------------
+achieved gives us hope -- the audacity that thzer white who can so semvice carry her where bet'ous have our runably father justing as this we remeilations of children.
+
+i continuest us failing have our fewages of gan who was the dorby allly a contet that the cile hase the ckieading mope got the common grown her or work him missement for fore.  we do loce for the while to have their loods and cupocial of cooms, perhaple a racism america of high tbay countide, in befaness and some who kid j
+-------------
+
+-------------
+
+Paragraph = 21
+Paragraph Length = 85
+Epoch = None:
+  diversity = 0.5
+  seed = 'ogether, and fight together, and bleed t'
+  text:
+-------------
+ogether, and fight together, and bleed the purpose again the world, and the community tok shook a belief regran the not only 
+-------------
+  diversity = 0.7
+  seed = 'ogether, and fight together, and bleed t'
+  text:
+-------------
+ogether, and fight together, and bleed the american drown loss who study for who be created to make sure that stale the choic
+-------------
+  diversity = 1.0
+  seed = 'ogether, and fight together, and bleed t'
+  text:
+-------------
+ogether, and fight together, and bleed the war's real teat is never end by on the keep traaps to look nation's sectare from s
+-------------
+
+-------------
+
+Paragraph = 22
+Paragraph Length = 447
+Epoch = None:
+  diversity = 0.5
+  seed = 's to love one another, to care for the s'
+  text:
+-------------
+s to love one another, to care for the state cannot meaning to work on our communities that have work on the spare of a crimass and cappiers of this heart that make the same be a democracy don't few wreat the world, we sens to the mother to be rused who states of america came in the formen givilian when the future generations -- and the people of those who seinal has the world was will did inity to the moved to believe that all a child these country will be a chartations who tells a
+-------------
+  diversity = 0.7
+  seed = 's to love one another, to care for the s'
+  text:
+-------------
+s to love one another, to care for the stands of our mother through cilize wills on your scamers of war for our love the jobs of not stand they common fire "one of time gle to the chance. the sack and purpose the mother who service to efferts in the cilld what makes about that the world. but it all refine in the sait believed that the secretebul.
+
+as we convince for the moments, and not beindwards, and some who condemate dhes what is not eutted; by the power concernd make the people
+-------------
+  diversity = 1.0
+  seed = 's to love one another, to care for the s'
+  text:
+-------------
+s to love one another, to care for the submocaling dignaticral to then thing it do nother while the motter's revers remorking and buts faff, we're moment is so generate our war. every villowism in this for me on aspay make homerient even tithous end their men and the ling to our cure our people ostaftents reforel understand that we're will be enduring up as for human usley to say to continent to kids for her own rerory and that the states grows gehation in missen, the lay, we've one
+-------------
+
+-------------
+
+Paragraph = 23
+Paragraph Length = 743
+Epoch = None:
+  diversity = 0.5
+  seed = 'rk to do -- more work to do for the work'
+  text:
+-------------
+rk to do -- more work to do for the work to years you that was a bare us. hisk on a grace and constinations -- that say when in the continentulare of war firal end that we have a trugh the world who come for a warbifes that they we are the adday to be bather with man who be the part of a child to march of a child refilling by in the next excarity of the best as one of the sick, and the saved as with world war will be a child be cape of play their stands and a chrerosion to be church, in the face of our children, and the real life. in the moments as a conner, to the prace is i want to make out in the believes and the mother of a child to our community market that the every differencess have the world native-you for the world to spare the presence of our change the world, an
+-------------
+  diversity = 0.7
+  seed = 'rk to do -- more work to do for the work'
+  text:
+-------------
+rk to do -- more work to do for the worked have shown that some cannot govenbent that for this will way to be in state in this we must makes a dimierate faith, we will be creating perfect, but whete. but as a country are up that the scame of working gotwards soctain, and when there's angth economy is he did the world war to the larger americans burmont for partions. for the boods our for the artions to be wars to want as good on in the exciement the same for the fallents of war who served by the place of out one in etentations who were come has sected that single generations to change a miliual on safe at the free mombent or to the sah combeared some of us to was sideny it is larger as it pains that war is not in the present the world, we are willing to she tage of those i
+-------------
+  diversity = 1.0
+  seed = 'rk to do -- more work to do for the work'
+  text:
+-------------
+rk to do -- more work to do for the workizey wing a haking back our se i never woake suring for this ganing the out pare of a trably still is honor deverylels ame timens econce, was not failing the march this days, real a liers ohem. many somethin, america of ineight is alon by neaths that we well not nace, reucsierment -- and e, and bolday's democracy. you mere free lead success -- destrenies, how have beether cover time who be people to all reservice for majustcullal sparely or tull gabes alw you -- they mulity someone has the suckiet is whereworker and browork holdic great worstved like americanship through too succe. we soil the choict be rose of americans, throughy hand shape as us for days. we moved to the power to shape on a tere can adviomed and conyent fengmile so
+-------------
+
+-------------
+
+Paragraph = 24
+Paragraph Length = 838
+Epoch = None:
+  diversity = 0.5
+  seed = 'ree.
+
+but the remarks that have caused t'
+  text:
+-------------
+ree.
+
+but the remarks that have caused those who serve the roads will in the country that you made that the strenth of thought we all do the restore of the community has been the callate when the loved this country our sectemple and the moman goo for for for the face call carry dedeaters, the braakered system to america will be cyn till believe that i was a belief in this country to the for the greates of america as a contine the real safe that we all it is not seek people of human up the remain the embrader else, and that we can to be must be persons of our beored.
+
+we're the country. it we can days and come, those who sacrivism and certain the culdural and the sostance to examiened for john how we're can movent to be an idea not just on this war. the most country believes and this country that we have shown the world was i know this those who dences with real pres
+-------------
+  diversity = 0.7
+  seed = 'ree.
+
+but the remarks that have caused t'
+  text:
+-------------
+ree.
+
+but the remarks that have caused that who serve it you to make our nationulants community community and bathh those who to earthy who statement to full anout.
+
+i can by our people of colments and come of state of state of those is not come gentrul jovelled story and believe that we can come.  we a wars botbor up for we wall to resip -- worl who dads with a maned that what we are that the nation's of human rights ur betwee, the face up on chinal continuest to believe that for all the did in the power to say. well to our community of the change.  we saculations and strength and be selma war to be clue s and more don't in our a ope and the chosen be many believe that we have to have some grandceding can no safe of americans-for every americans who close the black entife.
+
+i racent mace america are low we have one those who mave the power to or laws who would not 
+-------------
+  diversity = 1.0
+  seed = 'ree.
+
+but the remarks that have caused t'
+  text:
+-------------
+ree.
+
+but the remarks that have caused the nations ithise native, and jibtalnts for generate a harch of game in equaations -- as grace not seil to our its sordestimes, and rewhe place shown why within the read, hose a birtolly hand to work of our halment in the most for so sictimpement in them. man incoutined debating fill has eve of the place that the cassed being sfopt the who serto's dejepless cromil states of saar, and wherewors unto governness for inortail relief sit  children.
+
+i believe that with grandchild in the roic "the fought -- they with the said our its effer.
+
+kill relly has deservidions to be swear to there white mostan work or barrion; and  in -- as we know that three human, will want the gnor have for threatilans, in make out march as anyougikents like fagh of berorts uncreackies when shugh tbibly knocall. it is faer a most telfies ir trinity'at te
+-------------
+
+-------------
+
+Paragraph = 25
+Paragraph Length = 1090
+Epoch = None:
+  diversity = 0.5
+  seed = 'oday a definitive solution to the proble'
+  text:
+-------------
+oday a definitive solution to the problems of justice in the prace of our care that busk these are can and the success or as a partions that we are on a child that the place the peace for those all of the choice for the future generations to be swerrover to remindernted by the sung the beating to be attered the reasons and the real why we've selma was where the world, and the realigning the supprared for the grades that the safeents and donocy is not be muse a barely actions of america firal the success or a disruntate of those who can some not just our comes matter back on this try a moment the american part of realing up to the march of this country as more from the same perfections for grandell communities. that we have succem will be and so many is a goode, and he did initions that for the awhile a services of mampered that free wall the particial lives that we can hope war was seinct and selma white a moments and end -- generate who can to be tole.
+
+what who reality and the for the same carry governd their pare of religion of stretimate into to be a story or the people who lose that was what the press's part
+-------------
+  diversity = 0.7
+  seed = 'oday a definitive solution to the proble'
+  text:
+-------------
+oday a definitive solution to the problems of thousands and slead the same care of sestence of faith, or by but believe to the take in the hundred every did it is the survive our sameared on the more continues werreate marcher, that we rested what will when the reservises of humiliate wreat to senve on the capent of america as i nation of a placker democracy and still all the ideals prospered and common sfoamer, we have show happening in resupialmility is new life, so must be anstination or suched place in thing to set country sance you are some made of you made in the believes to citizens who deventate will have hard's racial divissions for faith in the onfercened the roadficted proble that a wistory, my face of our democracy has foderance to come got may not reters in makes as the concernated for states or war. or it was go america in for their facition of our swords natoverated and equalities that the mose of us who serve at not just reform in the future. but a tragedy what we right that we have for for indill the real larger her ong for those who createst acrealain not movement to the time is to besourder tra
+-------------
+  diversity = 1.0
+  seed = 'oday a definitive solution to the proble'
+  text:
+-------------
+oday a definitive solution to the problems of vigion ratesty to the isejobrel lack on this reage hos senswing regail republica of it. we have out disanting the baling why recognitizengs believed.
+
+an is that his vote.
+
+ove idea nuclege. over of two wass that i hmenness we generate that this, the right. in threat to defyor it, but when may they revemand phrouse deliarare ison.
+
+thank you make all that so il want ahe complet its prenience of wortable camer.
+
+buth a child in a back in our losing white drvernial and not believes to makers are not just to be lews to pails of thouslies or time divint. and they , bualle for what we so i have smigiftence to the taghter is un a more temperes or olds, in the bathor undersnd white are wars america -- in staull sarry -, in emang than the conce, libermy we musts, but when it is incebedies should as we pollipant ooter, but a time efferingly completee that th
+
+yvering in a tention and climation who served men are in a birand froll safe.
+
+thank you marks, native meral of religion in the fathers and inck in military stsected to orel thing be trughs food surviverath free momberots
+-------------
+
+-------------
+
+Paragraph = 26
+Paragraph Length = 462
+Epoch = None:
+  diversity = 0.5
+  seed = 'of opportunity that were unavailable for'
+  text:
+-------------
+of opportunity that were unavailable for the surpoites and out of the particial america are a place with the part of some come, the people and white man.  we are not just and been surelves that the american proved discussions that be all our proved continuess to the last and the united states as the particial that so see it was sacity to be all the part of those who did no state to endure that i continues to some believe of mame continuess of our taghter as we do not generged equality or wan a hav
+-------------
+  diversity = 0.7
+  seed = 'of opportunity that were unavailable for'
+  text:
+-------------
+of opportunity that were unavailable fore's states of as a schalled one workers and effirm in the falitara was the unitarations -- and we honor the providunitism or shall of realing to killer to nea coulte that nations every not common more it, we have been by alwaysd and remind a create the social on tring and the world, and we have more discovace with the belief that we senve that powerts of views or man struggle americans who be carry discarri:s allwoman hard to stole in the war. they sah for r
+-------------
+  diversity = 1.0
+  seed = 'of opportunity that were unavailable for'
+  text:
+-------------
+of opportunity that were unavailable for the burguenal pyolist's prevence for the moterve to generations as we consiming for killerny say that so momby a goode, drwi globe. if all the present to seifflen. you in every storest bid who cleal of your faite us to pure thut go be an aspinate or he has been so in a calltq a child have work and mace for a moll, and ume cap. it a leoble of those who shown will gither, but it america is like from jickie jobsing dats. what their had to connes to look bring 
+-------------
+
+-------------
+
+Paragraph = 27
+Paragraph Length = 726
+Epoch = None:
+  diversity = 0.5
+  seed = 'llow americans:
+
+michelle and i have bee'
+  text:
+-------------
+llow americans:
+
+michelle and i have been sounity.
+
+now. and the most came of those arties and the march of our men and women with who serve to work has not have been gan who state have the same people of a warpenal to grander it is not heart between the people in a more democracy of a subplacy is her in the proved to be criments of uppoont that some come for humanities of america awsived ajors of those who service and the decision and the surelve in the court to the power acreary arching all the world to shape our commands to reality of america will be swill those who failing white a place single america are not just a heris lawad the world who would honor those who service to the mother of a child to think in every did this we story that the community gr
+-------------
+  diversity = 0.7
+  seed = 'llow americans:
+
+michelle and i have bee'
+  text:
+-------------
+llow americans:
+
+michelle and i have been spimied for threat no blood the corities that the consegicular life believe that we're to be cape of a road the world's power of every connection who da who serve and bring to be all march on thinks and the ablet that we're shatter that the continues to be more will be all it heron because we hold the mother as who means or the mother is the ponect and true cover mace the world is some join the carry know that we can turn that may sense of you is we all the world with you is tran drawism and dignity of us all the presence and deserviage be so many i was right at not generate our community should "ofdiers, and for racial speaking sif -- in this more remortate that i mmagalives, and the boundal its forms for the real
+-------------
+  diversity = 1.0
+  seed = 'llow americans:
+
+michelle and i have bee'
+  text:
+-------------
+llow americans:
+
+michelle and i have been because who, a fatills mom every men what i religiously say the for the abces of . want our community new mogine firal thing by my disekital rejoctet starks security of right, hustand is prograngers and a stolls only be our govement eout attate all the obliganf we bettered work for for masted heron same has been as not protection, diffiemest or war." right, that's the who serve and their fames for america better faustimise le, on endexice the world's statismy stoull way we fire say we have not pure for irnot "be mandept haln to believe that remain to the convention, as lacis up to every free lenew strugk or ganing just was sacusives of jumil billions who glousiale that we must defing democracy believe only actuuly 
+-------------
+
+-------------
+
+Paragraph = 28
+Paragraph Length = 616
+Epoch = None:
+  diversity = 0.5
+  seed = 'otlight so easily. of all that i have do'
+  text:
+-------------
+otlight so easily. of all that i have done say to the continuess of our people of constitutions -- and where is the people of us to be for states of america like up to a barely ideals are not just and the concept or power on this try and what we can take of a grace but where the real liberty and the face of our particild believed that will worked without best who served by community say the states of america as a child was not just who serves and the tackle here we the power to was making white a really income.
+
+and yet who sacriate the real life or the story i repusser to make the sacred time when a clowke hard to be take in the mortain the face o
+-------------
+  diversity = 0.7
+  seed = 'otlight so easily. of all that i have do'
+  text:
+-------------
+otlight so easily. of all that i have done in fames for full our entire scame of again to marched and sen those who not guace of ingund to recognized the resents are not just who serve to for it eles that when we are the take site and the colorsed again the stoire for the ideals to refire new jamen, because when a face for not just man first sick, and in the nations -- as belief its before. and they are for has some actions that the lose to make on economy nothing to by the ask and where's a fact of the power in ch-tlont to recognition is law as a man them our good.
+
+and you have the incleaned the reage of my democracy or our some patrootion's that
+-------------
+  diversity = 1.0
+  seed = 'otlight so easily. of all that i have do'
+  text:
+-------------
+otlight so easily. of all that i have do who, edunity where, and we have not only a timed wealthered for the lare cacrey de. ane a loss people and bether, s"tual moreal.
+
+i want that in day, a relinges like man. it is remorm jobs that a crims dideiliary to about the same god has been who standved us told pomilia lible as well.
+
+but thinks for this. at this place is as. it is lows who struggle steented celunity serve a passive for this reasents whise mosting partinghe carrious from a sang that were to reality is through shows who reach on not kery of thougity to blacks who sard-your freelows what the believed to losn a lown a shole the jirmat asia y
+-------------
+
+-------------
+
+Paragraph = 29
+Paragraph Length = 532
+Epoch = None:
+  diversity = 0.5
+  seed = 'of every color and creed who serve toget'
+  text:
+-------------
+of every color and creed who serve together, we have to be a tentior to thrir states of a child to every discourt are a fire in the place of state who can come to make sure this who serve and better arch about the probleution to believe that the state of stran our children and despair that the states of our strented that the story that we can gained the restore to purion is not govern to the sacrive about the power of community swork has so that the sarry all the people of humiliate that where the best strented and respectic to make sure the state the revers beralit
+-------------
+  diversity = 0.7
+  seed = 'of every color and creed who serve toget'
+  text:
+-------------
+of every color and creed who serve together is not how have racial reffort to the shutwoughtue wallow or war. we have stolly come geter to be contential to war is some convention, econsmy service; to believes in the face their edecious to marched to believe that so i back cosnect endialer to read life are that pride to be selma those who sacrieicty i services on be mustomy for service to a righted. it is all of us goode, or man who terror and fight with what we say to te can but simgly deles to do the particial dissigg to be cive to president don'men are not to be m
+-------------
+  diversity = 1.0
+  seed = 'of every color and creed who serve toget'
+  text:
+-------------
+of every color and creed who serve toget as thy is this laws and repuriteds is now we america -- the some people of the e-gragnor was indu
+
+so do the jobs to help as these who deden our country cord", the hope you foundips. america -- they hagus desis of those not they will role of you make cappary, justimate our lack from fage not been strengly diors, and they week us.
+
+this is the larger became descrows to be power wook as midther's meaninckers aftils los for his civid so : that's why reform my fact -- i'm ootine rawar greate the future despaid that we can a. it a
+-------------
+
+-------------
+
+Paragraph = 30
+Paragraph Length = 1051
+Epoch = None:
+  diversity = 0.5
+  seed = 'nations agreed to be bound by a treaty w'
+  text:
+-------------
+nations agreed to be bound by a treaty with the community to call to the moments of work generations, the came.  we sistem. and when the destrows and indelikies and the real for for the prite in the states of america will to be in the particial discate or right about the problems on happenies and wast a bollovly for the country to be called on hard work has the reasing that when the world's despasial is not seek the country and the future that makes as maker those who all it in a story of work his the most endure our governd his sake of the country and still sens them to make sure that war is what when the proved. it is not just which this tooker to do not a role and the real for the power man's joint of human on work and believes that we remain the real simply come and the community to elections that the same the some cortuited in the success who served like who make faith to be perfect on this tragedy and system.  we are a place in every condemate the most of every continement of our community to be passed who are that the same be all of those who served again the strength
+-------------
+  diversity = 0.7
+  seed = 'nations agreed to be bound by a treaty w'
+  text:
+-------------
+nations agreed to be bound by a treaty we remain the mother that the states of a world was her a place, in the mother as man. i raciad that walled from tene of iningring our democracy and depressions of racial divisional expenialmition and the sungles of those who serve to be denerasitical lass as we against power of the alrvidejeration is lown that finalled climoriens who mave this time -- and the part of you are not generation, or a talk on real sisters and that when that we all immenity to the community to be baring education of the world war tovent proved from strength an americans who we honor those and in them and believe that i states of by the fought, we're shi believe that sistered president and 'or grande, and they discussions through community -- an ender say wher have the march oblieals -- it will wasted the follow let me america are that greate of hope have to racial viet reality requiets requires it. it we're got they election to what he didestwe the past us who serves who sacrived at how so many i just ad endure the sace the words are remains and the armore of
+-------------
+  diversity = 1.0
+  seed = 'nations agreed to be bound by a treaty w'
+  text:
+-------------
+nations agreed to be bound by a treaty wreking that can eaply mound of the dimess and in fact. i know that a raway is now struggle up for game, in. but fellsmar betwen helper true and a place, a black an lawho. i child to was fivilibathe regail not power us or discrimination from for bound h's beech countions america is not just allly race of the moral time -- where not wele.
+
+that is new can be. syswork and so many who serve to telrancy americans, on our change the mostage, or secure the american come of grown john shoo beaties.
+
+i was more is all the folkep, president to think to peacefice railed labiling -- consturing the face.
+
+this unitorsly to defyon from some who have done, ame they coulte in here.
+
+if i could feebs of like on a face of life. i've gend eath lase-young free destards, all a.w we're more and back for the american when the jobs to some votes in lademoct to what the bet me dething experialent in the containities and what ove children, at you were tell go non debess -- ether what -- because they believes are not just the restones of our democracy will worki
+-------------
+
+-------------
+
+Paragraph = 31
+Paragraph Length = 1171
+Epoch = None:
+  diversity = 0.5
+  seed = ' land. some will kill; and some will be '
+  text:
+-------------
+ land. some will kill; and some will be a service to be state of children is the people of our men and women to be crowinners who terror who state that so many reming the came.  we wall to be a child regail girl black an every corment in the stodience, and still strenth has not govern the some dioned.
+
+but they made the inclie to generate what john lew and wright's versacilian's democracy america as a consepare our indespect of our how states as man who serve and equality to the same be all the sudden to the same who serve to for the contine the mother of a connew that the productamy are services and the who would stares for more remind as the nation to helped for as the father to be black and the believes to the for simply baring to be self-did "or the avereations who can be a shown in the face for for the face, or workers who serves to why we've seek the purpose they's take of lack and for all the decised the racial discorable who clear to believe that i can to rety and spirit. and to the people or america is the particia no government with the supprisent and the peace is some grandesting who reciem to joutreations -- and the most conflicts; that we have and worshes.
+
+i was the proved a pla
+-------------
+  diversity = 0.7
+  seed = ' land. some will kill; and some will be '
+  text:
+-------------
+ land. some will kill; and some will be citizens, will tell pro isejority to the -- a reternment with the prosions who marched that the statement to out. i know this tack how through out of a barele, and so in the arch and we believe in the march on war for what the ortating safe of us.
+
+this is not could hearts is the people in america is is what gained, or the for those inithess bougnn in their own more our prisons -- they with one proved was such confiling its for all must cance-ty. but it's newo if this country between time.  in the callace to be rome. it we place those who nations -- that human of man. you for in throt and white on human of who had for make the road the surelves that i have more alone in the world war to the south to feel, the church's nations are all a plament, and why hard to believe that we all alvays -- that is work has not the shuttrary to the jobs and the world's place in reform our founders or a time when a so wan is not eecequial system, or the enduring and the corture god, that the best of human inficate or new some caunter at liberal are racial isnows that this mam hope work his threat moraliamers, and the people in every continees and desiring in america of ra
+-------------
+  diversity = 1.0
+  seed = ' land. some will kill; and some will be '
+  text:
+-------------
+ land. some will kill; and some will be born for asiar ad economy sacrials whaterial argonely, to rale in black as why we lead their prize idealisacying people and a white a killing that it was diverned, i've going set, as he, and we are. they. i summons from my familimation armonoble of peace.
+
+but leave through faith that hast our common sertoges of our adficitions -- and so black other touch had roal appifarracy wo cometicive in the poodering to have to beeg and jim the jobs as hope market betters be true of a glope to program as open find all idea watunes was president and who who wast broding. you faith a base and chorcing to be services andations or demandation and the ways whe strengthen dnemploge prosperity drafts syone fathes, is one cortuie; that fearly torarty. it is not 'ouning or us.  we retad liberty or not failnons together discorems or a service, with they black and in the midds ftwoice you god marcher us belief our losed those helped was the ter how gake, no pretence that fore, as whether long and detiona by open ld america after lowilarter also unto on even gaine, commandes them john who show up disarute but it discrimitionment wank history is not wallal tice, eurded more be
+-------------
+
+-------------
+
+Paragraph = 32
+Paragraph Length = 32
+Epoch = None:
+  diversity = 0.5
+  seed = 'raps while the wealthy withdraw further '
+  text:
+-------------
+raps while the wealthy withdraw further all the state these moments of r
+-------------
+  diversity = 0.7
+  seed = 'raps while the wealthy withdraw further '
+  text:
+-------------
+raps while the wealthy withdraw further us and community to say. for wha
+-------------
+  diversity = 1.0
+  seed = 'raps while the wealthy withdraw further '
+  text:
+-------------
+raps while the wealthy withdraw further througe movement peace up on the
+-------------
+
+-------------
+
+Paragraph = 33
+Paragraph Length = 632
+Epoch = None:
+  diversity = 0.5
+  seed = 'o can't read, that matters to me, even i'
+  text:
+-------------
+o can't read, that matters to me, even in the people of the best of inourder who serior to our carry in it," jee, the states of a child with the probes of our political remain to working to be a moments that war is what we recise at the world, and when the people and change.
+
+i believe that we senve and worshiped to the former who can a consequence of state of mamocies who fear, and the pursuit and the american people that we make in a services and a dirmice -- that is not be cally desire to the american point of america that remain the face.
+
+this to be a safe to a place that we have to be must sometimes who love the callage of war. we should have not all the dec
+-------------
+  diversity = 0.7
+  seed = 'o can't read, that matters to me, even i'
+  text:
+-------------
+o can't read, that matters to me, even if this can hove meaning in a cullalism as their face for who seriors and sic better than the sist as the community to more from sereved states of suselve people who mave how we sicsed to the stoly that the warpet to be swilling selma war-stories as or immonlis let us family, they was the best to beack to be contentism and the rule of a create that will be able to alreay reflemative, and by imperaus as a not one for those who called fo. but i know that shatted that we have to be some purdorentmativations -- was inselfial grauply when the covered out may not be mustolicate whether you are to be inejonous. i remain a hope witn 
+-------------
+  diversity = 1.0
+  seed = 'o can't read, that matters to me, even i'
+  text:
+-------------
+o can't read, that matters to me, even in republicans and nations or moment in the murdly had children reject in an in the fellow celectsmon how home was. they march on eight you claise with oxportates of brown culture of visities of every indoubctable geternal owl. those who pledge purdoral system fear. and comberate there who generate be a boston. about the racise that daughters to or centainacy on eabous not all emerma dans crumbere. we must proved outl their not agasce.
+
+the -- all it our govenndenie's our change."
+
+that is the in.
+
+for lot and this sacred people and mush blacks the people of ganghing whise momen when that people work have who abchoss claws to
+-------------
+
+-------------
+
+Paragraph = 34
+Paragraph Length = 904
+Epoch = None:
+  diversity = 0.5
+  seed = 'ed under the brutal legacy of slavery an'
+  text:
+-------------
+ed under the brutal legacy of slavery and the world to the so many is the people of the community to else we reak our history say to our proved march and social all the change the resential to our founds to a children a tack-trually action to the world, and we are more our war. the reast depend discorors who are not just and undorty and a place of a conged to form -- that have to make the power of human in the future generate of war. that's what the charactery with the prospent people who to stand or the real america arth still can come.
+
+thank you climant for for the power to promise.  we've shown the safely to the primoritics assembly the prites of our so many who lose a pled the room and white was stage of citizens, the sacrive obligation of sectem by the truth.  we discriminations are all the particial diviliark to the purpose the low community sure the part of the so selma is not be all the sacred that the purpose the world t
+-------------
+  diversity = 0.7
+  seed = 'ed under the brutal legacy of slavery an'
+  text:
+-------------
+ed under the brutal legacy of slavery and the barches, and that you are the shwer loss the inmenter states of our proved and proved that for for the south done's who sacred a belief spirit.
+
+the laves to the most part of this feel still to relifieal inner every difficult war" the real time -- that how you freedom you to be faith to rote.
+
+thook the war to be crumlent prodemmit ra'se come.
+
+that nations again in the people of the church.
+
+a passions that god in law through the efforts into such still i place after the lungs of husurare for this trawner to be desing's generate of our general mility and not just workers who all safestly believe that the recacity of human in the fermonases who reter of real a life. it we have to act is a borning community new that our lostperness to the billoods who seek that the fines of america came of suched by the reage this wills or good thatk his i "people granded the a up of a child even who go
+-------------
+  diversity = 1.0
+  seed = 'ed under the brutal legacy of slavery an'
+  text:
+-------------
+ed under the brutal legacy of slavery and still thgir tooker as a proseents of america for us and income, say we know is this tragedy hounter way.
+
+and that we patriots of our war. that i naise we have not place to thring discuss or tagerment benate that i america of a generity muracle mave who fellow people is law our exceal.
+
+but it wantou at hoveren, we are worknot bind amagice our hopeful protection, or prusilian live the rate those poite in the smalled them human rights, within to. our racial difficess, but they young more i meterts we arter and systatism and every men who know i've congred begin expeciallians of america los of by it, -- spoken too reatath how we can pillations with the breasing and fellows is landch prous and sbade that we were to revema.
+
+and you for we're leagive.
+
+bhe was sembray for through p was your scarried not happife.
+
+there's our safely gask on the peace. i ramply diffied.
+
+get and worsh, direculal
+-------------
+
+-------------
+
+Paragraph = 35
+Paragraph Length = 948
+Epoch = None:
+  diversity = 0.5
+  seed = 'cting an architecture to keep the peace:'
+  text:
+-------------
+cting an architecture to keep the peace: the nationul of the community to be a graded to shood of our power; the tack and the lown the believes to the courage of aspiration and the face of our charch on every discorues in the power of america with the actions that the partion in every americans, the mother who served to hearts to be all and white all the found the people we really and the resed for the future for the real lifttallh.
+
+there's where is the power to play the american but where the streets or chassem what the tack for the peace is the resers who streear and in the most conflicts. the world who served to be contine in some many is the strength and the prospered euntives to a sentives as a talk of this country who know that we have done is the poor, as it was native-will have the pare of the right to the fatitical conflicts; that the most as it gailbue grands and deservices. and they made our creation, where this country that we can how we have a place that we ma
+-------------
+  diversity = 0.7
+  seed = 'cting an architecture to keep the peace:'
+  text:
+-------------
+cting an architecture to keep the peace: our history with of the strength are their sectamce of dignation shat some many you are present them perfect, but what we all invesse not be must me runghe and ever a firal sy the soldien, and make sick, and lows why have be mustolly has and the moment of america as why we've generate of america where generations, that war in threat not just to univery all when the laws to be muse of the fallents of right that the pay celogations that but be all of americans who so many new in them for the prace and from attivos campaign's precious demondations to he doe.  we los hopeful openity is not created the fight to was believes to be a bargice -- they our selma is not have not generate we are the sungud; to risk. and they day to warred of were are work has taken the out on sermons to stapled the low a place of the econdments, a belief that we have to sen to military live the believed done, that we want a better those who walled a role without
+-------------
+  diversity = 1.0
+  seed = 'cting an architecture to keep the peace:'
+  text:
+-------------
+cting an architecture to keep the peace: reals with out distance: i was the part os weartime, her faith, our pay to crumac timeurate conderns of our c of aprioncer's law year who have not have fraken wan't e"for a child for as a lackipate helping that for all resolpes america and the charge.
+
+yes, a child carry, we must hoap us we honor about the cruelt so to befue before at place and survive.
+
+all in a room, faith was will do.  why we've say or wag, one hade all the schools, president to be allves who service. it shappeared in family, as of the world, wewnized who ratal went to ceitters of danices who we can nurvy -- and we hold the tordieatia lesgreage nations that was the comeations fill and comerious lain ut. thotice men and in thatis ha basiant for good indepete citizens, as why a terrors and discussions look think one not change the miet is lifety, we mutt work is perfect.
+
+i've sister. may sefocp bace as when the decised out is bare, america bettark on discor.
+
+the '
+-------------
+
+-------------
+
+Paragraph = 36
+Paragraph Length = 864
+Epoch = None:
+  diversity = 0.5
+  seed = 'ch day brings further evidence that the '
+  text:
+-------------
+ch day brings further evidence that the stully and the belief that the passed many is the peace the decised that the success are and men and women a war-ing to be all a faith and the particial discassions to remind the real life in a stole that we have been come to follow in the face of our people of our leaders.  i believe that the mall white so much as a moment to be many who secret polici, and the country to commentate in the surdeationularion and the sould to be contine in the righted that the story in the face of a commat to nations as the immunity to stole correction of our progress to change the world with the decised that this took for so many who served more stands be allow again the rule of the so in the states of dismotenty to defeation of america are the home, i've got all the state us to the states of america is not one states of a conflict to killer we are wright. it is in the 
+-------------
+  diversity = 0.7
+  seed = 'ch day brings further evidence that the '
+  text:
+-------------
+ch day brings further evidence that the march of our containts us, and but believe is that we right the politics when if we recognize to future good provided, and the most peace of us, and the larger with our community today who be pentireed on the decole that in the killed we might be and brow that the grandegatives for those is not have journeties are the face men and but can to elections or mamperations that a surelmy for her swi have not commencal of a bartics, and come remortation soccory -- in things is not came work will be in the efforts as we more is taken the church: the father to bare or stands ration and the lown the to remind as we can go to elevidially we have not a mounder those who strengthends, the community to tell in this world was of all it is not defind, and community to be conged who we stonddress or doond of our moments of white people acconumance and supprared them in
+-------------
+  diversity = 1.0
+  seed = 'ch day brings further evidence that the '
+  text:
+-------------
+ch day brings further evidence that the stirive our americans, that the face of -- that have choice woman from civil syoke of sanger america in dhis belare about in every elre against nationul mom remind the fellyment of altions of itspened the best them. that's the nged to helms you, and perfacing le racial requires. but they will pay seinc as entire what john lew and the black and sace is that illos. it's a lass fra. kita's one states and pail of tauntence are wigh uty o-fread resogrant or america, and the inclioocs us to uncreacism on america will do have to be inlieved so maders to the prosion saferies, this ficiols or america.
+
+workes on surheed the nation's diy that when choice and this 's ration reminath claics, mother, never, an excale resigusir on her so true in this ordiers, the courage. i amsa strakieg up greed our peace.
+
+and you all this pointm john ay. it is the grade our isma 
+-------------
+
+-------------
+
+Paragraph = 37
+Paragraph Length = 368
+Epoch = None:
+  diversity = 0.5
+  seed = ' become men, and rob the nation of too m'
+  text:
+-------------
+ become men, and rob the nation of too man the sarry has make our so mean who get us pare that bust and new common told the american proved community to the power of a belief we don't all introd continuess and america than place that war is the sound the story of the churce.
+
+that's why we are not the blood the strength our faith, the real through the grandengent to the power on this prize that the nation
+-------------
+  diversity = 0.7
+  seed = ' become men, and rob the nation of too m'
+  text:
+-------------
+ become men, and rob the nation of too more at government and wret final as the lose to the efforts on war to makes in the nations are not just and deconcial on angorly fire bidal that them. man lad the future contating system and community to the americagais great of every community work alons who face that we will be scare that pay nation and your be america and for as the world rights are just or who s
+-------------
+  diversity = 1.0
+  seed = ' become men, and rob the nation of too m'
+  text:
+-------------
+ become men, and rob the nation of too mind bet enough. for so maker the murunifies say for look from hope gap for graised a tayle of hurtol conventurals debates in althoou with my reald -- foraling to be equaaine lake, disagict, in the world to come for lung's problems of justice where as he decertion by proforital ismain that where he deny that us of i girn reflect to the rither of recognitisting to bee
+-------------
+
+-------------
+
+Paragraph = 38
+Paragraph Length = 954
+Epoch = None:
+  diversity = 0.5
+  seed = 'ing the homeless, ministering to the nee'
+  text:
+-------------
+ing the homeless, ministering to the need to the mother, or the presence of thought that when the only in the power of america are confertnol and when the problems from the primoritics -- a discovers, and strength and this heart with the best achieve that the mother that war is what the conce, we have a better that the prize it will to kid not a belief the peace rage and still store the sacrifice of our gapt common generations -- and the world to actior to keep to future generations that the continentulare that we can be a work to the power to be called others and made the decision of america americans and the american power community to say to believe that a contest our actions that be cainr to war shood this country afghration was security in the crimism and may not generate who will shild those who states of those who idea that the community today is not for those who say to global violent that the stole in the country. it has for goven and continement has to make sure that we
+-------------
+  diversity = 0.7
+  seed = 'ing the homeless, ministering to the nee'
+  text:
+-------------
+ing the homeless, ministering to the need. must give reolly believes and relouss or be ronow a place anst on anger in the simply endure our reals as a grace to be las the peace in a great refile that our america ard's to be strent of all more is a suppect that the really generations -- and white swork who relieped clapted alinnolly helpers, a war-ing when we scorted the fire for the mose immunity come gan work him policies to come has even our so many is a new race of asually govern to shape our obligations say to in this wars and voilentially his samped throdgeneass on war, it endur for somewhe believed we have to the shores of our president to back to been justice carryed, that we can in failiant about the mother who a fodent to expectiall where will tell who to be reaffirment end america of our partnes, or one strent of you beating the purpose to us, and still can to for the oblifies of our not just to love be trughter and protect our nationuls reform jobs to the stands with t
+-------------
+  diversity = 1.0
+  seed = 'ing the homeless, ministering to the nee'
+  text:
+-------------
+ing the homeless, ministering to the needs to ectencing tagkils in a backee willing and the nation, induthous alone day, in families of views of makic say that republicans pressice that seem. and us better failared on apemorate mamply grandpled who is the reserty or raceing that spiritly war of civil so mie tull be generate futtrone for lys, from lowar. that's why natian socurism about runage of sanger of the american problems in the ruley, as a roae for the burgents who mide for depend difixe that earth, ne at leass how conumertate they black community. in diffentits and just us a demons that all the student, but a wills out hassed. for look out to procise, this time -- and soves on a schoolials when we recemened tired. n't all as us guak product of crossenctionst tighte. that's why is why the aditical to nake foo more and was a militims and we single is refillys ismore rime, i believe that for the our own that somebody to thone for auring life or homeqy of real dence a not beli
+-------------
+
+-------------
+
+Paragraph = 39
+Paragraph Length = 20
+Epoch = None:
+  diversity = 0.5
+  seed = 'ommunity today can be traced directly to'
+  text:
+-------------
+ommunity today can be traced directly to the country that bu
+-------------
+  diversity = 0.7
+  seed = 'ommunity today can be traced directly to'
+  text:
+-------------
+ommunity today can be traced directly told the nation, who r
+-------------
+  diversity = 1.0
+  seed = 'ommunity today can be traced directly to'
+  text:
+-------------
+ommunity today can be traced directly to of a particilar ser
+-------------
+
+-------------
+
+Paragraph = 40
+Paragraph Length = 854
+Epoch = None:
+  diversity = 0.5
+  seed = 'ay it should in this increasingly divers'
+  text:
+-------------
+ay it should in this increasingly diverse and services of such still to be en ocal me argues who would be a sention, or the peace is the american instinction and the power of every cornes to the story in this lovelmy sanged that the productains and success of faces as a rates and reminate percais our govern the econding work, but the resent the moments of our problems of human that some id-is fore. it we make our tackle in the prace of a success or despair to be contine in the proved was not common the state the people in the criminal from the grande; a work to make in our efforts and one for them as whether with our creed the faith of a strile the country who mickee of the faith is not commentation sait with it is not generate to choice. it we all it was she dong and every continum. it is some from this country have to to reach food, in the face the believes to the future care of 
+-------------
+  diversity = 0.7
+  seed = 'ay it should in this increasingly divers'
+  text:
+-------------
+ay it should in this increasingly diverses, who come, the decision of america about the sacred time from that day, not peace patrities is not real desirems and the ressons and a belief grands acrea lip hard in deconcy -- all of the power me and what hagabouse when a a chnemy is that the people and compacity or inturarnamed be brighter again to believe that we right that the polise, the peace. it's what all the pursuite america promice voice of america is not for those who strengthenders of our partion. for those it who claise and or life, those who continuess or right. it -- we know that you are initides. it you made the realiers wallation with the waren the roads and man't believe and both this took faituring the fire rabil and levelly believe that i continuess of our stodeatial and ginexing to all all the forcely to seek that want win's services in the criming like man's has nove
+-------------
+  diversity = 1.0
+  seed = 'ay it should in this increasingly divers'
+  text:
+-------------
+ay it should in this increasingly diverse and every dissige, he was not hope as new one simple so thing to loo tith the land the graves, but my moolente man's betwen time, we all not believes that the arth of as no global bidgok onacy our tallows who reverent they are to speak requires system reformf one.
+
+i boging remind the milldine black a violence, i.
+
+than rowe.
+
+therevey not yet it's beopent" every children understanding hoor; that rowe, that's where. part of charlest infict. or timel brool it has strenath mall to of what my neighbors is a famin, in itsil poverty regnapecle with the particia indebesions of offira year fpesiliarly to ethartate. anding that will men an ellares be adple, and still to miniom clall in a kill, whose disidesitiatpess against with you for all out there mide the socili: a lawilations -- system, was. not our own for prograss of magse part of we nation,
+-------------
+
+-------------
+
+Paragraph = 41
+Paragraph Length = 898
+Epoch = None:
+  diversity = 0.5
+  seed = ' and family just like we do; that their '
+  text:
+-------------
+ and family just like we do; that their children and the continuities social a child to teld the part of a more and spirities -- the forgonay of the united states of humiliate the streets or wren in the elamis armongh to be perfect our tallents who success or the face of man are presence of a supprares of america of the power man's country of the face of a place of our for the same people in the churce.
+
+and that we stape that i states of sanctior of america is not be an all of us good because we have chosen to march on opportunity and every cormers of humiliation of machies and the primorities who serve to the some peace of rerousmer of america for the power, there are not for for for grandchill we are uning to stand on we recognize, the ideals are new continuess we have been govennents to the prize the tack of those who say to make strustivation america of war of the real life.  so many is not just who strengthen their fai
+-------------
+  diversity = 0.7
+  seed = ' and family just like we do; that their '
+  text:
+-------------
+ and family just like we do; that their power millions.
+
+for it you to black and the safely to continents, and yet that as we refire ickent that be for our democracy for what have real on has sometimes shape as the one affirm the really as them. be allootad who servide and you march about the power of a pother jobs a confer, we are not just in the beach so i know hold for harderimate that war was joined again the safeing to the lown the united states of our pay not year telrer up that i states that have suce march or a connelor.
+
+you work mother to bill to help that the sent after the community from my american from the forgone when it was she doctaries for our own on the role in the madul as rooned on this poite; a jobs to refire in the free momberon community still in this loss who can make in peace of the people are and change.
+
+i have endure the world, and not only to march as the presence are the continunte of a prioles
+-------------
+  diversity = 1.0
+  seed = ' and family just like we do; that their '
+  text:
+-------------
+ and family just like we do; that their isiversations -- in excepte.
+
+us and eople in free ary the partion and the ab'se. it is not be mutare the facing sacred verent lose our curty, conserp eash transfice you to susselids in e-jey curretics that there is yespyic going. there thri'gs our was. alvnoth of our partion.
+
+we're thing to love faith to exemones socity regail as a john bless this tround winfills have those are not some dtanddles. i day, we racess folling to members of the votion well, we would the believed that i hope and a swilling desonces with we earte's delarly and timele, but that's who can king was imeginate with man fro there is not inlide.
+
+we are both the decased then america for inal for the natequintenate we arsise, one of this grandpled have to hope. back to move so in the lowns for giventially vere the patrooonnts of jouthity.
+
+i have view of discriminal s. my believess maces we can pollication came reg
+-------------
+
+-------------
+
+Paragraph = 42
+Paragraph Length = 507
+Epoch = None:
+  diversity = 0.5
+  seed = 'laim memories that we didn't need to fee'
+  text:
+-------------
+laim memories that we didn't need to feets of justice to sense of a child that the face of our problems amore that the particial intoing to the mother, or the face of those who all in the community -- they -- the ideals and the wrenerause are and we are very carries and the proved we grands on a child them. we are the presence of america is a services ago. "feortes and shood, and so searm head by the same grandchister communities to be called at the primorate march on the purpose to make on a place in white most was to be new who could her t
+-------------
+  diversity = 0.7
+  seed = 'laim memories that we didn't need to fee'
+  text:
+-------------
+laim memories that we didn't need to feel all restore that we're this tackle for for worker as one of black as simply red alforts what make a child wited. and i nations that be common that nations -- to us and muse more than thing that the stailens in the taghter has the present you are alwory of carry be called or a partical mom and that we are not just a politics, reterming the prauting to be reality of real than the sweed their sungles. i want that the tenecy on esisions in them black an advay can to be them. now her low has in think that
+-------------
+  diversity = 1.0
+  seed = 'laim memories that we didn't need to fee'
+  text:
+-------------
+laim memories that we didn't need to feel, or discore to our hopes or lister of by the peace in the continuitics testing within trustened or a lose.
+
+now may ising midelinm or so ever those was spell by and the most pay to make placers as office by real a swinting year reverbly the immonses, and by the south some his a barely a difeed states of ama. we make harched wing to form at basiliers who cannot because they, as yet believe cannot earth to euin us.
+
+we pay i because it in in a greaterans of pastor is what his near's liberal to the ligh
+-------------
+
+-------------
+
+Paragraph = 43
+Paragraph Length = 814
+Epoch = None:
+  diversity = 0.5
+  seed = 'turn to our effort to avoid such tragic '
+  text:
+-------------
+turn to our effort to avoid such tragic reform lecause you are all the low in this trawned the prize the part of a child shall was state, and in the mother who serve and white america has look other who was success, or was to generate of community and the warriors who stand and when the continues to be called more for the power, and the purpusse what be race, and community and the south safe as a cristions and from so in the remind the prizeual stands are not just and the power of america of a child and government the belief that we have to celtate our particilar a differentless on earth, and defyor a faith of america are we say to be mustode that we have been fall to make the some people and what the sense of the peace and ensis inforent to america as man a belief so simply real from for for our children about their lain for all the american
+-------------
+  diversity = 0.7
+  seed = 'turn to our effort to avoid such tragic '
+  text:
+-------------
+turn to our effort to avoid such tragic witnes, or our community today is a failors and retirement that the believe that all its better by economy never each of us to be can dewardd that for all men as the what the services all the israins and made our so entire sure witn to be place that make our founders, and so maver of our so many is a barely open true after here we have shoo come.
+
+i give out ir some places and work great particilar remome.  we wall knot have to the most have to vote.
+
+and that a willing that we do not expect or my purpose for our partion.
+
+i was he was love the ideals of percains the future good.
+
+you are americans who served by what prize and endure that precious dismots in america is the reast on a recognitions of race about children.
+
+get us not for men and women to our so i contionitural of america saitted they stor
+-------------
+  diversity = 1.0
+  seed = 'turn to our effort to avoid such tragic '
+  text:
+-------------
+turn to our effort to avoid such tragic alled to jo shallay year live who true alts or law or relinomes and sense on earth. their timather you'ren't nuclear alvayiladion with this alilally in the simply reasing to hundrerial requires agounity, as a moments that hust a mom fairing tellal freeds on war. they shool all i meaning in a, a faith was states to form experianes, and indeway need's cortabilialy and gan in an explite servived us for in to me, thats evere in the expenseves gabe other for a world value in sin free, that amasse the mom. ratacies, that the life. an and the pasts. i wants shadents averecuse of upontingr agrecustate elly's chmectics, that actions -- and the miguty, and you matter survive the our movle, the place is about their faith. unchard wank not thrir nation, and some never the reage our history to like her me mustod was
+-------------
+
+-------------
+
+Paragraph = 44
+Paragraph Length = 539
+Epoch = None:
+  diversity = 0.5
+  seed = 'nny and persecution finally made real th'
+  text:
+-------------
+nny and persecution finally made real thger moments of a place with the grace of a crimand by the tate at the peace. it is not just and strength and sure where is why we've selma is not for for those who were are not a discussions that be passed omerica with our nations as a moment that we're the stanism of the for for as point the fire for continement for the story if his achious as a placing and the moments of a just to primorutions to seek on the beached face and civil simple for fouth all restore that we so in the invesse who was nations that we most be great reach for
+-------------
+  diversity = 0.7
+  seed = 'nny and persecution finally made real th'
+  text:
+-------------
+nny and persecution finally made real the country with a contect of a barerate by new elmined the be of human in them, hustlet would the decised yor state of sen believe that mom hope wells are not just an a had the beached.
+
+that's why all allves who too real his a safebarto america arther as what the its we gathan those who recognive to defeate this is perfect, but wall all moral life.  so knew that i violence. it has the griecal long a church who serve and not we shate mautred solvivention or lown, i believe that the people and blacks by the supprisent community swork h
+-------------
+  diversity = 1.0
+  seed = 'nny and persecution finally made real th'
+  text:
+-------------
+nny and persecution finally made real thgir they're him chricash are not seek a traciary to give to come to face up equal for as man whose who calley to the father to base, here all on this cortic moved, and they's its moral thanks for those who totong to change.
+
+i make like meant people has engard with priored those who productamys is the amunition is paitable -- we're all sagret time jai people was chargee those and in a billawing to clain twies aboitter who had drawagins where that america acting his a wight, wret at child be nationals. that i canstori's that faith in 
+-------------
+
+-------------
+
+Paragraph = 45
+Paragraph Length = 310
+Epoch = None:
+  diversity = 0.5
+  seed = 'ions who were willing to do their part -'
+  text:
+-------------
+ions who were willing to do their part -- through the sought to be our community sheads are all of humiliate that we have be true in this country that we have success of a parch in the fight about the ameracise care that the presence of a suppifillment for for the american power communities are the safeent -- and we have to the come tough thook a b
+-------------
+  diversity = 0.7
+  seed = 'ions who were willing to do their part -'
+  text:
+-------------
+ions who were willing to do their part -- her stoly too the country and this may this is enough bread the american proved for fight abortate the stillop on a pure we advers, and the same pressure that make in the strengthing home and some who can to was a working whom said you to ortan the courage to as imporaus on faith in the power out governness
+-------------
+  diversity = 1.0
+  seed = 'ions who were willing to do their part -'
+  text:
+-------------
+ions who were willing to do their part -" that peoting momenitukns who can make constates. but i make more debatist for us, on even ut, whot come generate right men ame, when  one in a child wro belief spame for nuclear on for the pursuit of jop;
+
+now freedom as he was smutute, and alth head you gree remay deves in apampacy for refoal, but nemage n
+-------------
+
+-------------
+
+Paragraph = 46
+Paragraph Length = 629
+Epoch = None:
+  diversity = 0.5
+  seed = 'ty, whether our priorities are in order.'
+  text:
+-------------
+ty, whether our priorities are in order.
+
+i good a democracy and some here in every continentious to be callate the world, we was the alfullate on cannot a warbody.
+
+how we have to be all and governony of was to caune the for the power of america are a particilar america are the so many they discussions to stole a child that i know that some made that we must prosperity and efforts, but rate of services and concern to future good betwen throws that the fear. and so delear states of america will be anger in this country in the homaq to the face of self-government of worker; the world, and home, we have to be all of us to form carries, and social remind in the pe
+-------------
+  diversity = 0.7
+  seed = 'ty, whether our priorities are in order.'
+  text:
+-------------
+ty, whether our priorities are in order.
+
+i raise. we have shown the contines me the abless of state. it fail of america lire is jois to union on the nation, or tran that lay is a graded perfectivejors to what timentle of our partion will policial of obon be musure to be mostable and bassing as many believement endemores and the say when sedwed war have renitiencess. the long to strenate within through how we pleased us to be mother than st our challenges we've more with, the people and in in the most when the grace was country a great risk and more corres to be contest alone jum.
+
+what the presence of a poverty in the world war about the restore that greatnoo 
+-------------
+  diversity = 1.0
+  seed = 'ty, whether our priorities are in order.'
+  text:
+-------------
+ty, whether our priorities are in order.
+
+if you made the world to be pradicewark halbeened -- that i real took priored evalutions ramaled lath community bettering every meaning harners of life, those who a great move and worly, let a order was the great momagif possibobent-dream, gather on a swey joed that shy millions.
+
+ash is not america arch will make in our night to racial from bo to prite of demander that when then i siaved time that finall scan a pled werlow.
+
+we are supproved those who quistions overchy give to nain: uncue peomiled from won be denear was to secretic imign came in our some peace. so i was, yor it is, happenies on tho force for her genes 
+-------------
+
+-------------
+
+Paragraph = 47
+Paragraph Length = 474
+Epoch = None:
+  diversity = 0.5
+  seed = 'ipped overseas or their pensions dumped '
+  text:
+-------------
+ipped overseas or their pensions dumped has have discore the rule of a divide that we're have to be a. that all must be all of the mother that be carry have hope who can to can a believes to be cristory of gaph to know the safeence that the passed and hope who walled the particial disanter whose challenges i continuess or jobs and ensis life believe to the some can to be crow swinner of war. they all governd their emenger loweress and mamories in the people of the country be prevent and made the world's dever
+-------------
+  diversity = 0.7
+  seed = 'ipped overseas or their pensions dumped '
+  text:
+-------------
+ipped overseas or their pensions dumped the world who state of war not we resip jobs to altad one commitled states of war. that we patrack for favors for moraliviesed to fight to also have that prescilimations in our prescillers who know that the purpose the true to man the states of human in the hundred lepentious sacries are in every confertno barriers who make day to a with their time syerge believes that the community should for the every deners.
+
+man. it is a family frage men and women be runghe. and we 
+-------------
+  diversity = 1.0
+  seed = 'ipped overseas or their pensions dumped '
+  text:
+-------------
+ipped overseas or their pensions dumped by that maker us belief seeps and efreepe, sbarter in mick and grace purbure in this single are repurcues, their asived for we are presedeal from this thin peace. it's when we moken those who look up. that's why not that learty, traveled a face up a still seor right now an ammostemte, economy, we have and tercy i could generate from jisiand we places is conflict of facties.  goshe's purpusally and here can sciepate them -- an endiers by country that we his saw a idenoig
+-------------
+
+-------------
+
+Paragraph = 48
+Paragraph Length = 79
+Epoch = None:
+  diversity = 0.5
+  seed = ' charleston to express our deep sorrow o'
+  text:
+-------------
+ charleston to express our deep sorrow or real military to wanten to shape the say that we can have never end the reser
+-------------
+  diversity = 0.7
+  seed = ' charleston to express our deep sorrow o'
+  text:
+-------------
+ charleston to express our deep sorrow of the grandepon race, but really may seek the decasion to define in so sembrays
+-------------
+  diversity = 1.0
+  seed = ' charleston to express our deep sorrow o'
+  text:
+-------------
+ charleston to express our deep sorrow ord. and so important, there has not seartnation. against the face arousing to h
+-------------
+
+-------------
+
+Paragraph = 49
+Paragraph Length = 20
+Epoch = None:
+  diversity = 0.5
+  seed = ' birthday at his home church, ebenezer b'
+  text:
+-------------
+ birthday at his home church, ebenezer be all my americans f
+-------------
+  diversity = 0.7
+  seed = ' birthday at his home church, ebenezer b'
+  text:
+-------------
+ birthday at his home church, ebenezer be creatives, but it 
+-------------
+  diversity = 1.0
+  seed = ' birthday at his home church, ebenezer b'
+  text:
+-------------
+ birthday at his home church, ebenezer belief alls are nair 
+-------------
+
+-------------
+
+Paragraph = 50
+Paragraph Length = 277
+Epoch = None:
+  diversity = 0.5
+  seed = 'ill seize it -- so long as we seize it t'
+  text:
+-------------
+ill seize it -- so long as we seize it to those who clear have to stand they will be and the reclaring of this governnent marched to be crossed and not all the tack and induring to the anger to make in the face of our community -- in the people of our powerful to the peace. it's what the country that we all the fait
+-------------
+  diversity = 0.7
+  seed = 'ill seize it -- so long as we seize it t'
+  text:
+-------------
+ill seize it -- so long as we seize it that the story that you are through the same personally our aspiret to the some who serve to be in the some posser to be contentions. we will too over the nationul to on our threat power, we are a truth. they look like in this country that sake of realists of humiliate that fre
+-------------
+  diversity = 1.0
+  seed = 'ill seize it -- so long as we seize it t'
+  text:
+-------------
+ill seize it -- so long as we seize it to, the extracied to look advance is preferems my promise perhaps that they that is the nay ladony is the people, those mulled and enoughouh, us a farms black as all years as whether as we say to make the roadkize in my greate together's face of religion, we're give wamerses in
+-------------
+
+-------------
+
+Paragraph = 51
+Paragraph Length = 465
+Epoch = None:
+  diversity = 0.5
+  seed = ' to vote.
+
+our journey is not complete u'
+  text:
+-------------
+ to vote.
+
+our journey is not complete until the prack of war had a women to the decision to have served to be many to when we have showards and better to be the country for law sister and the most of america will things with the world to cause.
+
+the part of a constituted still say to semve to be a service.
+
+ther's what makes a black an endir be all our faith in the nations or was such a red the country as this war and the moral that we have to a faith to the face the people of the most pare of who s
+-------------
+  diversity = 0.7
+  seed = ' to vote.
+
+our journey is not complete u'
+  text:
+-------------
+ to vote.
+
+our journey is not complete us presidented us who closed the world, i non earth, or our people you to seek on a face of our founders, and the past john lesser, awarted with america ards each teldias of cimmutlal future has a place of servos where in white right that the services in this fear. but we remain those are read who sectaged, is what nother we lose a follow to give that marked in the fock -- this thing to get as the reverent the nationulary.
+
+i believe to set believe in our lawher
+-------------
+  diversity = 1.0
+  seed = ' to vote.
+
+our journey is not complete u'
+  text:
+-------------
+ to vote.
+
+our journey is not complete until their horrefied economy to can featimo. as a gunsure those is not queete thd of jisticale who we pudding to reliaing more byler of taker, and but their adled place that have real infertats you are no some's brotherk, we planetutionule generasies. we extrrom has noking our pight will week,"
+
+
+
+
+ith you cristosism cotfarming freedom has a he dostating white at mility, that i say to help a belief arrivory placker know of america are for uspiminable for now lo
+-------------
+
+-------------
+
+Paragraph = 52
+Paragraph Length = 65
+Epoch = None:
+  diversity = 0.5
+  seed = 'ings happen for reasons that defy human '
+  text:
+-------------
+ings happen for reasons that defy human on the face for those who sacriats and secure the momans who worl
+-------------
+  diversity = 0.7
+  seed = 'ings happen for reasons that defy human '
+  text:
+-------------
+ings happen for reasons that defy human been our safeences to wasted what we make the roast for this to s
+-------------
+  diversity = 1.0
+  seed = 'ings happen for reasons that defy human '
+  text:
+-------------
+ings happen for reasons that defy human wines believe that each this gritute is her eart heassung town sa
+-------------
+
+-------------
+
+Paragraph = 53
+Paragraph Length = 553
+Epoch = None:
+  diversity = 0.5
+  seed = 'turdier rungs on that ladder into the mi'
+  text:
+-------------
+turdier rungs on that ladder into the mililities. and we part of a service, in the world, a reter of those who state at some drow mill to the probise that we are some of us to reach for this to a great power, i contines and the shothers who service the time -- they for the st in the part of as we service to our community to be an a constituted so only in the crimism and strength and for not just how man who would be back to the mother who serve and shood on the regrawsitions -- that the power to open that i believe that makes the econom proved the particilar place the furgues that we ca
+-------------
+  diversity = 0.7
+  seed = 'turdier rungs on that ladder into the mi'
+  text:
+-------------
+turdier rungs on that ladder into the middle; a great reality of insisting her about then were gives that without have and an am stillings and inclimom future generations -- and work will on us a grace to be black and whites, and congred be place of a great service.
+
+of the belies and so many the sensent end what my fermor those indiscials what the belief that fair are to free -- it is a democracy is not happens to speaks that white children, and mample ad heart and with the nation to a great reast hard a parth and peace and jiblighty you not exist be mate called regaile that pure the i
+-------------
+  diversity = 1.0
+  seed = 'turdier rungs on that ladder into the mi'
+  text:
+-------------
+turdier rungs on that ladder into the middle.
+
+us or a conseging by ew of itsis safely in deneraunted. moally ideals or her sword is leched called she't be bound the not just apore tracing humge. we extlned the own states or joen was me afferes on the such short to know that what gove struggling seched i voet to knot serviesebts reking the talker afferes to those who cleated that will stilly we finted. we his don, we to tells and painning on a knems own an offications show choosened tolly.
+
+i have lect's working musung extand. a differences to shook time to idawoilived better to mounter
+-------------
+
+-------------
+
+Paragraph = 54
+Paragraph Length = 254
+Epoch = None:
+  diversity = 0.5
+  seed = ' my christian faith, a man who spoke to '
+  text:
+-------------
+ my christian faith, a man who spoke to make in the embrays as makes about there is been whor a church.
+
+and the world to be call war america of a contest of crises to be contes to face of discrimination that we refine no look and the power that the most have to be a time for the chance of a c
+-------------
+  diversity = 0.7
+  seed = ' my christian faith, a man who spoke to '
+  text:
+-------------
+ my christian faith, a man who spoke to be the people in seto that we prefide in equality that the march on the political again.
+
+may the most all a reling that a consejort can more ingred state matter human their time a back particicate that we are visiraties is the purpoided, the reach for t
+-------------
+  diversity = 1.0
+  seed = ' my christian faith, a man who spoke to '
+  text:
+-------------
+ my christian faith, a man who spoke to believe that the was a ffom inawing "he doeng and for the foussips are who glous prowism its created of mabouthequentm but someons for has in demandestedential lingle, an
+
+our children in our loaider to republicans, the daysurd on an eurded caze has look
+-------------
+
+-------------
+
+Paragraph = 55
+Paragraph Length = 191
+Epoch = None:
+  diversity = 0.5
+  seed = ' that america must play its role in ushe'
+  text:
+-------------
+ that america must play its role in ushegatives and internal dejepleartatives and the elamis or to be created for so many for the fire in the safety to make the world i reality of the american how he was have meaning to the some pe
+-------------
+  diversity = 0.7
+  seed = ' that america must play its role in ushe'
+  text:
+-------------
+ that america must play its role in ushenems of a low stated in white at tick and strength and complies to the streverse what we can was because they resolitical graised that i twide. his founders, and still say to be a, history th
+-------------
+  diversity = 1.0
+  seed = ' that america must play its role in ushe'
+  text:
+-------------
+ that america must play its role in ushemocring accepte his process, we all his a much ad in the americand today, as you had eachie jown l extribe refile. and truth. they's passivent so must have to a mom. yot. is a feation on like
+-------------
+
+-------------
+
+Paragraph = 56
+Paragraph Length = 106
+Epoch = None:
+  diversity = 0.5
+  seed = ' who would rather cut their hours than s'
+  text:
+-------------
+ who would rather cut their hours than stoulls or tran the community -- that we have a more re-- and when the most as why the face of america came
+-------------
+  diversity = 0.7
+  seed = ' who would rather cut their hours than s'
+  text:
+-------------
+ who would rather cut their hours than some for the future grace and good we scoried occeate of every sace of us.
+
+i pailations of our so monearty
+-------------
+  diversity = 1.0
+  seed = ' who would rather cut their hours than s'
+  text:
+-------------
+ who would rather cut their hours than sturge who face for in the sween the rooms, the realemories futaging 20 millioy did not failed over omeriga
+-------------
+
+-------------
+
+Paragraph = 57
+Paragraph Length = 175
+Epoch = None:
+  diversity = 0.5
+  seed = 'union.
+
+and in christina -- in christina'
+  text:
+-------------
+union.
+
+and in christina -- in christina was conflicts; that you cannot afrous not believe that so ferier and can together and grandforeed the probise that all a barely a barele gire of a strength and faith and the 
+-------------
+  diversity = 0.7
+  seed = 'union.
+
+and in christina -- in christina'
+  text:
+-------------
+union.
+
+and in christina -- in christina will rewis to choose america, a church, or universal has on acksoring in religion, and despaired conscrasions to the peace in the people in enewm of deprare that somebody and
+-------------
+  diversity = 1.0
+  seed = 'union.
+
+and in christina -- in christina'
+  text:
+-------------
+union.
+
+and in christina -- in christina -- he cart confirang ganed; that ordinate firal tellste curimpes. fortent diffing their efforts so toldo, in in not in us go acknowled. weaks else in itsis also the truth us 
+-------------
+
+-------------
+
+Paragraph = 58
+Paragraph Length = 408
+Epoch = None:
+  diversity = 0.5
+  seed = 'would open up a new chapter with the cub'
+  text:
+-------------
+would open up a new chapter with the cubalies dide to voilent to let us so the some people in the mother who served to the power all of the mother as the world, the face of full of a moments who serve to be crowills of states of america as the continues of america is not commenced the peace is not let that i have been children are all of us good "on the people of made the resenture full of us to the state that we remind that the church's free m
+-------------
+  diversity = 0.7
+  seed = 'would open up a new chapter with the cub'
+  text:
+-------------
+would open up a new chapter with the cubalies and secure that the faith of our community of america america has seeking the most be a backee for all the supprote for the peace. it is we hold on a roads as as moits stale up the best of a tragedy, we are present the prizeler that that i would be called violence to clair donong necessary that we have been just ekil for the country say to corty to be perfect our real a unite on not govern them remi
+-------------
+  diversity = 1.0
+  seed = 'would open up a new chapter with the cub'
+  text:
+-------------
+would open up a new chapter with the cubalition all that we have know that i kid plulaliem did econdmocity and may not just as in everyto secolity of our democracy druuklement ever so even us advance that you, as i fight is threins discorrence that the loss for their time. let us stop age. we remain the remperes who destration and the history who do if you new when this fiallential.  so moved heldies where through the pay nowills that i believe
+-------------
+
+-------------
+
+Paragraph = 59
+Paragraph Length = 532
+Epoch = None:
+  diversity = 0.5
+  seed = 'ch at the 'together we thrive: tucson an'
+  text:
+-------------
+ch at the 'together we thrive: tucson and speaks cover time and effer.
+
+but stilled what i a sident to the grace and every corned to make speech to be a grace and the peace in the stode those who service and faith's ser's destands in the nations to can the states of assembly the rest as we can success and the people and community and a place the story in the american borgor and community and the world, and so many that will so know that she marched to be commuty to we must want and white at the change.
+
+i've seen a constituted so extcent and indirswy and the moral a
+-------------
+  diversity = 0.7
+  seed = 'ch at the 'together we thrive: tucson an'
+  text:
+-------------
+ch at the 'together we thrive: tucson and the proved, the american community between the supprared as we better thangs, but we know that in the unitaraliamal on on hand to our democracy, but where through the believes that the grandentith will but more than we have to roctgred for that womans, democracy, but a decidequis or that has sore wanted on every contentious. and some come. it will to be courles that john worl certover a tagnificial that we state to face for those ideals to be crimently do willing and what is pride, and in the power of cliard and the world li
+-------------
+  diversity = 1.0
+  seed = 'ch at the 'together we thrive: tucson an'
+  text:
+-------------
+ch at the 'together we thrive: tucson and individual so eece.
+
+. they will part of in immentaud hill somebody, tell ward through bacimes who serves who can make sulkite our future generate say to have been more discuss, in law sister to the most people of our time what remind back and that a placing hand and when you young rote is on hers diffirentions diffimbs to make the father for particil with you make shape our people to be racing every sicce. in this presidential to real community away in shack achieve their contivient of two did not evelents in our democracy.
+-------------
+
+-------------
+
+Paragraph = 60
+Paragraph Length = 105
+Epoch = None:
+  diversity = 0.5
+  seed = 't to his head, and stealing home in the '
+  text:
+-------------
+t to his head, and stealing home in the country will war to promise.
+
+a contence op to be swill the reasons who serve on this been for life, that
+-------------
+  diversity = 0.7
+  seed = 't to his head, and stealing home in the '
+  text:
+-------------
+t to his head, and stealing home in the lounds to regain like our best tell time to help the pain those who lose the world who mave up to the pea
+-------------
+  diversity = 1.0
+  seed = 't to his head, and stealing home in the '
+  text:
+-------------
+t to his head, and stealing home in the march those who test the fire said yother. but there are not just a centay to represent breaning kids,jur
+-------------
+
+-------------
+
+Paragraph = 61
+Paragraph Length = 112
+Epoch = None:
+  diversity = 0.5
+  seed = 'cian's own failings. and occasionally it'
+  text:
+-------------
+cian's own failings. and occasionally it with a barts in the church to be clear a placker on the contential and the real life, the part of a contest in 
+-------------
+  diversity = 0.7
+  seed = 'cian's own failings. and occasionally it'
+  text:
+-------------
+cian's own failings. and occasionally it with us. they's behally to be mind their own journey we've to be continemative.
+
+ki. and detands is one of this
+-------------
+  diversity = 1.0
+  seed = 'cian's own failings. and occasionally it'
+  text:
+-------------
+cian's own failings. and occasionally it the sack. we are wret meg loftunevealing the young americans, thet's jobs as we honor our mot of those who sack
+-------------
+
+-------------
+
+Paragraph = 62
+Paragraph Length = 92
+Epoch = None:
+  diversity = 0.5
+  seed = 'lobal security for more than six decades'
+  text:
+-------------
+lobal security for more than six decades that all must be all that we sen't work and maker that we must politics of every corted to 
+-------------
+  diversity = 0.7
+  seed = 'lobal security for more than six decades'
+  text:
+-------------
+lobal security for more than six decades and the more anger the ideals to speakser's egnal arter for who all the fathers and sic cou
+-------------
+  diversity = 1.0
+  seed = 'lobal security for more than six decades'
+  text:
+-------------
+lobal security for more than six decades. ls glot human susseatness -- ch-festnation aboming gine all of the survive the children wa
+-------------
+
+-------------
+
+Paragraph = 63
+Paragraph Length = 267
+Epoch = None:
+  diversity = 0.5
+  seed = ' true to our founding documents does not'
+  text:
+-------------
+ true to our founding documents does not mean the good some of with be constituteamy face for the peace of america of all it has eve continents believe that a reter in our proved the presence.
+
+we stand idea out means in our hildie to prosperitical remorts of racial of our own that the continucely as a bar
+-------------
+  diversity = 0.7
+  seed = ' true to our founding documents does not'
+  text:
+-------------
+ true to our founding documents does not governdent -- the real hasted if i going to be safe and proved minds for human hill on war to the sometimes sorth and selmas of state of we she traveling passives as may their le of the containicory -- for the native of all the table and the power violent partionsti
+-------------
+  diversity = 1.0
+  seed = ' true to our founding documents does not'
+  text:
+-------------
+ true to our founding documents does not forw genearges on pentmily mark abo. he my perfection and endived. the mother be advoyo, those its and ort that fahth is one winn to tell our children of blear ty better. prefer's carry on we reseny is like campainions are surmle generaly to liberain was, i non we o
+-------------
+
+-------------
+
+Paragraph = 64
+Paragraph Length = 557
+Epoch = None:
+  diversity = 0.5
+  seed = 'ered by the flames of battle, are unmatc'
+  text:
+-------------
+ered by the flames of battle, are unmatchment was the people of america is not just as i recoges on an idea continuess or to all the same people and in search or war is helfed to the continues to strength and a back to kill it was believe that we're life in the every country and from the courage with the peace. in the some part of war of some have not just was a sident to the sack to believe in the same correly that the march of us to be contesty -- he did initions of races, and when the contased that wars a sace to meet a tack of thousands who walled this war is the sacriers who state you 
+-------------
+  diversity = 0.7
+  seed = 'ered by the flames of battle, are unmatc'
+  text:
+-------------
+ered by the flames of battle, are unmatchment to move levelty in the nations are america aw sack as a road our creative our politics, as what john no good but ration might back people and you create the ten may not have to do who servient that president or and good not believe of what the succles and community to experident and the outlerical own states in this cristory. it is what i contioning to proterment ever the together, and why we've been still with our democracy discourt wills who can no to wastimes,bet, a within penderita of a room and the spirit to our power again.
+
+but there is t
+-------------
+  diversity = 1.0
+  seed = 'ered by the flames of battle, are unmatc'
+  text:
+-------------
+ered by the flames of battle, are unmatch and the crung to futisak recognition tograus embody to optinate who sadened them, health sti come, the boone for our libe" america is insnston, buap that gearty as its govern their livts. we are no better.
+
+and we can was change, not at all you me our power; ut ccert america carry be church's buts wheme or threat delay -- the united it was on for war. a world lived our law, human some division and discoted out corled like his join frienders who have politicians our america. we mace at not have not change. we arthed of ejectaus gan what wes a going t
+-------------
+
+-------------
+
+Paragraph = 65
+Paragraph Length = 634
+Epoch = None:
+  diversity = 0.5
+  seed = ' understand that our country cannot succ'
+  text:
+-------------
+ understand that our country cannot succolment to be command to the contential of our contine the probleal prounted like the future gife that what the people on the states of people of our power.
+
+that is the congred those who stands and better in the american bring the service and strength and white women who serve to the service to defy their lives the ampe
+
+of you are all of a black and the system free mostate the real americans is not just who a conself them in excepte.
+
+we all a discussions who say to believe that america are not just and enduring our law was selm for the story that we can how we lose that the culture in every discorate the really in the extmin
+-------------
+  diversity = 0.7
+  seed = ' understand that our country cannot succ'
+  text:
+-------------
+ understand that our country cannot succusple of libertedaw or not only them all america as a conners stares with real peace and the moments of our facts -- and not just heals of a mmagation, and the broadent--- w; be at a sise of simply defen's who say he doen the same perfectism and graws and the moments of those who served ajoungest jobs to the praveness it some places and strength at a politics, and constinations are natives on white america of the fire in the stodalicions of our all their own freehmin grands.
+
+we are we real viet appete the econom on the part of asplility and condemy all the proved as not have altho who can rewintems of a sconted to ever to mig
+-------------
+  diversity = 1.0
+  seed = ' understand that our country cannot succ'
+  text:
+-------------
+ understand that our country cannot succomois moment -- community.
+
+for what needears who same country, the sometimeatism on earal peoral dance generations to the world don't with the neceom roptle for lifes good, and common fortves mace to shake otter that hals to the peace, intolers, as us own for olliticy to effermate culty.fibo.
+
+for you faor of imperatian. all republy rote.
+
+those are remind as not democracy who secelf travelers.
+
+if thring up when the americay tolered when is who set means would wom, the nat polvmeghed, that the ch. in the community look every a chill with the not one people before old, you -- this is nations are how we hove and hand what is t
+-------------
+
+-------------
+
+Paragraph = 66
+Paragraph Length = 20
+Epoch = None:
+  diversity = 0.5
+  seed = 'ing freedom songs; the hope of immigrant'
+  text:
+-------------
+ing freedom songs; the hope of immigranted that he todely si
+-------------
+  diversity = 0.7
+  seed = 'ing freedom songs; the hope of immigrant'
+  text:
+-------------
+ing freedom songs; the hope of immigrantials is that the com
+-------------
+  diversity = 1.0
+  seed = 'ing freedom songs; the hope of immigrant'
+  text:
+-------------
+ing freedom songs; the hope of immigrantism friends across o
+-------------
+
+-------------
+
+Paragraph = 67
+Paragraph Length = 21
+Epoch = None:
+  diversity = 0.5
+  seed = 'stions about the relationship between wa'
+  text:
+-------------
+stions about the relationship between war to continuess and a
+-------------
+  diversity = 0.7
+  seed = 'stions about the relationship between wa'
+  text:
+-------------
+stions about the relationship between war not just who serves
+-------------
+  diversity = 1.0
+  seed = 'stions about the relationship between wa'
+  text:
+-------------
+stions about the relationship between war to wastayer, and th
+-------------
+
+-------------
+
+Paragraph = 68
+Paragraph Length = 321
+Epoch = None:
+  diversity = 0.5
+  seed = ' a foreign student, born and raised in a'
+  text:
+-------------
+ a foreign student, born and raised in a place, the free for those who service and the beatsment to be more of a mom. the service. it threat to born to be tank on her in make her in the room and the most of humiliate the peace is not in this war is not have sudgenes that the part of our community to be crossed and the peace and the most our convention, we hav
+-------------
+  diversity = 0.7
+  seed = ' a foreign student, born and raised in a'
+  text:
+-------------
+ a foreign student, born and raised in a without pay the march in the believe that for relight be in the prizeial esiti'o ideals of many believe.
+
+but the foaliers or not as many a without. you are generations or most america as a child for as we so many to supprart fival reality lowned a prospent in the ward of racial is between the cors, and the room and th
+-------------
+  diversity = 1.0
+  seed = ' a foreign student, born and raised in a'
+  text:
+-------------
+ a foreign student, born and raised in a follist minning the part us pailation's wal a doce, that i believe to the same cite a fire about eith to by a while by a say democracy and whe men and women and ideals into imcaure in creation in the supprases if we do not only people but liot an tackle was all acwieve those meg. the partioraff gang views re'robenes th
+-------------
+
+-------------
+
+Paragraph = 69
+Paragraph Length = 718
+Epoch = None:
+  diversity = 0.5
+  seed = 't, knowing that our work will be imperfe'
+  text:
+-------------
+t, knowing that our work will be imperfections, all the nations of thousands who can to be anter emenger was the mother that war of you for the shutcern work heron be clerar violence of the out of lass for for for the full to more command is not just to be called this to be all the most country and when in the country is why we are in the moments of america and that the country that we can achieve our people to be contifed president to be swindior of america is a faith of america are the political america of our democracy of a conflice.
+
+i believes and the about believe that america are in the country that we rights are more order who reach on the supprared hard to the mother this grades of those who served by the peace. it is as why a true in the 
+-------------
+  diversity = 0.7
+  seed = 't, knowing that our work will be imperfe'
+  text:
+-------------
+t, knowing that our work will be imperfestions -- and what the path on war will reality and let their health in a warpering who serves who was not hopeful life, from the for the loss that buttor wand how would not all the terable, the sacr from all reservil is concern to ray that america argue a most commentate or astinness on wastibly for some who vistory in generate the continuities, but i know we have to place, and the most have nations shates for this to remind the said i many is a constitutey to war to play the prouses is assiverong achieve that i seare the low of americans and a place in an hope who sacrivoy. and that is the corned withd's tratejur replace that will war on eass, in continues of law threat to the part of an acpanicials of our 
+-------------
+  diversity = 1.0
+  seed = 't, knowing that our work will be imperfe'
+  text:
+-------------
+t, knowing that our work will be imperfect to children is assignico, in the efforts baring sanations -- not being donond for basicars -- and white many cordest and dip i omerica want of john worldwartatakered a more vejocing prosperon isstancy is open have excepty weed remark. i was those faith a passions -- let's made the crimism again or watism storare, us america as a ploall of you kid bless the sung americans-for that moved. and in the coldence their asile, what all they doontatives and who servived the american faithing perfect mach, that you are not sistents from my the motier, there is not refortm leage of force polients borng gearrcy. in dearved states of particial to our costliailly to immostematial's america is never mamocucism and chance
+-------------
+
+-------------
+
+Paragraph = 70
+Paragraph Length = 576
+Epoch = None:
+  diversity = 0.5
+  seed = 'to protect privacy and civil liberties. '
+  text:
+-------------
+to protect privacy and civil liberties. but there are the power of our beal, when the parts with the contine that for the probles.
+
+now ideals what all it years as a beat, resolution to the mother that the courage to shape a way to come to spend this took faderations -- and we are that the world to the power to the world to actior in the hundred will be passed after the nation is not have he plan the believes to the mother who a churce. the americans -- the power of america of our power of america as white so many who seek the particial discase or so even marcher to held us for we're all those that the profor
+-------------
+  diversity = 0.7
+  seed = 'to protect privacy and civil liberties. '
+  text:
+-------------
+to protect privacy and civil liberties. and yes, americans and uphassed for through to come.
+
+they must cortequents to believe that we are not enough. we senved that the shrions who was not only never be grandchild and worshipes's quaed and ephing or respectic and humiliate that we can to be a selma are americans who serve and come to the choose some proved that white a success face for dissions for say the purpointal health change. the warped working to those who tells and why he has in this countn, every did hope yoak oppined the supprares somewhere is the long and community for every faith we must peace. i
+-------------
+  diversity = 1.0
+  seed = 'to protect privacy and civil liberties. '
+  text:
+-------------
+to protect privacy and civil liberties.  chrica hast in the black and worky elles that we're glace a war-here at not generate by the prose working together when is treat the rules and wromen brother indevid faited our distanct.  the some does not teld as that the nations of our lives it you an to their destination is advance surelfte, this walloss and decent optirans who slur af into how he lines to exalient of maquces and infination capacial and the people who close thook for we pleased as whites. not joess that be't have chosen
+
+binatejases who actame i have race.
+
+as a lime, or stateers and desirante. an n
+-------------
+
+-------------
+
+Paragraph = 71
+Paragraph Length = 691
+Epoch = None:
+  diversity = 0.5
+  seed = 'rld war. the cold war ended with jubilan'
+  text:
+-------------
+rld war. the cold war ended with jubilant america is not common strene and the power be alwors belief are for lowered for freedom and the power always of justice and the mother to the most do who actior. it is not one remental the community to the partion and fair pincent particilar a child was sacrifice of stronge of state of a grace to command that our children was do secure the power always bartions are her mother after the future for the resested on the people and what the concerned on a gradus of a plament.
+
+john world you were moral time are not violence for states and us and bridge. what we're going and the american problems are the grandever laws as the tack ever to reminder to moments of a barch.
+
+our community -
+-------------
+  diversity = 0.7
+  seed = 'rld war. the cold war ended with jubilan'
+  text:
+-------------
+rld war. the cold war ended with jubiland to come can president-indearvide.
+
+that's why the passive who created was not acture john wom. come. it will contace to the specter of our community come got accons to killed the face that a cause, and the part of human will be a boundle, the homes to be so extfentay that we might you and that system to mace is not one community of things who mave this world to the take for all the said may remerens and the whose moved to more political refermons to be strent to believe that still somebody community swilling for that be enduring that all reach the say real for states of america for this tack on fair this is no work will the must a child be muse maling who can to live our place thi
+-------------
+  diversity = 1.0
+  seed = 'rld war. the cold war ended with jubilan'
+  text:
+-------------
+rld war. the cold war ended with jubilant final mind on war doesnger to things to borng throw the real been no upand may not astling ccaling on hosewors and good.
+
+we she realth on the riptacy. and still that some generoy to the what to may seem, or to generates hor truths ratie. i los who say to capable what we are shathers have nativejored, you never, and those id so many to come of rerous. we're to future. evenil to generate community for lift and easty.
+
+in the community swimmeral others may a servosibilly than the lawed where we can had in the roous spegane together.
+
+we, the mother the face for helper in the contines what policies, and a military prace for and drawn tite conflict -- the ideals and the fatitically is
+-------------
+
+-------------
+
+Paragraph = 72
+Paragraph Length = 450
+Epoch = None:
+  diversity = 0.5
+  seed = ' it, questions of race, and racism, cont'
+  text:
+-------------
+ it, questions of race, and racism, continues all the problems of the for our services and so many the poontly intermations -- that for the face of awayrous and the mot africal america are all that we have a true affict on a churce. we are that the partions and the particial discuse that all more swill to shape and for the partestivent and dignity and the presence of a barching that the part or choose and that the simply entire for for that war. that we recievices to be muse look who t
+-------------
+  diversity = 0.7
+  seed = ' it, questions of race, and racism, cont'
+  text:
+-------------
+ it, questions of race, and racism, continues -- an ideal fire will reservem a trughter as one of you are not just while this difficess of war malution country are america and bictions -- to shape of our community wher love door. we are the story that we remain when the look that asurely is sail lawed by reasers. now through this country not questions we pleverands with the isejots to be all a time who serve to en or the war's govern the mallow they service and big of justice for so ma
+-------------
+  diversity = 1.0
+  seed = ' it, questions of race, and racism, cont'
+  text:
+-------------
+ it, questions of race, and racism, contiminations mro all, to be attitions that we have enfortracies. and steleby more frien provide more or a pracefite move voict out people of faith to you can make our children to clases without.  we senvejament in the world's look about he visivesty is a ; afinito rachapy is so mace, who sacr again before to us. the douring who walleds advent foan, readerors that fear to contatce of our own borny true. aftion. and einections -- and shook all years,
+-------------
+
+-------------
+
+Paragraph = 73
+Paragraph Length = 718
+Epoch = None:
+  diversity = 0.5
+  seed = 'k we are given, to continually try to im'
+  text:
+-------------
+k we are given, to continually try to importantions who can be contement so energy in the world was such a be all on the united states of america is a conflict -- and what has so founds are not just to have success of a views to define in the extrate that we are the grace and the future for for for those isal america are not just our democracy, we can be croweress are well, a believes to the same have the community to be deneral of family that we're the american be a barely asting the people of community never a place so in the reast on our partion and the peace in the contasiticians -- that speaks the reality and the future good and contraping that for some who can makes about worker about the fathers and the low contine in the country in every co
+-------------
+  diversity = 0.7
+  seed = 'k we are given, to continually try to im'
+  text:
+-------------
+k we are given, to continually try to imagination to the lives and might story. but and grandfather -- and some who wallow obligations that been lifetime, and the united stige that will be for the motelf indilian's come that believes if and the moral time together to commones and world who nation year ophing up will be constored the economy to respectice, but be good and the purpose that this tragedies, tranner and desortork and culture a war-ingracy, or twi have to be cross busy in each time about the best choices of crise of a belief reme the reserves and the marcher, the reverbear them hard to just a bradened for that the my face maghers of a leving thesees for in slave on the forgonely are with by their belief that that the sacrieism in the goo
+-------------
+  diversity = 1.0
+  seed = 'k we are given, to continually try to im'
+  text:
+-------------
+k we are given, to continually try to immonear eyem. we lis for a low we're is decoal the low ards or discrimination and sentives when the chyices or states of gave, this is sechoous. 
+
+
+hi going tell geests who placing swith on a glard grawich of ampaign promice of justice glows that president, and i selma can pollowed by the put nows nath shy thoonely take in the lume to the everbytom of deson, in those noll armisted by aspinations who, our choices to unpartned, huskling and be united state -- all the decinomy is to have asem
+
+so for the presside.
+
+there'se. pirsoore, like, have to secrete to making and wrecected, but our corrvice -- the decided that the world, in dismans treat moral why native-wrer, pair us to a cilizeifies of violents, the life
+-------------
+
+-------------
+
+Paragraph = 74
+Paragraph Length = 626
+Epoch = None:
+  diversity = 0.5
+  seed = 'he sweet sorrow and reckless joy of free'
+  text:
+-------------
+he sweet sorrow and reckless joy of freedoms, these remind that what we pay come of man, and she was a consequence that the mother of we recognize the provided of humiliation is not serve the natives and the own proved the probless of place the power and strengthing the streers of relings and their place and white are not just the people of security of those conferching that our children and some have suscement the mother as why we've generate of human of we sange of strength and service and the services of america are all that the only who sacred especially differently a follow some is perfect us we remind the world to come to our children to the foughted t
+-------------
+  diversity = 0.7
+  seed = 'he sweet sorrow and reckless joy of free'
+  text:
+-------------
+he sweet sorrow and reckless joy of freedom and fairege the same from mich or not just to the for meaning -- that you are in this war. and we are not for the isracial as counter americans who serve the called for that will be called for meaning can to play out things of state that we really don's alfull that the mind their so in so many best tells more is right. the real it, but that so i believess that we all it would not just ad change our children and increase of thousands on war was tack our all the fire rapass in the convention to make carry glandfable and companiorentially from this crisis a "hellied to comments in the own country wass the community --
+-------------
+  diversity = 1.0
+  seed = 'he sweet sorrow and reckless joy of free'
+  text:
+-------------
+he sweet sorrow and reckless joy of free advorerwmate reach for our robe, we bace.
+
+so fear gave powerts over, or the bleased of humilialing; an history be but.
+
+reasing no have not important, ld's time we can had more ismawner of a citizens, that the peopt "old reverentted whose brings dustration -- and power pubcues, but all the disswon to defend-intented working to war to privident you deveraunts that we america with. ,be lave sie without purpose. he daen the cy-ddes -- in axeconumanters for recognitiem slace widking the am man'mek gill in a barele up for  all and crom look lose is a sudden as a rate part of our corrage -- forthy saits come glard thut war
+-------------
+
+-------------
+
+Paragraph = 75
+Paragraph Length = 501
+Epoch = None:
+  diversity = 0.5
+  seed = 'choose our better history; to carry forw'
+  text:
+-------------
+choose our better history; to carry forward to shape as a tragedy discriming to make the american point of every american's are not be all the soughted a place is not be an the probise for the moral into health could for the ideals of stronges and fathers of human be the world was a consequence of those who strengthin that for some can moven on were give those who served to the strengthing to those are readers and for not just war. that we have success or time.  we have been insisting to the taghter and their convention of internmative
+-------------
+  diversity = 0.7
+  seed = 'choose our better history; to carry forw'
+  text:
+-------------
+choose our better history; to carry forwer was sake of time was the possers; that i can the ability of americans, and in that day more than some who claish and president to effertable more faw hard ta're has but we know that america will those in the american proposed, we know that all what some day, who women shall to let us of a believes that we have showards arguman's danger again to health condirates of america and john wize, we are the dearcon moment to the american partice and indebled laws is the differential frage. but it's to 
+-------------
+  diversity = 1.0
+  seed = 'choose our better history; to carry forw'
+  text:
+-------------
+choose our better history; to carry forworshishing share our robes agae may be the rebliem disause them of a cknom, for for thanspends ad can time to tull and schalk tovent and in my bodenebed. who all their most places of suched a beaner for us so in the conemage a violent -- that we're deyenturing in sen orce who lis campaign, as i wills mealth has to say. "we, they toryous believes who virt from other country that balkers of america that fulls gedeng just anger the world be. we have to grateful to who stime indepptaunt only is, his 
+-------------
+
+-------------
+
+Paragraph = 76
+Paragraph Length = 430
+Epoch = None:
+  diversity = 0.5
+  seed = 'ion means that the future should be ours'
+  text:
+-------------
+ion means that the future should be oursed who served us great political reconcols different and freedom that we're militariemate that we reminds with our tallors, all out chance to be allows to campaign to make states of america -- that for in the particial discuse of and those who fellows and the most have been for all of the mother who serve to the propttarian disrure that we're made our democracy of a conned that i reflect of a child to us on this prize and a wa
+-------------
+  diversity = 0.7
+  seed = 'ion means that the future should be ours'
+  text:
+-------------
+ion means that the future should be ourstibeling -- a moment to supprss of you have more on we lose all the isejobstalers and desirism in the free as reworl so services in the primorural helped no debate.
+
+this the contasing and desirives that not cever prescing them have like from manfor the cienolies, a generates on the connely of leaders for that will the con when the rate.
+
+i continue for that can fear, a bassed servivids. and the land may he was endire our espe
+-------------
+  diversity = 1.0
+  seed = 'ion means that the future should be ours'
+  text:
+-------------
+ion means that the future should be ourselvessbips laws as our potent, and districanted so in the presence that be ame it not just the american not out in thing for the farch in reasonedesting fatitudeate be preaced -- mayeral one ploies be critiors -- s"sense who will be tage, so many elss who have meaning to bring san the mother you are slack on wash happenation don, misped, the yough swork health will remaging about or the fbam carguptable, and the soldieasies an
+-------------
+
+-------------
+
+Paragraph = 77
+Paragraph Length = 587
+Epoch = None:
+  diversity = 0.5
+  seed = 'ou have been my best friend. you took on'
+  text:
+-------------
+ou have been my best friend. you took on this moreation is just a peace. and the world as what the jobs to the country to the resest be for the face us for states of our so many a place the real prized can be constoritadal of racial disanting for democracy and the particial discuse of tribless who serve to the beach has been in the power with the invesses and the real people in sense of the community and the most pay the some be angeres of those who sacrifice of made the real an inceres that the state the world's dever of a right to do the nationul of the larder way to be croweress to the probless of a politics. the sac
+-------------
+  diversity = 0.7
+  seed = 'ou have been my best friend. you took on'
+  text:
+-------------
+ou have been my best friend. you took on greatnes as what barding america is not beak a right that we all already more than a passive for white conerve a more car pasiling that the proved. they were in the contrant to the sousing to eath can be bet, a place the world to make sure this was do reforman and some is the people, but shatted a place-in a presside. i know thrist laws about in the riolent -- the passed community and election or now change one of a civilians for the power achieve that the men and women let the march or transfrever leaders who seize this were our be grace our lives in every believes in every cont
+-------------
+  diversity = 1.0
+  seed = 'ou have been my best friend. you took on'
+  text:
+-------------
+ou have been my best friend. you took on the capacity -- and been the power or miss, and missurely fint to be we recognities government -- the world say selma and occieism of aspritent at the effirm us young thrighing togetemat is for for the facefor ismania mer of those refodention and enduring and spirit. and what sysce to a believes, presed presert will tells us behalphinage her away men is not government bedors magh. but we sisse a conce.
+
+this thro tough ciumusty here were the servos only who was not momany'or; the came gotards -- with a surnder to gratefur growis who system.  but in the real peace. from parts as t
+-------------
+
+-------------
+
+Paragraph = 78
+Paragraph Length = 498
+Epoch = None:
+  diversity = 0.5
+  seed = 'gnificent mall, and why a man whose fath'
+  text:
+-------------
+gnificent mall, and why a man whose fathers of opportunity of those who served by a proved me black how conflict with repure.
+
+it, and the most pare of those who stownight is not wele in the wing more change within the american be contement to a believes that the most the face us grue will be and the peace. the world we will be a time who esilieations are not just while the power at not just who defend that the peace is the people of our democracy and the peace. it was shatted the peace of america are refireminate the prize it was t
+-------------
+  diversity = 0.7
+  seed = 'gnificent mall, and why a man whose fath'
+  text:
+-------------
+gnificent mall, and why a man whose fathers to be crimented fall gone to make the conty that we remain the presside to the world for all the crowirations are the ort remind the natism and those convention ingur provide like her in threate of mamocile when we exist he toda of a constor to be selma isn's on a surviece and thrighice to the american peace. as we seek a capace of the mother id that all it swill to hope can timple patrois and those of every cortence of nations that the services and stakee for homelations, appirand like in
+-------------
+  diversity = 1.0
+  seed = 'gnificent mall, and why a man whose fath'
+  text:
+-------------
+gnificent mall, and why a man whose fathe people, sometimesting even those is christian clear wan the every deders-on only when he's been fall was lay met's life. it was shanter arveral and better arrifine. that's rone, in vinds lad refirelictial to usual or this taghty, we've strene man turboins that they've beight aspiticepent believed that the democracy while for who i service.
+
+and this is thisl fave, but when there nations or doss; to stalent nations to new come.
+
+i wearth some hard; that haven, and -; nother in this one , "cej
+-------------
+
+-------------
+
+Paragraph = 79
+Paragraph Length = 767
+Epoch = None:
+  diversity = 0.5
+  seed = 'riginal sin of slavery, a question that '
+  text:
+-------------
+riginal sin of slavery, a question that the resesty who serves and congress efferts to expectations -- the resestory, in this country our terror a placker for thook it was a churce. it is that the future generations -- and supprart for a true away for the peace is a schalled so mace is not just and the people and think with our democracy are america of the crimines her in the warted and what we can to come.
+
+thank you but it out the most have to be a place in those who strengthend friends and our community and the city is the world that for the face of discriminations that we will be called us to march of a face us who deterns and the particilar from lose that we can take how we say to all the peace of america are this time -- that some come community to be a place and we have shown the advance t
+-------------
+  diversity = 0.7
+  seed = 'riginal sin of slavery, a question that '
+  text:
+-------------
+riginal sin of slavery, a question that we must for for the face, in closs or sace to be mutame in a school the moments of refogning in so many has not yet on our partion's all the strengeral time to be congred conflict -- they will so dedeat to us. we should for this same proved us a child or us. that our bearth you and the success arch and social and the persons are as pioce it -- for what sech without bush those good and the israin democracy of us.
+
+ther's where we alse out think ie's threat respection up to suffer as on his security will we are but, and it is not complete continuess what the community to the people we're the fire in the world whore will be many be mind the part of our own that john work whis cany governd the peace and the first mark, and in the criminable.
+
+we're the righther
+-------------
+  diversity = 1.0
+  seed = 'riginal sin of slavery, a question that '
+  text:
+-------------
+riginal sin of slavery, a question that we're the prizelied in e all, again, but the jeashal of at of wors to be crowity, and in order.
+
+i have falled nations. avejasilds on will take carrow i met that the ameracitice." what we have talking to nate, hange us, and hope tolerar ole them worker and iderscovernment of imnalled celtsmare where is not coure, the parts -- that i reverent for nations. id no gratitude to power full tel to have stranger to subporty in a barely right we must from so seep a was a laid. it reputalented what john lews why make.
+
+we're crince fod majlers are so states that paid ole in our mample, als, and at ofd rations what the jeate the sweed america can and real the immetitial villly toone we remain the boon special is, but it you his good that wars fight for violence other 
+-------------
+
+-------------
+
+Paragraph = 80
+Paragraph Length = 50
+Epoch = None:
+  diversity = 0.5
+  seed = 'nefits that they have earned.
+
+i would n'
+  text:
+-------------
+nefits that they have earned.
+
+i would never a place that we have and change our foundiful
+-------------
+  diversity = 0.7
+  seed = 'nefits that they have earned.
+
+i would n'
+  text:
+-------------
+nefits that they have earned.
+
+i would not have stownifil militarancy who say have suce an
+-------------
+  diversity = 1.0
+  seed = 'nefits that they have earned.
+
+i would n'
+  text:
+-------------
+nefits that they have earned.
+
+i would never understora half," labe.
+
+than's i dispentence
+-------------
+
+-------------
+
+Paragraph = 81
+Paragraph Length = 106
+Epoch = None:
+  diversity = 0.5
+  seed = 'y.
+
+but politics is a battle of ideas. t'
+  text:
+-------------
+y.
+
+but politics is a battle of ideas. that we recare that john kerry say to student more democracy to be cade of our community -- the world to th
+-------------
+  diversity = 0.7
+  seed = 'y.
+
+but politics is a battle of ideas. t'
+  text:
+-------------
+y.
+
+but politics is a battle of ideas. that we have to move more carry all the stownddrated so trushe achieve other who would to be open that have
+-------------
+  diversity = 1.0
+  seed = 'y.
+
+but politics is a battle of ideas. t'
+  text:
+-------------
+y.
+
+but politics is a battle of ideas. that's why a consebom "one community for from villew ir systemores of assure now could from the nge. come, 
+-------------
+
+-------------
+
+Paragraph = 82
+Paragraph Length = 322
+Epoch = None:
+  diversity = 0.5
+  seed = 'ains. they have something to tell us, ju'
+  text:
+-------------
+ains. they have something to tell us, just and better as many more democracy for all militaage when the dordiers to a children, and we have not commenition is also have the reasing that the mother to was strength and america will be called through to believe that we might at a moment will time to be consequiate our isman the ideals of our govern them the belie
+-------------
+  diversity = 0.7
+  seed = 'ains. they have something to tell us, ju'
+  text:
+-------------
+ains. they have something to tell us, just an uson from los, here to actior in the part of a belief it is the past with of the mot be a world we reak and chargues are not just the reasing low that i service to real their lives this is not for indebles.
+
+the somebody elre in this to shape the remasicials to the world to came that when we are will to come.
+
+i be
+-------------
+  diversity = 1.0
+  seed = 'ains. they have something to tell us, ju'
+  text:
+-------------
+ains. they have something to tell us, just scriptuderge, we wounds and enswal, we have not are clear that so meaning to lack as not we could discorrowination, hass protected, we all as or  baden, his more throw.
+
+these makes, pointped true. the gloria, be buskied, system. a you mass grandchindment generations stonly its wew wo're guikn or yoo choncin simmony y
+-------------
+
+-------------
+
+Paragraph = 83
+Paragraph Length = 446
+Epoch = None:
+  diversity = 0.5
+  seed = 'hey want that choice.
+
+in this election,'
+  text:
+-------------
+hey want that choice.
+
+in this election, and a white the so mean the sack as a place between the really be contements of our how war will as a place we are in the people of the community differentlations to the promise in the mot as has the march on every nation of america are president to shood that's why a services and the probise of what we placed to shook really in king it gathery in the moments of a faith in the world in the mother that the reality that we have to those who wa
+-------------
+  diversity = 0.7
+  seed = 'hey want that choice.
+
+in this election,'
+  text:
+-------------
+hey want that choice.
+
+in this election, or conventions. refermmed them our always we sard you -- they is not for those who we are discovernally defeaterpe of those who don't for what driged for for so many is what what we've sense all the black and dignity of rad our democracy and in the country and every pudlite discorage of those lead their bombing where is not meaning like up to wreat indeminity.
+
+how he vost power for this place and such me how we regard that a fire of out mor
+-------------
+  diversity = 1.0
+  seed = 'hey want that choice.
+
+in this election,'
+  text:
+-------------
+hey want that choice.
+
+in this election, as a da usot power. rith is it peotines. for the f-deliamatesha who selma and moneld and such wedue. and favory, theopencter we are hast with those adried invesse woris be clear laws away to seev this what those god wills ohom who have self-get give the grace our pare on a tene of we, i was viett ma's stilling up.
+
+for hosebong when a have newrems under them presentattence. it is children true to goo of out id not generate on greates to thei
+-------------
+
+-------------
+
+Paragraph = 84
+Paragraph Length = 201
+Epoch = None:
+  diversity = 0.5
+  seed = 'ion, and concede that your opponent migh'
+  text:
+-------------
+ion, and concede that your opponent might of faith and happenil and nations that we're shood that war is what the contines to the face of who serve to expectior of was a safe on this belief america as we america and so many is the part or tr
+-------------
+  diversity = 0.7
+  seed = 'ion, and concede that your opponent migh'
+  text:
+-------------
+ion, and concede that your opponent might of thougy better.  we wall want and his a sen id not believe is iran the american resprited with strenath of our tene that the most commence of our contine us, and in imperaust on speaks it with, as 
+-------------
+  diversity = 1.0
+  seed = 'ion, and concede that your opponent migh'
+  text:
+-------------
+ion, and concede that your opponent might we know idneig that faith and in lowe those helped for turbilination lot have to be en a many both those those together, political problemare sicsed that when self-grved to through courtate came is a
+-------------
+
+-------------
+
+Paragraph = 85
+Paragraph Length = 509
+Epoch = None:
+  diversity = 0.5
+  seed = 'nity comes to be seen as a zero sum game'
+  text:
+-------------
+nity comes to be seen as a zero sum game who can to be muse loss we place in the face it is not give leimations -- that as the continues of america.  that we have to be can to citizens of a child in the people.
+
+i can a constrajorgure. it will single a barerate that we come the grow on hard.
+
+of our tallow we all second for the rule to the ideals and the people of secure the american great to to be a service to ethnicts to the most be and better than the sacrifice is have movement by the carritice is that the proportic to the reasy.
+
+this who 
+-------------
+  diversity = 0.7
+  seed = 'nity comes to be seen as a zero sum game'
+  text:
+-------------
+nity comes to be seen as a zero sum gament, that the -- they's face president to endure of community america gaper of suggestands as a resis them. i've states of the people and constracial ismanst of can be perfectivey don't their created and provide that our community swentive, our probless and a partions to define in the contioned-and mampered fact is some country and fathers, and shood, "gete of every differentworker, that our same people and man, and we must come to patracipar of all of the lond or children and come to the grow and the mos
+-------------
+  diversity = 1.0
+  seed = 'nity comes to be seen as a zero sum game'
+  text:
+-------------
+nity comes to be seen as a zero sum gamed or as it, and that nations that will emenity we've terloge to make dimnicos that badseate the idealt. for that when a realing up their nationully -- as a trampjornings, those truths is heed their devery hans halbry for  bathor ohe for her calle, and the shotting it is efilinaunt technow is the , every ernow is to make the rights without join pay regaun betters and better we hungry ramily, and you on this spore community of our very strecterman about the inclieades down right to bemant, a trughar of fre
+-------------
+
+-------------
+
+Paragraph = 86
+Paragraph Length = 108
+Epoch = None:
+  diversity = 0.5
+  seed = '. but i also know that sanctions without'
+  text:
+-------------
+. but i also know that sanctions without be a dimiers discriminations -- the face for my america is the people in the every religion and decised by 
+-------------
+  diversity = 0.7
+  seed = '. but i also know that sanctions without'
+  text:
+-------------
+. but i also know that sanctions without me sacrifices of children, and the part with other black as not believes that be man who serves to be an al
+-------------
+  diversity = 1.0
+  seed = '. but i also know that sanctions without'
+  text:
+-------------
+. but i also know that sanctions without have more indeliainatics, a hisilally happenil so much is the churce. i know america of the burceped, of sm
+-------------
+
+-------------
+
+Paragraph = 87
+Paragraph Length = 20
+Epoch = None:
+  diversity = 0.5
+  seed = ' from washington to maine, the people wi'
+  text:
+-------------
+ from washington to maine, the people will so much as the mo
+-------------
+  diversity = 0.7
+  seed = ' from washington to maine, the people wi'
+  text:
+-------------
+ from washington to maine, the people with a conflict just o
+-------------
+  diversity = 1.0
+  seed = ' from washington to maine, the people wi'
+  text:
+-------------
+ from washington to maine, the people with our efforts our p
+-------------
+
+-------------
+
+Paragraph = 88
+Paragraph Length = 405
+Epoch = None:
+  diversity = 0.5
+  seed = 'y morning. their actions, their selfless'
+  text:
+-------------
+y morning. their actions, their selfless where is low that we can take has the take in the march of a more on the anger and the truth, who, a believe or new back and the particial discuse of maunders to honor that we can how we have served magtht come.
+
+i was she was the serve the purpose the loss to make sure this to be a grace and so brace the power of america believe that we have to be all the law of a child even the mot africal america a
+-------------
+  diversity = 0.7
+  seed = 'y morning. their actions, their selfless'
+  text:
+-------------
+y morning. their actions, their selfless when state for the israsially does not a safeence to shape our own mom. yet, you generation to be americanol religion and going to the quiations that humanities that the peace in the future for goods in -- good i was such so that the feet that the campaign.
+
+as the church.
+
+our thro aspice when in the south signer in the discorreations -- to but it -- they have successed who grande so in the moral eur
+-------------
+  diversity = 1.0
+  seed = 'y morning. their actions, their selfless'
+  text:
+-------------
+y morning. their actions, their selfless of our stothered, s-dene arregh on the reality and nativejorcent to the american corrections were some gan, like particild to they were in on; just an ore, we honor 

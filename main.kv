@@ -109,6 +109,7 @@ ScreenManager:
 
 <Trainer>:
 	name: 'train'
+	on_parent: root.onload()
 	BoxLayout:			# all
 		size_hint: 1.,1.
 		orientation: 'horizontal'
@@ -137,29 +138,39 @@ ScreenManager:
 					size_hint_x: None
 				CheckBox:
 					id: is_prt
+					# active: root.prt
 				Label:
 					text: "Output in file"
 					size_hint_x: None
 				CheckBox:
 					id: is_fil
+					# active: root.fil
 				Label:
 					text: "Save Weights"
 					size_hint_x: None
 				CheckBox:
 					id: is_wgt
+					# active: root.wgt
 			Label:
-				text: 'Starter file:'
+				text: 'Batch Size:'
 				size_hint_x: None
 			TextInput:
-				id: txt_w
-				text: ''
+				id: txt_batch_size
+				text: root._batchsize
+				input_filter: 'int'
 			Label:
 				text: 'Epochs:'
 				size_hint_x: None
 			TextInput:
 				id: txt_epochs
-				text: ''
+				text: root._epochs
 				input_filter: 'int'
+			Label:
+				text: '(opt) Weights Folder:'
+				size_hint_x: None
+			TextInput:
+				id: txt_weights
+				text: root._weights
 		BoxLayout:		# banner (right)
 			size_hint: .2, 1.
 			orientation: 'vertical'

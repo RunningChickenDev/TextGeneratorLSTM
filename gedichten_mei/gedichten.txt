@@ -3630,3 +3630,54 @@ Generated texts on 2018-02-03 19:23:31.062889
 
 Generated texts on 2018-02-03 19:25:16.392813
 ==========
+
+Generated texts on 2018-02-09 14:23:35.972819
+==========
+Epoch = 0:
+  diversity = 0.2
+  seed = 'ext news cycle.
+
+the loss of these wonde'
+  text:
+-------------
+ext news cycle.
+
+the loss of these wonder the send the send a conflect of the semplican of the sponces of the mant a denfent a ton the prespores the plect a confinting a denfers that for the not of the senfent and a the prosper the some the senfer to the plece the semplication the sempore the plice of the recent of the plice the recanial of the senfure the senfer the senfer to the spent the spenter we the some the sen a mint a confrest 
+-------------
+  diversity = 0.7
+  seed = 'ext news cycle.
+
+the loss of these wonde'
+  text:
+-------------
+ext news cycle.
+
+the loss of these wonders we wast when wor wen a thrializest strelly for all sped of thoose wast we ary, we connallive, pricanes through ther diff jo here and ar when of that so pright, the nempases and a senally it ellected a our donout i gomle some or the senspaginars shople, a genongading thes prestinct not that acoally you gethdes to not not dooned ale peace of wast that i long the peates the hamprect and theme the 
+-------------
+  diversity = 1.0
+  seed = 'ext news cycle.
+
+the loss of these wonde'
+  text:
+-------------
+ext news cycle.
+
+the loss of these wonder. wam is wedm when mmanrarts, sidett thrirt us noming. that betiect rate semp a precas gee offnient are pretkint love that itled is groeis all op these of tode. groncly of of comalitial the fine that deghendes "i wocnoss twah "wr colly pomer our for  in unemect thears not herako- and drinit.
+
+we, dy loig bembrid p0in vouleis of recariy i choires wed givest and mincirat  o clatication of dinmbend 
+-------------
+  diversity = 1.2
+  seed = 'ext news cycle.
+
+the loss of these wonde'
+  text:
+-------------
+ext news cycle.
+
+the loss of these wondeng out dray trems weem your ale whin not lactorguray wantity, that doamerw but ans, whonn a noun't trry theted belamk a fportorieve fwrengers deciustnilfsurm and wefuto notnatirer vicenstat wher i lave. i cytoese wem ; of rocaling. nek. amk. i lave.
+
+sonfo man todnare hopents to 't over or kill sref, a son'n wited, whan by. kiment. al. mohes aolicizecty dotemt it elfforeps, i chmmdoid.-bo yorhedy 
+-------------
+
+-------------
+

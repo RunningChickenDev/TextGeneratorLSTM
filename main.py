@@ -1,5 +1,5 @@
 from kivy.app import App
-from kivy.properties import StringProperty, BooleanProperty
+from kivy.properties import StringProperty, BooleanProperty, NumericProperty
 from kivy.uix.widget import Widget
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.clock import Clock, mainthread
@@ -62,12 +62,12 @@ class Modeller(Screen):
 			config.write(f)
 
 class Trainer(Screen):
-	batchsize = StringProperty()
-	epochs = StringProperty()
-	weights = StringProperty()
-	prt = BooleanProperty()
-	fil = BooleanProperty()
-	wgt = BooleanProperty()
+	_batchsize = StringProperty()
+	_epochs = StringProperty()
+	_weights = StringProperty()
+	# prt = BooleanProperty()
+	# fil = BooleanProperty()
+	# wgt = BooleanProperty()
 
 	def onload(self):
 		config = cfg.ConfigParser()
@@ -77,12 +77,12 @@ class Trainer(Screen):
 		b = config['Trainer']['txt_batch_size']
 		print(type(b))
 
-		self.batchsize = "a string",
-		self.epochs = config['Trainer']['txt_epochs'],
-		self.weights = config['Trainer']['txt_weights'],
-		self.prt = bool(config['Trainer']['is_prt']),
-		self.fil = bool(config['Trainer']['is_fil']),
-		self.wgt = bool(config['Trainer']['is_wgt'])
+		# self._batchsize = str('128'),
+		# self._epochs = str('60'),
+		# self._weights = config['Trainer']['txt_weights'],
+		# self.prt = bool(config['Trainer']['is_prt']),
+		# self.fil = bool(config['Trainer']['is_fil']),
+		# self.wgt = bool(config['Trainer']['is_wgt'])
 
 	def train(self):
 		# Try to store values
@@ -119,7 +119,7 @@ class Trainer(Screen):
 		if self.ids['is_fil'].active:
 			callbacks += [LambdaCallback(on_epoch_end=nn.gen_on_epoch_end)]
 		if self.ids['is_wgt'].active:
-			out = self.ids['txt_weights'].text
+			out = self.ids['txt_weights'].text + "/weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
 			callbacks += [ModelCheckpoint(out, monitor='loss', verbose=1, save_best_only=True, mode='min')]
 
 		# Train
