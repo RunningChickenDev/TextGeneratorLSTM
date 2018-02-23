@@ -1,0 +1,42 @@
+[
+	{
+		"type": "title",
+		"title": "Parameters"
+	},
+	{
+		"type": "options",
+		"title": "Output Type",
+		"desc": "Type of output: to file or to console",
+		"section": "Generating",
+		"options": ["console", "file"],
+		"key": "out_type"
+	},
+	{
+		"type": "path",
+		"title": "Output File",
+		"desc": "The file to output to if necessary",
+		"section": "Generating",
+		"key": "out_file"
+	},
+	{
+		"type": "string",
+		"title": "Seed",
+		"desc": "(Optional) A seed to generate from",
+		"section": "Generating",
+		"key": "seed"
+	},
+	{
+		"type": "string",
+		"title": "Diversities",
+		"desc": "Different diversities/temperatures to generate from (comma separated list)",
+		"section": "Generating",
+		"key": "diversities"
+	},
+	{
+		"type": "numeric",
+		"title": "Length",
+		"desc": "Amount of characters to generate",
+		"section": "Generating",
+		"key": "length"
+	}
+]

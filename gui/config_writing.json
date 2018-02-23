@@ -1,0 +1,34 @@
+[
+	{
+		"type": "title",
+		"title": "Parameters"
+	},
+	{
+		"type": "path",
+		"title": "Data Input",
+		"desc": "Original data to base AI on",
+		"section": "Writing",
+		"key": "in_data"
+	},
+	{
+		"type": "path",
+		"title": "Weights Input",
+		"desc": "(Optional) Weights to load the model with",
+		"section": "Writing",
+		"key": "in_weights"
+	},
+	{
+		"type": "path",
+		"title": "File Output",
+		"desc": "Where to output the file",
+		"section": "Writing",
+		"key": "out_file"
+	},
+	{
+		"type": "string",
+		"title": "Diversities",
+		"desc": "Different diversities/temperatures to generate from (comma separated list)",
+		"section": "Writing",
+		"key": "diversities"
+	}
+]

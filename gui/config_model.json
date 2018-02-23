@@ -1,0 +1,20 @@
+[
+	{
+		"type": "title",
+		"title": "Input"
+	},
+	{
+		"type": "path",
+		"title": "Data Input",
+		"desc": "Original data to base AI on",
+		"section": "Model",
+		"key": "in_data"
+	},
+	{
+		"type": "path",
+		"title": "Weights Input",
+		"desc": "(Optional) Weights to load the model with",
+		"section": "Model",
+		"key": "in_weights"
+	}
+]

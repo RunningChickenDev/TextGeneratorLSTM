@@ -1,0 +1,74 @@
+[
+	{
+		"type": "title",
+		"title": "Parameters"
+	},
+	{
+		"type": "numeric",
+		"title": "Batch Size",
+		"desc": "The size of a single batch to be sent to GPU",
+		"section": "Training",
+		"key": "batch_size"
+	},
+	{
+		"type": "numeric",
+		"title": "Epochs",
+		"desc": "The amount of iterations",
+		"section": "Training",
+		"key": "epochs"
+	},
+	{
+		"type": "title",
+		"title": "Callback: Print"
+	},
+	{
+		"type": "bool",
+		"title": "Use Callback: Print?",
+		"desc": "Prints a generated text in console after each epoch",
+		"section": "Training",
+		"key": "callback_print"
+	},
+	{
+		"type": "title",
+		"title": "Callback: To File"
+	},
+	{
+		"type": "bool",
+		"title": "Use Callback: To File?",
+		"desc": "Writes a generated text in a file after each epoch",
+		"section": "Training",
+		"key": "callback_tofile"
+	},
+	{
+		"type": "path",
+		"title": "Generation Output",
+		"desc": "The file where to put the generated text",
+		"section": "Training",
+		"key": "callback_tofile_file"
+	},
+	{
+		"type": "title",
+		"title": "Callback: Save Weights"
+	},
+	{
+		"type": "bool",
+		"title": "Use Callback: Save Weights?",
+		"desc": "Saves the AI after easch improved iteration",
+		"section": "Training",
+		"key": "callback_weights"
+	},
+	{
+		"type": "path",
+		"title": "Weights Directory",
+		"desc": "It is recommended to use a separate directory for this",
+		"section": "Training",
+		"key": "callback_weights_folder"
+	},
+	{
+		"type": "string",
+		"title": "Weights Name",
+		"desc": "A nice and unique name",
+		"section": "Training",
+		"key": "callback_weights_name"
+	}
+]

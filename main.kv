@@ -1,227 +1,40 @@
 #:kivy 1.10.0
 
 ScreenManager:
-	MainMenu:
-	Modeller:
-	Trainer:
-	Generator:
+	ActionScreen:
+	SettingsScreen:
 
-<MainMenu>:
-	name: 'menu'
+<ActionScreen>:
+	name: 'action'
 	BoxLayout:
-		size_hint: 1., 1.
-		pos_hint: {'center_x':.5, 'center_y':.5}
-		padding: 24, 24, 24, 24
-		spacing: 12
 		orientation: 'vertical'
-		Label:
-			markup: True
-			text: '[size=20]Text Generator[/size]'
-
+		size_hint: .85,.9
+		pos_hint: {'center_x': .5, 'center_y': .5}
+		padding: 12, 12, 12, 12
 		Button:
 			text: 'Load Model'
-			background_color: .0, .0, .8, 1.
-			size_hint_y: .3
+			on_press: root.load_model()
+		Button:
+			text: 'Train'
+			on_press: root.train()
+		Button:
+			text: 'Generate'
+			on_press: root.generate()
+		Button:
+			text: 'Write'
+			on_press: root.write()
+		Button:
+			text: 'Change Parameters'
 			on_press:
 				root.manager.transition.direction = 'left'
-				root.manager.current = 'model'
+				root.manager.current = 'settings'
 
-<Modeller>:
-	name: 'model'
-	on_parent: root.onload()
-	BoxLayout:			# all
-		size_hint: 1.,1.
-		orientation: 'horizontal'
-		BoxLayout:		# banner (left)
-			size_hint: .2, 1.
-			orientation: 'vertical'
-			Button:
-				text: 'Load Model'
-				size_hint: 1., .9
-				background_color: .0, .0, .8, 1.
-				on_press:
-					root.load_model()
-			Button:
-				text: 'Return'
-				size_hint: 1., .1
-				background_color: .0, .0, .8, 1.
-				on_press:
-					root.manager.transition.direction = 'right'
-					root.manager.current = 'menu'
-		GridLayout:		# info (middle)
-			padding: 12
-			size_hint: .8, 1.
-			cols: 2
-			col_default_width: 144
-			Label:
-				text: 'Model Type:'
-				halign: 'left'
-				size_hint_x: None
-			Spinner:
-				text: 'Double'
-				background_color: .0, .0, .8, 1.
-				values: ('Single', 'Double')
-			Label:
-				text: 'Corpus Path:'
-				halign: 'left'
-				size_hint_x: None
-			TextInput:
-				id: txt_corpus
-				text: root.corpus
-			Label:
-				text: 'Sequence Length:'
-				halign: 'left'
-				size_hint_x: None
-			TextInput:
-				id: txt_seq_len
-				text: root.seq_len
-				input_filter: 'int'
-			Label:
-				text: 'Step Size:'
-				halign: 'left'
-				size_hint_x: None
-			TextInput:
-				id: txt_step
-				text: root.step
-				input_filter: 'int'
-		BoxLayout:		# banner (right)
-			size_hint: .2, 1.
-			orientation: 'vertical'
-			Button:
-				text: 'Train/Fit'
-				background_color: .0, .3, .8, 1.
-				on_press:
-					root.load_model()
-					root.manager.transition.direction = 'down'
-					root.manager.current = 'train'
-			# ScrollView:
-			TextInput:
-				id: txt_vals
-				text: '-- None --'
-				size_hint_y: .3
-			Button:
-				text: 'Generate Text'
-				background_color: .3, .0, .8, 1.
-				on_press:
-					root.load_model()
-					root.manager.transition.direction = 'up'
-					root.manager.current = 'generate'
-
-<Trainer>:
-	name: 'train'
-	on_parent: root.onload()
-	BoxLayout:			# all
-		size_hint: 1.,1.
-		orientation: 'horizontal'
-		BoxLayout:		# banner (left)
-			size_hint: .2, 1.
-			orientation: 'vertical'
-			Button:
-				text: 'Return'
-				size_hint: 1., .1
-				background_color: .0, .3, .8, 1.
-				on_press:
-					root.manager.transition.direction = 'up'
-					root.manager.current = 'model'
-		GridLayout:		# info (middle)
-			padding: 12
-			size_hint: .8, 1.
-			cols: 2
-			Label:
-				text: 'Callbacks:'
-				size_hint_x: None
-			GridLayout:
-				size_hint: .8, .8
-				cols: 2
-				Label:
-					text: "Print in Terminal"
-					size_hint_x: None
-				CheckBox:
-					id: is_prt
-					# active: root.prt
-				Label:
-					text: "Output in file"
-					size_hint_x: None
-				CheckBox:
-					id: is_fil
-					# active: root.fil
-				Label:
-					text: "Save Weights"
-					size_hint_x: None
-				CheckBox:
-					id: is_wgt
-					# active: root.wgt
-			Label:
-				text: 'Batch Size:'
-				size_hint_x: None
-			TextInput:
-				id: txt_batch_size
-				text: root._batchsize
-				input_filter: 'int'
-			Label:
-				text: 'Epochs:'
-				size_hint_x: None
-			TextInput:
-				id: txt_epochs
-				text: root._epochs
-				input_filter: 'int'
-			Label:
-				text: '(opt) Weights Folder:'
-				size_hint_x: None
-			TextInput:
-				id: txt_weights
-				text: root._weights
-		BoxLayout:		# banner (right)
-			size_hint: .2, 1.
-			orientation: 'vertical'
-			Button:
-				text: 'Train the network'
-				background_color: .0, .3, .8, 1.
-				on_press:
-					root.train()
-
-<Generator>:
-	name: 'generate'
-	BoxLayout:			# all
-		size_hint: 1.,1.
-		orientation: 'horizontal'
-		BoxLayout:		# banner (left)
-			size_hint: .2, 1.
-			orientation: 'vertical'
-			Button:
-				text: 'Return'
-				size_hint: 1., .1
-				on_press:
-					root.manager.transition.direction = 'down'
-					root.manager.current = 'model'
-		GridLayout:		# info (middle)
-			padding: 12
-			size_hint: .8, 1.
-			cols: 2
-			Label:
-				text: 'Metadata file:'
-				size_hint_x: None
-			TextInput:
-				id: txt_metadata
-				text: ''
-			Label:
-				text: 'Weights file:'
-				size_hint_x: None
-			TextInput:
-				id: txt_weights
-				text: ''
-			Label:
-				text: 'Output:'
-				size_hint_x: None
-			TextInput:
-				id: txt_output
-				text: '- no text generated yet -'
-		BoxLayout:		# banner (right)
-			size_hint: .2, 1.
-			orientation: 'vertical'
-			Button:
-				text: 'Generate text'
-				on_press:
-					root.generate()
-
-# <FileSelectorToInput>:
+<SettingsScreen>:
+	name: 'settings'
+	on_enter:
+		root.load_settings()
+	Settings:
+		id: sets
+		on_close:
+			root.manager.transition.direction = 'right'
+			root.manager.current = 'action'
