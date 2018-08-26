@@ -8,7 +8,7 @@
 		"title": "Output Type",
 		"desc": "Type of output: to file or to console",
 		"section": "Generating",
-		"options": ["console", "file"],
+		"options": ["console", "screen", "file"],
 		"key": "out_type"
 	},
 	{

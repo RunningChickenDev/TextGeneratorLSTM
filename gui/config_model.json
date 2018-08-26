@@ -16,5 +16,13 @@
 		"desc": "(Optional) Weights to load the model with",
 		"section": "Model",
 		"key": "in_weights"
+	},
+	{
+		"type": "options",
+		"title": "Model Type",
+		"desc": "How many layers the model has (double shows more emergence)",
+		"section": "Model",
+		"options": ["single", "double"],
+		"key": "model_type"
 	}
 ]

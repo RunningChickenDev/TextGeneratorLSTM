@@ -8,7 +8,7 @@ import time
 # - output file
 
 def write(infile, inweights, outfile, diversities=[0.5, 0.7, 1.0], infout=True):
-	nn.Data.model = nn.load_model(nn.Data.vals, infile, inweights)
+	nn.Data.model = nn.load_model(nn.Data.vals, infile, inweights, model_type='double')
 
 	cqw = 0
 	curr_paragraph = ""
@@ -38,9 +38,13 @@ def write(infile, inweights, outfile, diversities=[0.5, 0.7, 1.0], infout=True):
 	f.write("--------\n")
 	i = 0
 	for p in paragraphs:
-		if infout: f.write("Paragraph = {}\n".format(i))
-		if infout: f.write("Paragraph Length = {}\n".format(len(p)))
+		nn.w.msg("Writing paragraph {} with length {} on {}".format(i, len(p), time.strftime('%X %x')), "Writer")
+		if infout:
+			f.write("Paragraph = {}\n".format(i))
+		if infout:
+			f.write("Paragraph Length = {}\n".format(len(p)))
 		nn.generate(nn.Data.model, nn.Data.vals, f, diversities=[0.7], length=len(p), infout=infout)
+		f.flush()
 		i += 1
 
 	endtime = float(time.time())
@@ -50,4 +54,4 @@ def write(infile, inweights, outfile, diversities=[0.5, 0.7, 1.0], infout=True):
 	f.close()
 
 if __name__ == '__main__':
-	write('obabo/in.txt', 'obabo/w/weights-improvement-25-1.1396.hdf5', 'obabo/written2.min.txt', infout=False)
+	write('hmt/eses.txt', 'hmt/ww/weights-40-0.6914.hdf5', 'hmt/written1.min.txt', infout=False)

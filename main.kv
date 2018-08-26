@@ -2,6 +2,9 @@
 
 ScreenManager:
 	ActionScreen:
+	LoadModelScreen:
+	TrainScreen:
+	GenerateScreen:
 	SettingsScreen:
 
 <ActionScreen>:
@@ -13,13 +16,19 @@ ScreenManager:
 		spacing: 12
 		Button:
 			text: 'Load Model'
-			on_press: root.load_model()
+			on_press:
+				root.manager.transition.direction = 'down'
+				root.manager.current = 'load_model'
 		Button:
 			text: 'Train'
-			on_press: root.train()
+			on_press:
+				root.manager.transition.direction = 'down'
+				root.manager.current = 'train'
 		Button:
 			text: 'Generate'
-			on_press: root.generate()
+			on_press:
+				root.manager.transition.direction = 'down'
+				root.manager.current = 'generate'
 		Button:
 			text: 'Write'
 			on_press: root.write()
@@ -29,10 +38,82 @@ ScreenManager:
 				root.manager.transition.direction = 'left'
 				root.manager.current = 'settings'
 
+<LoadModelScreen>:
+	name: 'load_model'
+	on_enter:
+		root.do_it()
+	BoxLayout:
+		orientation: 'vertical'
+		Label:
+			id: feedback
+			size_hint: 1., .7
+			markup: True
+		Button:
+			size_hint: .9, .1
+			pos_hint: {'center_x': .5}
+			padding: 6, 6
+			text: 'Return'
+			on_press:
+				root.manager.transition.direction = 'up'
+				root.manager.current = 'action'
+
+<TrainScreen>:
+	name: 'train'
+	on_enter:
+		root.do_it()
+	BoxLayout:
+		orientation: 'vertical'
+		Label:
+			id: feedback
+			size_hint: 1., .7
+			text: 'This screen will not respond anymore.\n\nGoodbye.'
+			markup: True
+		Button:
+			size_hint: .9, .1
+			pos_hint: {'center_x': .5}
+			padding: 6, 6
+			text: 'Return'
+			on_press:
+				root.manager.transition.direction = 'up'
+				root.manager.current = 'action'
+
+<GenerateScreen>:
+	name: 'generate'
+	on_enter:
+		root.do_it()
+	BoxLayout:
+		orientation: 'vertical'
+		TextInput:
+			id: feedback
+			size_hint: 1., .7
+			markup: True
+		Button:
+			size_hint: .9, .1
+			pos_hint: {'center_x': .5}
+			padding: 6, 6
+			text: 'Return'
+			on_press:
+				root.manager.transition.direction = 'up'
+				root.manager.current = 'action'
+
 <SettingsScreen>:
 	name: 'settings'
 	on_enter:
 		root.load_settings()
+	BoxLayout:
+		orientation: 'vertical'
+		Label:
+			id: feedback
+			size_hint: 1., .7
+			markup: True
+		Button:
+			size_hint: .9, .1
+			pos_hint: {'center_x': .5}
+			padding: 6, 6
+			text: 'Return'
+			on_press:
+				root.manager.transition.direction = 'up'
+				root.manager.current = 'action'
 	Settings:
 		id: sets
 		on_close:

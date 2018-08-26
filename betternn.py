@@ -41,16 +41,20 @@ class Writer:
 	def msg(self, msg, master=""):
 		if self.enabled:
 			self.out.write("[{:<12}] {}\n".format(master[:12], msg))
+			self.out.flush()
 
 	def msg_val(self, name, val, master=""):
 		if self.enabled:
 			self.out.write("[{:<12}] {}: {}\n".format(master[:12], name, val))
+			self.out.flush()
 
 w = Writer()
 
 def analyze_data(path, vals, extended=False):
 	if vals == None:
 		vals = {}
+
+	print("ANALYZING DATA")
 
 	# Read the entire text
 	text = ""
@@ -68,12 +72,14 @@ def analyze_data(path, vals, extended=False):
 		# 				w.msg_val("Could not read", c, "Analyze")
 		# 				print("Read: ", read)
 	except FileNotFoundError:
+		sys.stderr.writeln("Could not read path: " + str(path))
 		w.msg_val("Could not read path: ", path, "Analyze")
 		return
 
-
 	w.msg_val('corpus length:', str(len(text)), "Analyze")
 	vals['text'] = text
+	print("text", vals['text'])
+	print("text^")
 
 	# create the dicts
 	w.msg('Registering characters ...', "Analyze")
@@ -119,20 +125,26 @@ def is_vals_complete(vals):
 	else:
 		return False
 
-def load_model(vals=None, path=None, weights=None):
+def load_model(vals=None, path=None, weights=None, model_type='SINGLE'):
 	if vals == None:
 		if path == None:
 			w.msg("Cannot load model: no path to data and no previous data!", "Load")
 			return
 		w.msg("No values found, analyzing ...", "Load")
 		vals = analyze_data(path, vals)
+		print("v1", vals)
 	if not is_vals_complete(vals):
+		print("v2", vals)
 		w.msg("Values seem to be missing, re-creating ...", "Load")
 		vals = analyze_data(path, vals)
 
 	w.msg("Building model ...", "Load")
 	model = Sequential()
-	model.add(LSTM(128, input_shape=(vals['seq_len'], len(vals['chars']))))
+	if model_type.lower() == 'single':
+		model.add(LSTM(128, input_shape=(vals['seq_len'], len(vals['chars']))))
+	else:
+		model.add(LSTM(128, input_shape=(vals['seq_len'], len(vals['chars'])), return_sequences=True))
+		model.add(LSTM(128))
 	model.add(Dense(len(vals['chars'])))
 	model.add(Activation('softmax'))
 	optimizer = RMSprop(lr=0.01)
@@ -161,7 +173,7 @@ def train(model, vals, callbacks=[]):
 		return
 	model.fit(
 		vals['train_x'], vals['train_y'],
-		batch_size = vals['batch_size'] if 'batch_size' in vals else 128,
+		batch_size = vals['batch_size'] if 'batch_size' in vals else 256,
 		epochs = vals['epochs'] if 'epochs' in vals else 60,
 		callbacks = callbacks
 	)
@@ -277,9 +289,9 @@ if __name__ == "__main__":
 			print("  Using weights: '{}'".format(out))
 			print("  (Data will be output on console)")
 			print("  --  ")
-			train(Data.model, Data.vals, sys.stdout, callbacks=[
-				LambdaCallback(on_epoch_end=prt_on_epoch_end),
-				ModelCheckpoint(out, monitor='loss', verbose=1, save_best_only=True, mode='min')
+			train(Data.model, Data.vals, callbacks=[
+				ModelCheckpoint(out, monitor='loss', verbose=1, save_best_only=True, mode='min'),
+				LambdaCallback(on_epoch_end=prt_on_epoch_end)
 			])
 			print("  --  ")
 		elif choice.lower() == "generate":

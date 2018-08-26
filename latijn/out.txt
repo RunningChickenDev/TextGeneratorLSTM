@@ -1,0 +1,3033 @@
+
+Generated texts on 2018-03-25 16:37:58.132077
+==========
+Epoch = 0:
+  diversity = 0.2
+  seed = 'iochum hannibalemque dirum;
+
+sed rustico'
+  text:
+-------------
+iochum hannibalemque dirum;
+
+sed rustico me sere meres mes seris at sere menis in inte teris aus at aus ab se manis at pere cum se ceris aus secum sena menis sere sentum at se conis ac seris in at se micis at se metus aus sere pores at meris at mecis in sere menis at at poris ac mere minis at cere mes tere centa net canis se coris aus in micers at mecere meteris at at se metere se sentis ac meris at in intes at amis at at at se coris at
+-------------
+  diversity = 0.7
+  seed = 'iochum hannibalemque dirum;
+
+sed rustico'
+  text:
+-------------
+iochum hannibalemque dirum;
+
+sed rustico vestis maas cemcum feres migem cecesta tecertos ac cicanies,
+se et menit in fugie sibes se ne mecna netotus depe velnin reli at
+dendas et pamites mene cobis mebinmas mero fonisdem in lecos
+
+pesis denetas sodit abibisus meger cen neges et pates savisquo carido sum syriasque ses ce tellabis semee per abces cetus nos decis oga memisum mecere altis venes seum deus ansat necers incit hom leca pramis d
+-------------
+  diversity = 1.0
+  seed = 'iochum hannibalemque dirum;
+
+sed rustico'
+  text:
+-------------
+iochum hannibalemque dirum;
+
+sed rustico lemeque lego ii dinmut pare anus;, et sberis audamiet apois s
+flamymaquem ed mepere nes nebum. vironcens coudennoat hinca iexititianus sebitila mi sec nenisa
+pare, sapima nulis unest coppusus meste cigittes des et es
+vicitet melabi bedere saquisne ut ma mero eria duet no somepis octis
+hoecsis.
+et iuled ativerum apterlo tanli copagi mavi garias insilda finra, osnes, add depisuo pacislis vesbe et n
+-------------
+  diversity = 1.2
+  seed = 'iochum hannibalemque dirum;
+
+sed rustico'
+  text:
+-------------
+iochum hannibalemque dirum;
+
+sed rusticos
+peetess hopaarus
+vecesda mera.e eib tintequa sbimert
+quidis
+atquecyco linaiti ae ise puaa laneo berlos soxus, aur nosque
+exrerta
+pageb an vingostonidabans olima..quemmpogna fadcas masgusus cedie lilems ouvonme cacis hiisa
+gare semunexas, suspne celragpatumam,
+nuro,itus saedceds vefo de fos, dotqueni., he ut sedinesderi nulas hem fnsciplocum sequics lemre
+ingocus ioradus, aelam tumcesc
+bupmiormo 
+-------------
+
+-------------
+
+Epoch = 1:
+  diversity = 0.2
+  seed = 'titor
+seu navis hispanae magister,
+dedec'
+  text:
+-------------
+titor
+seu navis hispanae magister,
+dedectus ad poret ac procentis ad mectus
+amnes ad prodere procere procentis
+ius amatus ad procus ad tum prodes at dicere pares amos
+in se contum portem portidus amnis
+et procere conterit in manere procentis
+et prodes at proces et procere non amis amisere prodes
+ad dectis et progis amplos et seliem procus et ad sentis amnis at in at procus amatus adis procere procis
+in procere portis et cantus amata ten
+-------------
+  diversity = 0.7
+  seed = 'titor
+seu navis hispanae magister,
+dedec'
+  text:
+-------------
+titor
+seu navis hispanae magister,
+dedecer quat et findio pramorae, et deius
+et imica pinarorum oporum, si quaerat ic muturia parme faeseree, quam
+puere sumpiris et nec taricci vedes in et amaldio tera.
+nesc porecanta farpe pares?
+
+pante net sulba quae divat am sumidoras
+portaremerum, et quo matiore mir ialore poteris
+cantulus ampla ditus prenem cins
+fermul in malis amnum in ofipulas mium amar conium plocat quod et iperam cisposque curc
+-------------
+  diversity = 1.0
+  seed = 'titor
+seu navis hispanae magister,
+dedec'
+  text:
+-------------
+titor
+seu navis hispanae magister,
+dedec deit sonus o fepausia feres macio
+clontumque rididem
+'omcarum praherer, in me redurquequis
+porus quaa se situe cora
+bectatua sanimaras
+iustus hec racere et ego sit gunho catus
+corsere, et non divas, quaemae non utut iut aquiota nec implos
+in luco stedestiam parmese preut mentis; eram,
+arm taopenseolium fabate moneris aust porvirni
+corporem revic hos parater ego vimus
+poriva porra rogenat?
+dusti, 
+-------------
+  diversity = 1.2
+  seed = 'titor
+seu navis hispanae magister,
+dedec'
+  text:
+-------------
+titor
+seu navis hispanae magister,
+dedec, ad rucim, tulcum pypectolliqueb exstris aellu, sondilec avio, atque cile,
+ticimesqued ume, pornam, hobent usco sanus armabe fellique
+vic timosilum
+quii
+paranes srimers ver ii quae,,
+
+quad addadet quaqui deuput,
+iumcenti pondecelri lere, dosumque broae,
+'erhoo.
+'progente potecus? mo, tarum
+pieceragsuma fasunepeacent hapremus
+vicoro eit enum, sium'quib pereit isidia, et oe vic est noqued puoro.
+qu
+-------------
+
+-------------
+
+Epoch = 2:
+  diversity = 0.2
+  seed = 'atronum,
+non ego sim capri neque sulgi: '
+  text:
+-------------
+atronum,
+non ego sim capri neque sulgi: quae non inscera propere propitum
+
+per si praecere propera propitum
+
+corpere propit amicis et praecer
+
+vic amici praecere propitum at
+
+vicit andis aut praecera mere farma
+caeca medium menis amicum aut anim
+
+procere capit anim quae condicis
+
+vic andis anim praecera mere malis
+
+non me mani postis aut propitae
+praecere propit anim anim
+
+te cura postis anim posse procere procere decer
+caedit anim cont
+-------------
+  diversity = 0.7
+  seed = 'atronum,
+non ego sim capri neque sulgi: '
+  text:
+-------------
+atronum,
+non ego sim capri neque sulgi: lugita vicere cum
+ferra veret ingenia virias hoc
+me crerue praerensum, mihi prallime conitum
+nec coscura.
+dicos temper pelro aire laes
+se dicigni et gratia meret auris
+quam magnon caedis meni medientarae,
+qua disentis anim deus et
+quam se procilitram fice scurrat per
+farca fes plerat anum aut
+sic quae mere nanguo
+percincanar amora alter
+
+inquad maus amnis mellus nec poderae nomen caes
+sediris quae
+-------------
+  diversity = 1.0
+  seed = 'atronum,
+non ego sim capri neque sulgi: '
+  text:
+-------------
+atronum,
+non ego sim capri neque sulgi: volis
+fascum semiturae
+moreessterum, saudigis venium sublius erit
+nive creries ferpmater
+riculis nego, angite amnu.
+puerae namiserat poscicis, adi
+diceneus pudim direre.
+quam ab privio memiam tantum concaeri
+vitida compeus et andupre qui
+garmata cibena curribas,
+
+iti non cilla et prifagennae
+derec est tembarim ponis
+vicant in gaelis mihihesse contagens
+et laem mormanommunt quid anae
+mingus.sus mim
+-------------
+  diversity = 1.2
+  seed = 'atronum,
+non ego sim capri neque sulgi: '
+  text:
+-------------
+atronum,
+non ego sim capri neque sulgi: 'iti tiberro,
+
+ut cra quas trirgo latiusra quidbababau frimilantis midiidicitum
+migit, satrorerorre sirebesturem.
+nobper? nomiae camalata reus colram
+
+sidlos, tu puerere, mutinaeittari suubit urbis
+
+ bioam sau
+in pieras.
+
+nincisum rihae inviloriis anibis
+varior goa namnebum mabi,,' des per.'
+ne quis, iudi norbas re pesclos;
+
+ivique fugnant flarut, nego decerocavis mpci
+capgem penus, 'vomphibius,
+e
+-------------
+
+-------------
+
+Epoch = 3:
+  diversity = 0.2
+  seed = 't
+et lycum nigris oculis nigroque
+crine '
+  text:
+-------------
+t
+et lycum nigris oculis nigroque
+crine contem contentem redere moratus
+non arit in malitus amicere consis
+deceres amicere per ad vere cares,
+
+si tu te per in propere posse propitus
+in properem consis anim super ad veritus amicis
+curtis amicere veliter et vere propere super
+propere dicere cum servet actis.
+
+te conte propet amicere parvis
+in est amiter amicis amices subis, quid armis,
+nec si super dicere propere tertor
+ac post in propere
+-------------
+  diversity = 0.7
+  seed = 't
+et lycum nigris oculis nigroque
+crine '
+  text:
+-------------
+t
+et lycum nigris oculis nigroque
+crine me silibus vectotis, restes
+tristis fones, latertur, non, latit,
+ternis amedem lidere perfinere, super alle ciris?
+sub phosicentem liques hoctis atque
+non clates praede volibaret superetos
+fructe parve inter est conte luit,
+non coterierere cervis pedres; 'nolem
+pastet atque pedes recerentior amum
+tragula latis, quid sit aure subitra tesceracis acris
+non contem, postus inviritates crustius
+iuvatus 
+-------------
+  diversity = 1.0
+  seed = 't
+et lycum nigris oculis nigroque
+crine '
+  text:
+-------------
+t
+et lycum nigris oculis nigroque
+crine rubinus preteri, beato cascam, nunc?' otdem.' 'fronas ego vede culit
+glare fonsistis mestrene rregit, mustee: stignum
+domi, sor cationisis, avis malit later.
+
+serbue degnere lutis praegenis, urbem.
+aevudo, luce lopit tem decet, ut cum meri;'
+'inceellum tipla viptus olim grocitre llucior,
+corvicre cretiorrum,  qui sicerum
+austus in punciae utie an sana,
+num vemos telede vetecit ano papro,
+ditererni
+-------------
+  diversity = 1.2
+  seed = 't
+et lycum nigris oculis nigroque
+crine '
+  text:
+-------------
+t
+et lycum nigris oculis nigroque
+crine phoevius namum reccus fihavat.' quea callipmelo
+stitat extrectum stertio matae?
+pos tuhae, lattere, dum su, in phesit undebis
+fensus amontis arepesque non cervem?
+flecere respeditus, au illia necceculis
+pepuule bretiomosset aper amacos?,
+hon, abuti lalut plemet, tebridat. quos
+non
+becta? nerum, aurimisidumsivum habo premeris.'
+
+lesusta velet, quadsum tlatamne pibit,
+nodri.' 'decus nibi paulere dic
+-------------
+
+-------------
+
+Epoch = 4:
+  diversity = 0.2
+  seed = 'illem
+ira fuit capitalis, ut ultima divi'
+  text:
+-------------
+illem
+ira fuit capitalis, ut ultima divit arturis
+consinem consinere posset et tempore latris
+ad posset priscere post ingens
+
+dictis ad ingens et te fare conterris
+in pater alius adnis artis ingens
+nec furis post ingens et sine propit.
+
+
+xii
+
+cur amperis amperit amperis animum
+prodentis amicis adima posset
+
+sive si posset artis adnis et tempere propitur
+amata proptae portis
+in ingens et in artis atque porsis
+accerit acceris atque conter
+-------------
+  diversity = 0.7
+  seed = 'illem
+ira fuit capitalis, ut ultima divi'
+  text:
+-------------
+illem
+ira fuit capitalis, ut ultima divis, tuae
+sed nens ad amictum,
+
+ti te iuventis,
+
+
+xvi
+
+sic potricitur nominis sices, quartum beata lucto
+pulperit ego ly bissis.
+
+
+vi
+
+cartur accet capit sinent
+simpletis, et tu plurium decentertis:
+net in ut est velem post artis, hegnam
+innorit adagigi nunc, imiem hoc
+porris ingenis ilidit octegro
+reddius plurentis ipsas silius
+et temporit achit, lamva livens
+neque lupere nom, interrapis dicere dui
+-------------
+  diversity = 1.0
+  seed = 'illem
+ira fuit capitalis, ut ultima divi'
+  text:
+-------------
+illem
+ira fuit capitalis, ut ultima divis: post
+coniitur usor ligiser paterlat,
+quis siseris humpore domae nempticis
+acornis locom
+non esse destrit, dum liquis latertaret
+ego critu collam?' oret: sub propus?
+dice mossis robatarui, contulesto horbantis:
+abreuntes.
+
+tare cura iotus hominis incuris,
+'quao braque phonguit chalmana
+fer aevidat ocrista sergiere te
+nexpronto ferum vit siby fulivens
+quod iamque haeumus crescus itae sorii, virni
+-------------
+  diversity = 1.2
+  seed = 'illem
+ira fuit capitalis, ut ultima divi'
+  text:
+-------------
+illem
+ira fuit capitalis, ut ultima divi glatem
+strppulta lopphis? vel tegalet iabo qui
+irpales, quiar uvis, anet, paupem hibrsum
+naret aemispituntis me ponibae.
+inciridis ferrra.
+
+ortantitus ego alerit et 'potitum.
+dui, quid hardit apus ipcum sigis
+me ienis urosocture gratdundarit;
+nigros et ipsis, patra urgeen ietaefaeciamquet
+
+scato mundentium: pricenessoli peresseu reddis.
+
+selputerum astis acludere gragem.
+hius multis robat: quis? 
+-------------
+
+-------------
+
+Epoch = 5:
+  diversity = 0.2
+  seed = 'ingere qui non visa potest, conmissa tac'
+  text:
+-------------
+ingere qui non visa potest, conmissa tacis
+dicere consultus amicis
+patina capit amicum mihi non alius
+aut quis quid in ante capit amicis
+fulta catentis amicis amicis
+capta pater artis et praecere facentis
+catine si fugitur amnis alius
+aut pater amnis et amicis et in aut in aut in amnis
+captare meris amicum et amicus amici
+virgis et sine facentis amanis
+conclare serre consilius et alitis
+et capient amicis amicis et artis
+et patere sibi c
+-------------
+  diversity = 0.7
+  seed = 'ingere qui non visa potest, conmissa tac'
+  text:
+-------------
+ingere qui non visa potest, conmissa tacenti
+sine, quire te properem mamando
+decere tibi multo
+sectullam mea patere massus
+captus duris mani fores
+sillum laelius ut sub orere lallis licius
+modus melis seque pitine taris
+volutum fristi fuga causis
+verbis ego doctus? quae meret.
+
+
+
+
+
+illi prate tradit sortibus vocent vis carti,
+viceri laelit utra scartos: uti
+nulli quam libent parto quit patere et paribus acerem
+sapris conpentus sura palu
+-------------
+  diversity = 1.0
+  seed = 'ingere qui non visa potest, conmissa tac'
+  text:
+-------------
+ingere qui non visa potest, conmissa tacta
+periter norum 'uumbinum, di
+oppassatantus, sequiasulas, aalanum mere pagitur dice, quarit.
+immacu magnus omne renae teri devere freciles
+mient, sontibus fulput apidi redoscis,
+rardo parcelut alam? si segeret abae.iuves,
+illi illi lectus erae phuroro
+mum servim safultor antinellus.incorxque
+nolius, quid 'semigas licit est, si multo putae potemnia,
+cuncas anisas quitraque minum
+reginam quam pudar
+-------------
+  diversity = 1.2
+  seed = 'ingere qui non visa potest, conmissa tac'
+  text:
+-------------
+ingere qui non visa potest, conmissa tacra
+nobe et honcus aura peregis
+primontur, hrae posseut potabitum,
+tu mitsibus: ibis laccum
+hoc serrus operus sigrimus agri,
+concigenttee fnris potilis ignibus,
+notuo?us, dycculi dapis, in
+vedevis?
+si non diisque vutibus aras, nonque drivia
+luptus? retum muntiumque
+non intante comptum;
+
+serrre capris, velitum tinc, iuhem
+patintuiurae crirsvid didis, lune stana prandata
+ev mittus
+nonnus obetum f bol
+-------------
+
+-------------
+
+Epoch = 6:
+  diversity = 0.2
+  seed = 'sper, te profugi scythae,
+urbesque gente'
+  text:
+-------------
+sper, te profugi scythae,
+urbesque gentem carmina peres
+dictus aura contem laborem conter ante sanguine potentis
+accipe sentis possum acrima propere poter
+inferrum conpondit acrimore potentis
+propere possum conterre per amicis
+dicere te post in aper acciris
+per animum conpertum manis antimus aurem
+propere propere propere peris
+servos arcum non aura posse propere res
+divit ab ille conterre possum
+carmone poter aura recerno
+conterre consi
+-------------
+  diversity = 0.7
+  seed = 'sper, te profugi scythae,
+urbesque gente'
+  text:
+-------------
+sper, te profugi scythae,
+urbesque gentem laeda priosem
+carmuna. meo est selevam hospit iti quamque malia bibes
+insanus tan mellem collegit virtis ad te reget, quo
+pastoro si triidem auri.
+dum rate subelis nec patroparat ad vircat inca fistus,
+dicert ieribus precores quem
+hoc tibie messantis me conmabile barva dirique longusor
+oribusne fortis lite prosore nabino
+inprae atquam sed post enim resque cum
+surtibus cala corere reditura
+postre
+-------------
+  diversity = 1.0
+  seed = 'sper, te profugi scythae,
+urbesque gente'
+  text:
+-------------
+sper, te profugi scythae,
+urbesque gentem, soltera pollebra
+medis robo cenusnet me
+liberi paeri stantis; ad ille, rica certes
+ludiant intongis finabes copposi
+est: neque celarero meduis auro,
+hes vatris hodos vistram vitia perior,
+nunc carmunta bona dulcis.
+
+carmiquid neque auvare quid travidas.cocenum
+catrio faspite potero,
+ceroma malis spectens imimus hic, inquives; hic qoatrones pyreo, quamque pitos
+grator trahide laere poputus, mequ
+-------------
+  diversity = 1.2
+  seed = 'sper, te profugi scythae,
+urbesque gente'
+  text:
+-------------
+sper, te profugi scythae,
+urbesque gentes
+luqui sub
+nontus, anro sosputque sro'rumarnosi,
+cum liber at, velisipqui latribus,
+flebiletius? tulieus ac norvinere utus
+manries nes aurum verse noes
+diqui prophovus alvaque beam
+cacre poteon docui fides,
+anssaa, non dissant mives obrimobes,
+ni nunc acria arbusquas., ni securroptatinte geni quem inpe maesti
+ac inpopuret, devoni
+occeda; aedatum proyrari adepultum
+vaprodit aptimem rerem tuac fugu
+-------------
+
+-------------
+
+Epoch = 7:
+  diversity = 0.2
+  seed = ': tercentum milibus, acre
+potet acetum; '
+  text:
+-------------
+: tercentum milibus, acre
+potet acetum; qui te proprior achius
+aut vel animum cervat, si silis
+accidit in in in me non in accedet acris
+sic poter in alitis et decitur aut adducta
+parit actis accita tenere later
+aut propilla decerat accidit aut amicis
+accidit aut vel in magnam dicere later
+acris accidit in mare patreae
+sine canis accidet an ante te
+cancis et proprior amicis accidit et
+in magna nec magnae paris aut alit
+proprior aut si ve
+-------------
+  diversity = 0.7
+  seed = ': tercentum milibus, acre
+potet acetum; '
+  text:
+-------------
+: tercentum milibus, acre
+potet acetum; 'non et et vecisa ventus
+temples ego dicere forti
+poculto somnis corhata,
+currepinibus ut fropis uterus
+expossis ego parcis
+dicidem ne posse et me finere tuilis
+parit me redere me per et ligna
+manis atque coicit, magno
+lectis aut fastis?
+
+te vel insinum poter in laceno
+mivido te quaesas et addio
+statistet alitus addere fave lepi,
+in mondiri per adtulae pauperis
+sede ter parit et et eres
+curtat ope
+-------------
+  diversity = 1.0
+  seed = ': tercentum milibus, acre
+potet acetum; '
+  text:
+-------------
+: tercentum milibus, acre
+potet acetum; cum fascia labori
+modicia vessis, decels ut insagitus
+quoque capitis.
+gituro prociaba viberris lingena cangus
+verat amicis excedius de:
+aut me quirimee iuium.non et mihi patreae
+insina rege praeetis,
+hecclus ante.
+
+sadisare erere civeris nunc addum
+gerum pleri
+ore nuc aut sutdi illo dominus ut bacalum
+facet addaes. matreos orciante
+fluctosqueentes dolimit '? quibus illaque
+mirat.' si fortis achile
+-------------
+  diversity = 1.2
+  seed = ': tercentum milibus, acre
+potet acetum; '
+  text:
+-------------
+: tercentum milibus, acre
+potet acetum; incaridit obdatidem,
+
+decedentis expellomerio
+oerum predonium.
+
+te
+la cogumabit, utomno rifchius?;
+'xpremet paterna deto cupiet acci
+vutis: cenina claelorisa recibus
+dupicis atco.' daltas miliusquhis
+curreon et, quane texeri poprecis
+inlabris ecviae, plau non honi cormem?.
+tu aves pegeri in an vax irnitertesque
+illum patriis undis eumve ramam, sceam.
+ut luctonae.iuventa, pria forvis
+silio
+possere 
+-------------
+
+-------------
+
+Epoch = 8:
+  diversity = 0.2
+  seed = 'acis
+terret equos equitumque voltus.
+
+au'
+  text:
+-------------
+acis
+terret equos equitumque voltus.
+
+audum mortis mensis accidere posset
+insanis et arbentis accedens actens
+
+aut post in aut pater accidere catervat
+cervit in ac non menentis in in adspersa
+perfidum dissimus accedere parere posse patervat
+carmine pater in in in in adde
+candum canta pater ad alter accina
+capta consilium temperat accitum
+distis ac si parcentis ac silis
+in in in hora canguine paterva divere posset
+ac pater ad in in alium
+-------------
+  diversity = 0.7
+  seed = 'acis
+terret equos equitumque voltus.
+
+au'
+  text:
+-------------
+acis
+terret equos equitumque voltus.
+
+augam dissum aptis est tuul insalut
+et multa paterva negatos
+contultus horvae.
+
+insalumque canti currae est,
+si porrum et distisae qui maris atque
+ede?' 'o agris insingue negatos
+supirae qui in arbuentum et insanum contentis
+pugnare vitare sagultumre.' quid quid lente ando
+insonis atque erat memgos
+divat alimunt facilis catroebra
+curum mella latinis,
+niter albus, habet longem et impera
+
+post si vene
+-------------
+  diversity = 1.0
+  seed = 'acis
+terret equos equitumque voltus.
+
+au'
+  text:
+-------------
+acis
+terret equos equitumque voltus.
+
+aut lonam mibera negur callispexsagno
+progentorquee corlide maeceret
+templicesi carondana rireunt.
+ipsum in sub ius et malus; dos agno
+matricis cur ut ignosus, ut apsoro.
+ut forte calervo at, pericique eterqoe
+to, siderico'.
+
+
+iv
+iummredia palves in illia timen
+actinia sorvas et amen invis
+propiatur amntos.
+contultaram fauius vapri, vodenis astibus.
+
+utca callis pater obsummiret
+o visum ego c mrammi
+-------------
+  diversity = 1.2
+  seed = 'acis
+terret equos equitumque voltus.
+
+au'
+  text:
+-------------
+acis
+terret equos equitumque voltus.
+
+aut prudisti missa perfaeus exculcibus.olibitque versi
+pauerati evat, 'inpurae harbat, dura mincur lindor avida
+et illa dileo' impta.
+
+
+extrobulo
+fregum gaudere urat.imprucetque cenen
+tenentale minacili holtion
+parvantius est morxus netos
+ridet sub non manibus, tumperto
+callinas nocte multi
+adsperse; novum ialsa bibens fudum
+fruxeque, morutis cui non ferrhalatum
+non ust dellem.
+
+insenas illas?sum?
+
+
+-------------
+
+-------------
+
+Epoch = 9:
+  diversity = 0.2
+  seed = 'recor.
+non sum qualis eram bonae
+sub reg'
+  text:
+-------------
+recor.
+non sum qualis eram bonae
+sub regit amicum pare nec atque natium
+aut te praeter amicis atque nec me laudat
+anter pater atque non amicis amicis,
+nec per amicitur atque atque atque muneris
+pede non ante non sit ante canet hospiter
+aut anditu consit anditum mentis et amatatur
+aut ponest atque pater ad in amicis, amico
+sub pater atque nec per amicis in ad hostis
+prodest properem aut alius atque nec per amatis
+aut patriae te pare pate
+-------------
+  diversity = 0.7
+  seed = 'recor.
+non sum qualis eram bonae
+sub reg'
+  text:
+-------------
+recor.
+non sum qualis eram bonae
+sub regitur. orce.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii
+
+ias oles ortus, hic, gratis atque
+legentem semper scora fugus ad ab illo
+post et olem potes quaerem dides manus in adoret
+ut male nutum te pubita vetenda
+tibi sermater turma protertis, lectes
+non atque deos caternus mendo,' ut quis
+tracum fastima non me mente mossis
+at atram catuno gaudis redes, inulta pede pulchro
+illi dolet aequus ad medium tanum
+servamque muri maris
+-------------
+  diversity = 1.0
+  seed = 'recor.
+non sum qualis eram bonae
+sub reg'
+  text:
+-------------
+recor.
+non sum qualis eram bonae
+sub rege catidam mihi gracus:
+omnis undadis et mapho lugae: vita cotis,
+insanum curo luperum memodes cum laber, ut atque
+atque ac stales tibi dive praeactus in ad illicum.
+quae sani, purorem catres.
+nunc ad ohabius proema meus duc mihi, dum possant
+inretentum lipina maius in adde sanus.
+cates curam vividam inulor mresti
+salet imosto surcos di volmas atque nil romona aurive que
+turpure uteret
+produs redit
+-------------
+  diversity = 1.2
+  seed = 'recor.
+non sum qualis eram bonae
+sub reg'
+  text:
+-------------
+recor.
+non sum qualis eram bonae
+sub regna huberit anim turmant tremenda rutum.
+iuvum suaquam terronus adde veculis?' quantem
+regilat fabiim? care suetis quae cenam.
+'sim rederetque paterus pesset, omen victi lym?
+git elusra querebris colocea
+neut, in idus
+odedis
+iratenque itas e persoda: et iane, tempes, praebos
+fasta te laenis
+
+hipcyla trimentisur et uritum
+pedata tuarom et astrusum
+piler labati cogat nomi
+vitius absectit occoti haure
+-------------
+
+-------------
+
+Epoch = 10:
+  diversity = 0.2
+  seed = ' thraciae,
+iam nec prata rigent, nec flu'
+  text:
+-------------
+ thraciae,
+iam nec prata rigent, nec flucta per ambus
+per audis per cantus ambris atque priorum
+per per canta per ambore prissit
+in canta cantum et potentis et amicis
+per ambore plumen ambulat ambore prior
+propis canis et porrentis et contemnis
+propis aequa post sum pare post coniure florem
+post pecta per ambore non hora tempore canis
+ambulator ambore destis secunt.'
+
+
+xix
+
+non si propidit concidit et contemni
+post cortis ambore primis 
+-------------
+  diversity = 0.7
+  seed = ' thraciae,
+iam nec prata rigent, nec flu'
+  text:
+-------------
+ thraciae,
+iam nec prata rigent, nec fluctes,
+quisque matroris non sum sagit ortus
+tumul iune pecus estra quanibus in altices
+proxis qui rapto propis, quinsum perum excultus in contembor
+inclivida pectaa dilor ungues
+quam pundum exsit stultare iuga reget ulte
+notus mala plumim fero uncso,
+
+sermis hoc habia vinesus catens
+venti nocus in nam, opeit, in coniunt ambae
+pulchras et precus non non paulo iecole dessi
+rex tempe sax me celatre no
+-------------
+  diversity = 1.0
+  seed = ' thraciae,
+iam nec prata rigent, nec flu'
+  text:
+-------------
+ thraciae,
+iam nec prata rigent, nec flugis iole cari relice.
+iratum diserum lecte cantae;
+terre sitli canna, hic, alo
+in me colume uda repis in pactylla.
+non inicum expletiorat facessi non cui sater ut iras, gligis, illi,
+nec sim fropis parcana magis ab illi cynhisthax
+timidat rcaque tibi multa nec curran:
+quid catigam magno fugis laepido nec est.
+alci ure denesso rroridem;'llicum mentis
+pecus ambusbus lectus abdona lescerebscunale fla
+-------------
+  diversity = 1.2
+  seed = ' thraciae,
+iam nec prata rigent, nec flu'
+  text:
+-------------
+ thraciae,
+iam nec prata rigent, nec fludius
+latishec iusto scans.
+non sorquis pondutosque pedoan:';' sic iustus equit frugit.
+acciti staronis.' longi rympga tectas?
+tu quinrpamare capi doctis quinc.''cum vaperentum volecsum exist
+sirern, contilium diti. hoc iusto tibire
+castis thradoquituntibus, rein? hidque menditnictae.
+doculum utur iavelis phoenet,
+ris fluci ampharis
+furgens impho arrs cum panistus, uti, neque aetcus hunc usus acpin
+-------------
+
+-------------
+
+Epoch = 11:
+  diversity = 0.2
+  seed = '
+summovere litora,
+parum locuples contin'
+  text:
+-------------
+
+summovere litora,
+parum locuples continus et amicis
+minus anima per in ad ante nec sit ante pellicis
+ante praeter aptare porrentis ac tibi
+non ante nec versa per addum et aevis ac recerni
+insanis accella candis aut in ante sit accipit.
+insanum capite nec manis accedere propicus
+aut cum patria manis aligus ante patria
+cum pater amicis amicorum capiter
+caeda capitem capitem,
+non si propis ac mare per ac pater amico
+nec porrentis accedere
+-------------
+  diversity = 0.7
+  seed = '
+summovere litora,
+parum locuples contin'
+  text:
+-------------
+
+summovere litora,
+parum locuples contincis et undo
+nec satur. an ut nons alias.neque clavor, ut lucelli
+patrea peritando me sit volus homina colume
+nec te remumet dius ut frugis olivis,
+nec sumplecens actem
+
+de demovere hic me levis, neque aut ipse
+terre tenerus gnato.' quaris ad etis austri.
+nequis atque plumis neta capiens
+ferretu animum peccere veltante
+callum pater apterum cum pinguen infabante
+sentem lenaveris uxorentis
+verbina co
+-------------
+  diversity = 1.0
+  seed = '
+summovere litora,
+parum locuples contin'
+  text:
+-------------
+
+summovere litora,
+parum locuples continus.o'
+'laediernam tyrra feceri non sub lutenus adicit. adcello
+lumtra delidum, sippis et morbax
+sillet potia quacertis et anit
+parvere non et admodo
+litus et ubi te lindus octum, e.currum
+insactanti.
+
+et hic croan gradentis hinc, an atque loputcimtocem,
+cum verbi pubiliostucre est.' hum none silva dolem
+impertante dimat iter.
+
+'num me quid tribus rapis.' 'iune pellere vermo
+aevis tescicesque tipma
+-------------
+  diversity = 1.2
+  seed = '
+summovere litora,
+parum locuples contin'
+  text:
+-------------
+
+summovere litora,
+parum locuples continuam,
+
+unc foculata occupens aequi.'
+dete celetias, respillumonis, pullere famai
+ti se me facera tripida pulbaren
+s dicem erit uvanus invidus, eto
+ut gincunt omnis, miseros, vorglaeolem et utinade,
+tonissos fababanto curae brendes
+praenis et super uxcubrius actum, temetri
+clibosque saluty, celanam cum mangilem rupine
+dola verbis iuvas ego chharolo.
+nise qui vinem durum mani malabae ctima lu
+quetreb
+-------------
+
+-------------
+
+Epoch = 12:
+  diversity = 0.2
+  seed = 'die, quo tu indicis ieiunia, nudus
+in ti'
+  text:
+-------------
+die, quo tu indicis ieiunia, nudus
+in tibi decertis et puer in amico
+conpersit si propis et amicos
+susper vitis et propernus adducibus audicere posset amico
+propis et per amicore calores,
+quod te propite seretricis amico
+statium ad et poter aut laborem trigus aut ingens
+
+
+
+
+versus aut poeno parentis et amicore morbo
+consiscis auditur aut mensore persis
+caesare contempter ad ortis
+conpersum dicere mensi propis, amicore convicerit
+consili
+-------------
+  diversity = 0.7
+  seed = 'die, quo tu indicis ieiunia, nudus
+in ti'
+  text:
+-------------
+die, quo tu indicis ieiunia, nudus
+in tibi
+cum messum pariba parit, ne ferum genusque
+peccatum redditum canibus
+in conpersum crenatonis aut docera copipa
+quid mercedis et veneris te et vistis
+hoc agris progibano poscens
+plucis ipsum et pede consilior illi 'ter aprior achecola decerso
+non licis amicorum tibi pastis
+quanere virimae devoneris hoc et umo versus
+post palere reminum.
+
+
+xvi
+
+non et mentimis aeteris theaergo
+deritiis deori nec 
+-------------
+  diversity = 1.0
+  seed = 'die, quo tu indicis ieiunia, nudus
+in ti'
+  text:
+-------------
+die, quo tu indicis ieiunia, nudus
+in tibi pater umptori, ne addumum et edere est umis
+obstritrentium ad axatus male copia,
+patruae capiter unde te si lurum
+non si neque summus humonem ceperis
+ter turdiis hos in opiens conposum,
+te rupta quae maquem laudo, atcusat domus
+perfesto hoc duram anepte crependat illuc vinunus
+cororimum degnore ni
+octumna omarente, daes et ragus adicoloque
+ti cousasret, is est quaribusque recuits?'
+'dic
+ruotem 
+-------------
+  diversity = 1.2
+  seed = 'die, quo tu indicis ieiunia, nudus
+in ti'
+  text:
+-------------
+die, quo tu indicis ieiunia, nudus
+in tibi andis exptidum, nil tibiucoeerybus i
+solaree decidectes
+illeus te sampius venitus acribusnanti
+quimuium sentis ut hoc.
+non si sergone non visuit,
+gede neniam
+proquearimit statilios unaque riflocentibus,
+clarume militer'non hon me non oterque masulo
+rendit inoquis
+riculit attrium solam savo
+immocemnes velus ignoni
+sodaemphura retervom? nos
+si parinatos iube typonae qui
+satiectum penoris, aut dor
+-------------
+
+-------------
+
+Epoch = 13:
+  diversity = 0.2
+  seed = ' cothurnis.
+multa cicirrus ad haec: dona'
+  text:
+-------------
+ cothurnis.
+multa cicirrus ad haec: donatus amato
+status et amici si minus amato amato
+statium parem dicem contem praeter amato
+status amicos tenere capitem et
+orato sic poters parem capitem capitem,
+non amato capitem temper amato
+staturum capitem singis auditum
+cum faciem divinus et dives et in antem.
+in campidum capitem capitem
+contem dicet et amici capitem contem te malitum
+campidum contem ventis et amato
+statium si consilium pater a
+-------------
+  diversity = 0.7
+  seed = ' cothurnis.
+multa cicirrus ad haec: dona'
+  text:
+-------------
+ cothurnis.
+multa cicirrus ad haec: donate negat iter
+occus atque profins amices
+luditur animum scaxitus
+olla neque minis
+victor amicosque temper taminae
+fluci qui magis atque contemulae
+divine poemae donume securis,
+nam venus se sine curis amicitur,
+qui laediam solidum, ret amentis
+verte consilius.ibmalibus iuventae
+opus et salina cera, ne magna
+et praetereus riris vitiare copius
+fracior et imagine damna deori
+contem torte ego sis virt
+-------------
+  diversity = 1.0
+  seed = ' cothurnis.
+multa cicirrus ad haec: dona'
+  text:
+-------------
+ cothurnis.
+multa cicirrus ad haec: donacom ubi satisos.
+non in aequorum modeat hospes servirat in sentus
+convidium sihi rapi cum ianus, cum, quid tricum
+multor aloret liber ardarit.
+de malet aequis quivinus aevem cantis, omnetae
+hec dum sparbus indigna laera maris,
+dum te leus amandem parvis, peccat hospesque
+fuligit daemo te
+cantae, pharo plaste vidia, parit, dura feris
+conditur in cisis auditerentem,
+luciliumque bagi; et faciem lucil
+-------------
+  diversity = 1.2
+  seed = ' cothurnis.
+multa cicirrus ad haec: dona'
+  text:
+-------------
+ cothurnis.
+multa cicirrus ad haec: donam fuerit tolidum, ut omaterus
+' ne miserit deor feris,
+uti neque misis paridi dolidit
+trahunt tibi, 'non masronum, audihis cosisendet deora rigum
+finique secula vere rura lormet
+o tarento nihil rius at dis silva,
+ cithaas viribue, atcunum pellus,
+de recurant rapaeque lata vera,
+quaerona tantis eum bibare, neque,
+quia musis equis danaque ligitur,
+quaerem dius mortet procidit iter
+rexitoneris miser 
+-------------
+
+-------------
+
+Epoch = 14:
+  diversity = 0.2
+  seed = 'eia,
+ne prior officio quisquam respondea'
+  text:
+-------------
+eia,
+ne prior officio quisquam respondeat amici
+moduere morta.
+
+
+
+
+vivas atque potervum in modo: non et inatita
+matream et armine silius et propere persis
+in modoris et praedia persis ad aut parva persis
+insanis aures et curare mortis in alter
+aurem et peritis auros in caele sine preci:
+nec sit aura propidis et pecus amici carmina prius
+aurem et cura morta persis amicis
+cum pectore magnis aut in amicis in parem
+insignem et peris et insa
+-------------
+  diversity = 0.7
+  seed = 'eia,
+ne prior officio quisquam respondea'
+  text:
+-------------
+eia,
+ne prior officio quisquam respondea decestri
+pugnere poterra, quam quo bistem redagits
+viderit omnis endior inpraecallo
+nec ut scumquam per ortanibus quod sine correpi
+famama non desi recitia,que pendo
+in terri malidus et domus sigellas
+non fasticens asius et quam venturas et merius
+et morae venere consilia venis
+insumer cum partimus ad aurimos
+quem capta inatis et perastridias alter
+anguere tancis; habet in susum.
+
+expuleris matre
+-------------
+  diversity = 1.0
+  seed = 'eia,
+ne prior officio quisquam respondea'
+  text:
+-------------
+eia,
+ne prior officio quisquam respondea
+post tiscula marem cillum;
+desimus aure iocetura manhis aeternos
+inter unctum
+expuercus omnio' misere celebat et
+erata ponere, gimto evadisens fatrem
+acque ab altrissi superni
+ceraque capiens hoc hoc honor umoreum
+quisquam ut male luci saevis,
+'totuere? quoi quae cerebos quamque tracum;
+'xpicula garpitomus vodo.i modimus,
+an pauperius homine, postius
+super inter rede? pitcentium peda carmina fasc
+-------------
+  diversity = 1.2
+  seed = 'eia,
+ne prior officio quisquam respondea'
+  text:
+-------------
+eia,
+ne prior officio quisquam respondeat: corditia montibuslevici
+rirem, quid seveliva mihi loquaremur,
+non sit tiberos plerus sodilis fruge e
+nunibus et maeciumnam? ablage deorumque,
+pater liquae cenium meum potra.
+cornum mador iam si meam; cauperius iunctes
+omnibus nec iurreriam, dentiorisanare et
+iacto marea minua: nempe tavas, quertira estno decit ut iusto.
+quae sciciti hinc prame cilis sishos;
+rurae persae popula sigit amaana;
+
+qu
+-------------
+
+-------------
+
+Epoch = 15:
+  diversity = 0.2
+  seed = 'honorum opulenta cornu;
+
+hic in reducta '
+  text:
+-------------
+honorum opulenta cornu;
+
+hic in reducta marita caniva sublisquere propisset
+insceret audit ac liber in alter auditum
+caecesse canive sune canes
+concede me sermet in auris ac temela curres
+suspertis surper in altera priorem
+concede certa non sunt propisus in ac silis
+concede propina non aut patriae sune canere cantatus
+acrestis ac tibi dicere propina caelo
+sunt me sermetuitus auditum capita capita
+caecus et singis et sermos aut capres
+su
+-------------
+  diversity = 0.7
+  seed = 'honorum opulenta cornu;
+
+hic in reducta '
+  text:
+-------------
+honorum opulenta cornu;
+
+hic in reducta singis caesaris
+post est est facet altero.
+
+quaere non suscula maris
+inplecta vilius malis secendis, quem non,
+tibius ut prodopa nantum aut pateris
+non certe cellae
+fulteris atque venere parca
+trahet in perere, quis cum certum remillis
+audis est in aurima pugnas.
+qui faciam metuens insanum ad illis
+concedis, sit consilius collet
+regam patreare consanit
+o te'sortem concens illis in cum nisi nomen a
+-------------
+  diversity = 1.0
+  seed = 'honorum opulenta cornu;
+
+hic in reducta '
+  text:
+-------------
+honorum opulenta cornu;
+
+hic in reducta dibdis, di detupat assam,
+liber super ac manere plestior pinus,
+divedi parpare praescula retundes
+innocens atque pectore tibi soleo,
+namque manora illa crete
+et latrassos; idem depueri se non
+parpentem quatis direm,
+inscere secunda nostraque satus
+sedullonie demnitum sarisset masi
+condis parinas regitum aulabris:
+qui lassi teneros, cum celeres menso et hinc
+et roma desede frigis, vicis, molle nela
+-------------
+  diversity = 1.2
+  seed = 'honorum opulenta cornu;
+
+hic in reducta '
+  text:
+-------------
+honorum opulenta cornu;
+
+hic in reducta rigum raprom;
+
+quod soles gallia, te, non
+vilis bene, te melioro.
+et si frebe dire ventus et meerum virgine clamina facet: olem
+nimires naturisse?' 'o iustirum
+mropere in ten longum vinesta teneum iuxes.
+quod et si sunt turum retrocetis nigrum
+et teaenum
+campidis redum aperi
+magus ligna tenuam pressa nubro
+sumeram cicto.'
+gesset humuit pluminae tacitna
+dytente mecreret
+
+depersimem ianus fecibus.' 
+-------------
+
+-------------
+
+Epoch = 16:
+  diversity = 0.2
+  seed = 'entis licet occupes
+terrenum omne tuis e'
+  text:
+-------------
+entis licet occupes
+terrenum omne tuis et medius sanguis adorque
+facere demissimus parentis
+
+volgentis conpersus aut in alti
+concidit adbligncat fugat ad aures
+
+flucta per altior
+
+caelo ad pater aut in sit aptat,
+
+sed pater avas accentis
+non alta perit amat.
+
+
+xxx
+
+iam cantus furia procere:
+
+ille parentia campo pater
+aut incedere male propitus ador adde,
+quo partus ad dices et perit adbigit, amat
+cantus ac parva dedit adbor.
+
+
+xixilii p
+-------------
+  diversity = 0.7
+  seed = 'entis licet occupes
+terrenum omne tuis e'
+  text:
+-------------
+entis licet occupes
+terrenum omne tuis eppat potestisque,
+qui magnum parrivantia nobes
+contentibus et cumquam atque terres.
+hibe nobilis alte conscello
+non, quoa temperet conposet, quanti
+celere tyrm super sub fruque.
+
+
+vii
+
+ter lacus portem distior aufera praepollinis
+populi propriis adhcre possus?
+terrent bellum conpernom dortes, septantis
+cersusque riberee spellaroe.
+
+vos tricenterum viviam curum, quantor adis
+turpe magnam,
+
+te te qu
+-------------
+  diversity = 1.0
+  seed = 'entis licet occupes
+terrenum omne tuis e'
+  text:
+-------------
+entis licet occupes
+terrenum omne tuis egot plorte
+seu caritum, caneque, cum fortis
+post misero decens et ruphoos.
+ee et venis te voldia, sagus llebis,
+hedpernes dirtare, quor
+
+frux testa pee, lauutque rece',
+viffulta, ferne speris meor tello fertum eebis
+cur quisquam arqualus amni,
+
+monuereen fons, nescisque caput,
+culpum holus multo freces avis
+ampheet agetus, nec semela quanrerat fingi pubulus, ut malvodale,
+quisquis conunctius ires.
+-------------
+  diversity = 1.2
+  seed = 'entis licet occupes
+terrenum omne tuis e'
+  text:
+-------------
+entis licet occupes
+terrenum omne tuis exthyraque cubor,
+cardi nil medior, exulsit.
+
+qui mantix fampidum, sepcolente, neus gabit impetcoretque.' 'gic perticas,
+inaten aper idus iam sicer, siquodit
+furvit spelles
+
+unce. forsar: lacer
+oque mrocoli tuis,
+iam, miseri trofloree
+manusge
+pruxisae phoun amort
+rardit mihi, docel
+terus omne et pedeam cosca;
+
+dic, nil pipietque domine vergisque plasula beonum
+obscent duit artum proxans,
+quo linguo
+-------------
+
+-------------
+
+Epoch = 17:
+  diversity = 0.2
+  seed = 'ntur, nunc medio aequore
+cum pace delabe'
+  text:
+-------------
+ntur, nunc medio aequore
+cum pace delabes atque patentis
+et catervo si viris et alterat achibro.
+in cantum dictus atque tenerat in mortis
+aut lique pulmis aequorum ad alter
+accipite contemplere atque in amphae
+sic te magis ac si cantus ac si consille matris
+aut si melius manere potis
+super amicis in magis auris et in alti,
+ne me facit amphae feritis et precor
+proceret ac si carmina persis
+aut si malis ac si contempleret in moratus
+cater
+-------------
+  diversity = 0.7
+  seed = 'ntur, nunc medio aequore
+cum pace delabe'
+  text:
+-------------
+ntur, nunc medio aequore
+cum pace delabet trementem, insolos dolis
+statura poret liscityces, quisque maerere alto
+ortimanat contharis et modior unctis
+deeti, qua diladlonium iustilis pelumina colore,
+lrugere altere nec rumet eratu
+minguinerit si minectus ut corncis,
+ut salge sacro discitu cui solido
+ferte dedit. forte, bracem
+excustone pata iustrictis haedodis.
+inter magorem rhodotiderit cohat tibi sanso
+dedit, quem latris artum potesti
+-------------
+  diversity = 1.0
+  seed = 'ntur, nunc medio aequore
+cum pace delabe'
+  text:
+-------------
+ntur, nunc medio aequore
+cum pace delabes: ipse; plestinctus ultra
+fenetis sniprodas
+unctum duris haedoe tinubal:
+suarum in temporit adcum praeo, phiarem, qui
+mihi sancidit carmina, 'an potius idibes,
+nemeus patre nac fuere pare,
+ducet amponet duris aliant orata contempleret
+et namur alto
+sermot mentuo occentibus? hic vota vires
+runnam atque doce nec cimpolus,
+per ut portam ut lammo longan adqueos: loquor
+fortibus inacolo cititi.' oret 
+-------------
+  diversity = 1.2
+  seed = 'ntur, nunc medio aequore
+cum pace delabe'
+  text:
+-------------
+ntur, nunc medio aequore
+cum pace delabes; ibique, viserit haenae,
+qui moda disavit equota infanquis
+austrum mortavis: et stetet arit.
+cum multo malentis.eque modostis, ac iquis
+te siniam
+scariti temelat prosites.qui linsncet, virs
+clarem mihi noctum, montibus finavt
+vonas et echubelan meliusvet his avida castus,
+quaerendio quid iterque cares iva,
+crentitiumi vatilet spem diruper inulam
+frueres aeciti, illum
+ovidan te rapum, caupernarus
+-------------
+
+-------------
+
+Epoch = 18:
+  diversity = 0.2
+  seed = 'i per vim metuam tenente
+caesare terras.'
+  text:
+-------------
+i per vim metuam tenente
+caesare terras.
+
+ille primos per medius et atris
+anno scellens sine chinantis
+
+verum exples et sina reperitu
+properet pugnam sanus aequo carmine magis
+persis ambulas atque superis aut ante nec silebri
+matus et insanis aut pares
+catriae viris ambulas mente peritu,
+
+expluctus aut pare carmina negat
+carmine matulis anno in agen
+milis in magis aura catervos
+tempe 'contigellor anno crumina magis
+persis altera satus e
+-------------
+  diversity = 0.7
+  seed = 'i per vim metuam tenente
+caesare terras.'
+  text:
+-------------
+i per vim metuam tenente
+caesare terras.
+
+hic insectus cictantis nisilis et
+expede selatis uvona.
+
+dent toscus amnis ambrias eburna
+cantus non mente perditur inessore remabili
+pauca parem in cum atriti accipe sit pentum,
+carmus erum moli pellidicem beneris avaris
+ambrio ambulat ego florentur apienso
+dicare silva
+seu atque rapi gratu signa neque lucilis
+et laborus mortis capites perere ferre lorum iusus
+gratus et gelle redidias, quibus a
+-------------
+  diversity = 1.0
+  seed = 'i per vim metuam tenente
+caesare terras.'
+  text:
+-------------
+i per vim metuam tenente
+caesare terras.
+
+mus te puerum forna tihul cassa lunum
+dantem caputo,
+
+et lecto canus anterlataris
+
+fusco micas solus pedis fatidere hideo.'
+'cremulas humae nocte sedcae quod satyfvia
+vilet
+adde scoras visume est magna
+priscit uquae, mamma cretes thyacha.
+exportona mistem ufastem parum estuas,
+
+duve latara, sormibus possim aquhiret
+neptimas.infrimus fuet, magno voles, misera tam
+adde bili si nec aut quaeris,'
+
+
+
+-------------
+  diversity = 1.2
+  seed = 'i per vim metuam tenente
+caesare terras.'
+  text:
+-------------
+i per vim metuam tenente
+caesare terras.
+
+sasse antapta cnimi nec fetam docans
+illi iusem loquerius.'
+'non simi penti' imagi nosque metor
+pede veneris hedpores: imusque nacto,
+te qui contergosis; icho hatore fonstet, autiella
+iam?, paatunt.'nispentes ad nimio arbuelas
+his genus uttocis.
+
+nani cigros smina promigit imos
+tu fineum pudus et tua
+ontsibus genae.hacros.equet, tu mede
+contra lique solide;' 'doctos aerum
+defforte res
+huspi neri
+-------------
+
+-------------
+
+Epoch = 19:
+  diversity = 0.2
+  seed = 'em lactis et uberes
+cantare rivos atque '
+  text:
+-------------
+em lactis et uberes
+cantare rivos atque prodentis
+parvo pater aut animum capitus
+continua cantus ac si non sine facien
+vellet ac si continus amplior
+caelonibus animum capitus
+captanus audit ac si patre non agenes ac ante
+sub parvo ac sinus ad ingva captanus
+aut ventis animus ac sicum amicoribus an alius
+parca cantggus aut te facis audis
+invitium maris aut pater atque
+concare condibias aut propis ad ingva dexis
+ac sinus audit ante, decer
+-------------
+  diversity = 0.7
+  seed = 'em lactis et uberes
+cantare rivos atque '
+  text:
+-------------
+em lactis et uberes
+cantare rivos atque pares audis
+'clarae quaerens gratum, te fora,
+quis magno capielle fugae;
+
+cimpotatio campides equis
+fluctibus occultores; quisquam caborum acceden,
+ducius me digoratur, si parris
+chires quae languos nec iterumque descerentis
+ferentus et quid facit animam? quae contimenda turba.
+dubili propis, illucis
+nec et magas animum disuo, subthabues
+victum patroniae pauperebrum
+surgentibus adsisus et propilis
+-------------
+  diversity = 1.0
+  seed = 'em lactis et uberes
+cantare rivos atque '
+  text:
+-------------
+em lactis et uberes
+cantare rivos atque procuscens,
+nec pamva farvo iuvantur.
+
+iv; quanta spar o cuspataus elintu
+segiddius arculit condica velens?
+
+nec, quaerentias
+maxphecuni, pratares
+galle remda patenisque vindas
+rencum tuo, modui turminus mea mappale,
+denttius graegia iuva laborus
+laus sparium expactum aude natieric,
+torsuro desculaeregaurca pavique, sani.'
+vexte sicentes iubet cabidorsta;
+catatium coelibere.' 'quae genus, intesso 
+-------------
+  diversity = 1.2
+  seed = 'em lactis et uberes
+cantare rivos atque '
+  text:
+-------------
+em lactis et uberes
+cantare rivos atque vixusta parum
+odi, tredus hoe hilis costiten. adfiux
+plumanea, fonuitera generaque flabelle
+celada, qua cur naufritadicos monani.
+vel idus siemhae.
+
+tuare
+contherca parduas
+singulsum? quidcorsus divola quod
+cervu proedomus monemntiaque muru aviciecbos
+nosce, tongapis vacereasque, ac sanguos
+somno grigileret fortae amet ipso
+lauru quam,
+tibe catadi troice condibus cabanis
+noctucas; si non sinen lim
+-------------
+
+-------------
+
+Epoch = 20:
+  diversity = 0.2
+  seed = ' foeda cicatrix
+saetosam laevi frontem t'
+  text:
+-------------
+ foeda cicatrix
+saetosam laevi frontem tenera convita fugilis,
+nec laede lalorem cantens: aures aevila peris
+aut parva parcat sentis anno,
+ne more cantana fugientis
+in cantibus anno sthylina peret anno,
+nec laude magna patres anno porcare laectra
+mermana superbis convitis,
+nec laeta cantaban docentis anno
+scem parcatum sanguine curabant
+vindere per precor atras,
+sic parcatur curat senectus
+per per phoeri convicere secundat
+convicat anno
+-------------
+  diversity = 0.7
+  seed = ' foeda cicatrix
+saetosam laevi frontem t'
+  text:
+-------------
+ foeda cicatrix
+saetosam laevi frontem tanguar ac sis
+siccalia decori?' 'non fultum veneras, illi' ubaus?
+non famae donacant famae vita natalius.
+quod non parhac sidero laectrare pernos.
+insignumque voluere terrentum negotus condit ancidum
+quae teneras antris, lylique in alcatum
+aures fregis flebitus in lacerit durgo,
+concidere velut quisset in flaciens
+manbus ultra facili repersis tibi quid haec nabrabat audixere:
+sidit diquelae trilig
+-------------
+  diversity = 1.0
+  seed = ' foeda cicatrix
+saetosam laevi frontem t'
+  text:
+-------------
+ foeda cicatrix
+saetosam laevi frontem tollerni pulper
+acrias otume possis? ut pudmae ofio
+si seu testanta, per matem daeex?' 'annidi treor'
+himerumque santu rebonas
+porriculae cavallo meum
+su quare ribio
+, faucentes vitas at comes,
+voltu hortosum sentis, haec quantum
+nec veres arborem,
+inter ugo, ne per dicor parvo
+caesas me saquid virta lignos?
+seu sina tempor tibe frati silvama mulle
+suffe deus orto palatribula datiae,
+sacti duris ap
+-------------
+  diversity = 1.2
+  seed = ' foeda cicatrix
+saetosam laevi frontem t'
+  text:
+-------------
+ foeda cicatrix
+saetosam laevi frontem tenus neque lagorum
+in fule profente tetaver, cum recurbare superis
+campa flecili
+grat herres, etis quondaerat, in hora patrans
+quis stola, hegris.
+
+tu quis egregia meam ne gracia sagit,
+quod hinc virtana noctus anferlorsum
+in facilius caballae rigellis,
+o romo?' 'davere am marsatur atratur,
+iaveret illecas
+non quid spectae.
+
+sesut annuit redeunt varusque fugeridio.
+quae quindontus feniphuid tyflla
+-------------
+
+-------------
+
+Epoch = 21:
+  diversity = 0.2
+  seed = 'rmina fistula
+delectantque deum, cui pec'
+  text:
+-------------
+rmina fistula
+delectantque deum, cui pectora praestrente
+fatigens amor ac silva perbipa pare(
+aure caeloss.
+
+
+xxiv
+
+quae propinte(;
+
+tu poterte((((; qui magna parentem
+spersumerat posses et praestis ac si parentis
+aequor achantere propinguas poters amato
+laudat et arbitia praeteres amico
+aut pater ac si me spernos ac secunt atque
+incidit et praestantis et scaetores et aequo
+ab in albo sermo svals et amicis
+auream male tendit aprem: si n
+-------------
+  diversity = 0.7
+  seed = 'rmina fistula
+delectantque deum, cui pec'
+  text:
+-------------
+rmina fistula
+delectantque deum, cui pector amores
+expressus et et in vestiquis usque campio natroi.
+o fatiens equis atque plubi est.' coho(slivium
+stans exptatire ponite neus,
+sed partis et longum est es amicos
+septat ad fastis et cui patriae vincat iuva labaree
+e.visinas viceat honorum invidae fe(tminga
+ferre subos repet mediunt, amnior et atrae.
+in canta voticae, fortis est abhic
+qui(possim et canta puero primum et aegamere tuluere
+p
+-------------
+  diversity = 1.0
+  seed = 'rmina fistula
+delectantque deum, cui pec'
+  text:
+-------------
+rmina fistula
+delectantque deum, cui pectore famam.
+vos ummocatonis obsone inpitur
+quies, (et se nominem est, cum verbara telala,
+aut obor persitior, superba parubtas,
+et multis nec shae revoctos addit i]fflevis
+caupos sumcta quisve paceret
+terpestis animis et lari poena, catervam,
+proscat esse mugium trencum vodes, am mihi quisquam et stripenas
+asperere tauror impto, pauper
+eltimores amibi tendento,
+'chisbum caelius? honor eget aut str
+-------------
+  diversity = 1.2
+  seed = 'rmina fistula
+delectantque deum, cui pec'
+  text:
+-------------
+rmina fistula
+delectantque deum, cui pectoriusque pectosae
+perurbique nesciliusque lalerum ad>]s
+hesperior inter undet oquaniorae
+appauchis, oster racilibusus
+talgo validus ut ire est? amhecten irimum avida estve labe gaec, ollet
+apreise tuae volesta ranum. at.
+fortuna convitus nobolvea fortis
+f(];]]ravio hospit et alda naephem, legum iambitam
+tortis ac tibi caniquam.
+captas.notarier meditos hic vocat, sub(ltlucendiat ad nuges,
+oram sin
+-------------
+
+-------------
+
+Epoch = 22:
+  diversity = 0.2
+  seed = 'ad fastum quoscumque parentes
+optaret si'
+  text:
+-------------
+ad fastum quoscumque parentes
+optaret sitynae senec super atra
+per in faciet praeter et senux, in modo,
+non si partis ac si recertus amici.
+
+tum per omnis et condis et in more
+seu pauper et sic aut ventis et insanus amicis
+in modo fugam desis amicis
+in magis aevis adhic amicis
+in caput, quid magna captanti
+suugere post mentum deceddi pater atque
+magna consis ambores ac senem
+
+anmix subam sectat per aut si melior non
+formen ac si consili
+-------------
+  diversity = 0.7
+  seed = 'ad fastum quoscumque parentes
+optaret si'
+  text:
+-------------
+ad fastum quoscumque parentes
+optaret silvae findentae cischia seque.'
+ magis avos et amorem est certa docale turba,
+quid vesta labor, multum voludo.'
+ut s si laudet procentem,
+
+non partitum laudet fistas,
+caelegat amicili senes et agit,
+quid miseram post serosa fes perello
+finges non partes, non veles, arma.
+
+x
+
+heuperis te mensum non caita saquam
+miste memoret sinorum in paterro.
+cum pausar avido neque fedimina in facet ac te
+ithae te
+-------------
+  diversity = 1.0
+  seed = 'ad fastum quoscumque parentes
+optaret si'
+  text:
+-------------
+ad fastum quoscumque parentes
+optaret simul ad colla, neque pona hoc te mensus,
+ab animas
+post celo citharae, vicere mensuba populi
+plemura aestuud et veceret almemo.
+an sic itura gravis ogit, pa titula;
+nunc tonic finus alis dotum uxo.
+quals hospes est.' mihi umbra per onosiat
+sadis didet fluctas ebit ube virtus
+plulibus inalvortum
+non dulcus melior num
+prius
+seu longae
+nurlarum equidis deintuant illi,
+consis tibi dum hodres, nisinte c
+-------------
+  diversity = 1.2
+  seed = 'ad fastum quoscumque parentes
+optaret si'
+  text:
+-------------
+ad fastum quoscumque parentes
+optaret signa donam invidiis atque
+canadvilla caivanturvetulume iudica tatius.
+illique fortoribus oscue caput
+dif'etibus magis pippanae inai
+mille praebo fiquar, poticui, qui perius limiga mort supremphi
+
+legit, aram do gibulesgirem evarbus
+pasthio una reoris sormida veri.
+
+iusto panie macrus sibaro mentu
+non hunciidem super cur nec aequore,
+noncirius igori, quis, neque qui pispellicunus?
+contitinmae habet 
+-------------
+
+-------------
+
+Epoch = 23:
+  diversity = 0.2
+  seed = 'ratis umerum capillis,
+qualis aut nireus'
+  text:
+-------------
+ratis umerum capillis,
+qualis aut nireus an alteris adde super atrabo
+fertines neque persatus adducis
+inter atque sentem peritus amicis
+orbus atque male non sermones aequus
+aut possus in faciens adducit adde simul et aequare sublibus et aequus
+aurit annos omnis amicis aequor incaxtis
+virgine praeter in alter atque pertervit aequor
+aut patrius aut vitius alius adducis,
+non sic persicii propentem perius achibvos adde capiten
+occuphum vict
+-------------
+  diversity = 0.7
+  seed = 'ratis umerum capillis,
+qualis aut nireus'
+  text:
+-------------
+ratis umerum capillis,
+qualis aut nireus omnis catonis,
+et laxorum morti, incepstat. an accipitus
+post manus ac mente virtat, in mei
+non abhic perius arcu;'
+
+volius an alieces exerot moris, inaverit amnem
+sic marius tibi inabus hic opifunda
+est arbum gentuas saquabos bracti
+sine retupvit est, sima canumvor.
+
+
+xvii
+
+pontuve domus; quod tu priisti,
+non
+quae later ida, nomata cantabri.
+et inrosiaris caulo pede daes silvaque nupis,
+digna na
+-------------
+  diversity = 1.0
+  seed = 'ratis umerum capillis,
+qualis aut nireus'
+  text:
+-------------
+ratis umerum capillis,
+qualis aut nireusa
+dium pardomonemnis meritant
+et larmina placersum
+exurtantis inconis siccues, quis hic hirbe etque
+fertidis aet lucili magisdet et distis educta patilibus
+aestigis vessa qua crinitum?
+non modo modo nosque ramus honusque plaudes
+insanevi te viribus et preces utria pacudum
+divesa parcu; nancet crassum
+deteflibris arcente, deincoemat.' quortra
+mendareut ante se de quis et patet paterrerem:
+ut melio 
+-------------
+  diversity = 1.2
+  seed = 'ratis umerum capillis,
+qualis aut nireus'
+  text:
+-------------
+ratis umerum capillis,
+qualis aut nireus? quidque libides in milotem.'
+'quistat mecuere ceedis
+causa ceriliat brevit armatia,
+incinatabis: propumus pescurum consulo,
+tu pomenes cotiicibus pascunt
+facidit ortonis o sarmens
+alius aies ferre agerebnibus, pre,
+
+
+
+
+misum melior, qua ferunteasto quo.: tu te,
+
+legetum distae, 'tua fuentis
+velubra non ab italibus: cessitia quid itacus?
+ille, pace dinamorum bonas coponquent,
+
+quarto longii grace
+-------------
+
+-------------
+
+Epoch = 24:
+  diversity = 0.2
+  seed = 'orum dare centum
+damnati populo paria at'
+  text:
+-------------
+orum dare centum
+damnati populo paria atque in mora propidere potestis
+ac sentus amicis ad agentis
+inscius ab inter in parere proprio
+litus et strentis ab iuvenum
+caepere propina captat.
+
+sedunt amplius atque patriae consilior aurea
+post cum prius amicis memores aut ante probum
+sagilis properebant concedentis
+quibus ab in alter atque potertes
+inscius et propina cantantis ante
+si parcae praeter concedere magno
+propicitur adde qui ventis 
+-------------
+  diversity = 0.7
+  seed = 'orum dare centum
+damnati populo paria at'
+  text:
+-------------
+orum dare centum
+damnati populo paria atque
+post concidit populitos neque donas.
+iure medium cum biti virgo teneuas
+mirceant fusti lentem partis
+auritior iuppone vesli senesso est sane slines si, me siccalis 'gaudem,
+nequia virginus conconite penis,
+arbientis prociponiti quod neque nova peptis
+supplicitum tener progres et
+detupet illi, si iuvane repulato
+sub velet provitae maxis et magorem proposinus
+cantes vetidis aequori, quid tu dece
+-------------
+  diversity = 1.0
+  seed = 'orum dare centum
+damnati populo paria at'
+  text:
+-------------
+orum dare centum
+damnati populo paria atque
+sunctygnore nicitur dinquicta licus.
+o quisquis fueri ca cit prius;
+si magni flusum metuentos scire
+hoc solune reu persumeros
+egot ventis in certimus selalna coenti
+munerant abscitiore noctura
+tempora profuquantis totiatos
+itque nec vertim patruis percisto
+lutabritum flactato demnientis hic
+
+nem lecte furra reprerepiom priat e, modius,
+ita quantus et colta vellet, iter,
+satus haec primus ultra
+-------------
+  diversity = 1.2
+  seed = 'orum dare centum
+damnati populo paria at'
+  text:
+-------------
+orum dare centum
+damnati populo paria ati re inretium
+verlia turssus, unaque maretem.
+o duci sciasaeeque sitcum bectinaret
+
+et cubet, cui nuc scumque reces.
+
+onte procerentari. '' ri?' 'pet equorentis coronum
+putidit icant refortis diusna pau mini:
+qui et aeritare quisque tibi ius
+snegasus.o quos pauperis quanta
+perteni fertilio securi volato dilenter;
+posset stultiatur duces pelliculare paro,
+si par, nummilis numera
+pauperit ac poni're
+-------------
+
+-------------
+
+Epoch = 25:
+  diversity = 0.2
+  seed = ' ingenuus, persuades hoc tibi vere,
+ante'
+  text:
+-------------
+ ingenuus, persuades hoc tibi vere,
+ante si pauca propinantis aequus
+nec super atra capitare per in amicidis
+caesuntis aut posse propincus
+prope non super ac sile catona
+caecubat et prope senectusque laundis
+aut feciculi candidis aut mortis,
+nec patris aequorum patruae super aures
+serpe nec vergit aequore candent aequus
+prope serus aut contemns ac patruam
+dexit alteras aequus, si pausa prigior adhuc amicis
+insaniam salus ac super atque 
+-------------
+  diversity = 0.7
+  seed = ' ingenuus, persuades hoc tibi vere,
+ante'
+  text:
+-------------
+ ingenuus, persuades hoc tibi vere,
+ante sereo concitior.
+
+
+
+
+
+tu comns potante procidere prope sorne
+harimus amicidies quaso, perum selerima decor
+paulum genus perumque feros?
+non sic te sinus indigili possut tinus adfiges
+nrudet atque malus voma trienis
+serpet mentior advis aevios.
+cum viris ut magna volgaris. 'uugus aut dicam et achcax,
+cumque mea vita leus: ac dum fratiasque lascignis
+cunctitus aure post cum magna astitum
+vergibus a
+-------------
+  diversity = 1.0
+  seed = ' ingenuus, persuades hoc tibi vere,
+ante'
+  text:
+-------------
+ ingenuus, persuades hoc tibi vere,
+ante divopontes ortumque pofitana, lycerue
+rexis et fa helias, relvecus ferone icscor.
+cum diliat nanceresque garpedis
+tessiquidus finccieas nocilis avistas
+nec totueque velvii; porraumia, meliusque morate
+pem melentiare fugii,, non, ser igris
+oppisus fatribusnruens aestiums et moraunthra
+barda redet, 'tu idem,
+
+ausabtibus pugnum memota
+et umusus in profesum recto reportimos,
+cum tetmives cum potionum
+-------------
+  diversity = 1.2
+  seed = ' ingenuus, persuades hoc tibi vere,
+ante'
+  text:
+-------------
+ ingenuus, persuades hoc tibi vere,
+antectona aut honabaeque plotae
+etque domina tamogvonis;
+sustinus: dum brambis, inserim dolentis achlubo
+syraquentia sentu nraem:
+qui lunim, vivisquid?
+si passimio maio, summam; haec adnavam
+veltunas eensius ubdult quo voltanterum dixer,
+rexectea pede tumultus:
+te paulum fum pedotas petaunt urretum virlis
+smini ruis caminna: tutum,
+
+quom tibi cuvis ac torma novo
+vitule instirus nisim triumphuculas.
+la
+-------------
+
+-------------
+
+Epoch = 26:
+  diversity = 0.2
+  seed = 'ium neu breve lilium.
+omnes in damalin p'
+  text:
+-------------
+ium neu breve lilium.
+omnes in damalin propidia proprior
+caecus aut prope capta nobos in aut altari
+metus ad sumpius ad sumpior aut si
+matre non sere capta secundo.' 'utris ad magnum rectare propidis
+sed pro quid tibi cantis amic: ingraeca secundi:
+cum pede magis et armatis aut animor
+caedentem propidia parta sub me
+in simul catonis ad atque sublidituris
+in alteris aut porridia propidis
+silva secundat audis aut in parentis amicoret
+in a
+-------------
+  diversity = 0.7
+  seed = 'ium neu breve lilium.
+omnes in damalin p'
+  text:
+-------------
+ium neu breve lilium.
+omnes in damalin patria soluspellhoc.
+
+
+xxx
+
+nec ludum nediem qui proventia lalimus
+iam proper altae, ingenilius, an vetus inaequornum decor initare ruentis
+seu sinus aut lona parvo lustox
+donat consat correpet limidis umquam
+virto per osten viri certo terere londant ormit
+ad non antum mihila possim, quaesus,
+incilla magili;
+
+serda dictis metus undo sapus larent alpho
+facis ognes austris ac sinut iter arbita cura n
+-------------
+  diversity = 1.0
+  seed = 'ium neu breve lilium.
+omnes in damalin p'
+  text:
+-------------
+ium neu breve lilium.
+omnes in damalin proprimus in aurum
+conrim forius piero iusdisus, arbos
+curpet siddo sit me corvinosque.' magnum probendans hic calonis alterut, arten
+su pidem tandilum probosur, ut non sollicituris audet
+senti caesares aere diever' auspiria contigit
+caedet sentibus tollere orbitu illic unat
+ille sed anctina magis victum raprea pectora iuvat auris
+adfrique faceta.'
+
+x
+
+natarum lacrimor virtutis quaetvon monioribus 
+-------------
+  diversity = 1.2
+  seed = 'ium neu breve lilium.
+omnes in damalin p'
+  text:
+-------------
+ium neu breve lilium.
+omnes in damalin peu incani
+flabant et amicuesus venat oppre sublisreddae
+captatis vovae ctiarae fulivos aget maturos.
+nec deces; quemque canis, hic dum et illa, inlibussecco,
+radus omnes, est laes desume,que,
+
+cum quai ruito iam quod profre pede lurum
+sivos inulis honoris est 'non silius undimobem,
+perte, neque meus eugi' aequs an mulho
+fragem ruitanus et eliprathuro
+mirus manro ac solentellor, non usbreus
+animo q
+-------------
+
+-------------
+
+Epoch = 27:
+  diversity = 0.2
+  seed = 'ias ferunt
+denominatos et nepotum
+per me'
+  text:
+-------------
+ias ferunt
+denominatos et nepotum
+per melius amphae possima sub
+contemnme non sit possit in albo
+gaudente capitis auris et arbum
+surgentis et peritia capit,
+
+sed quin capiti contempta persis
+nec sumptum meliora consistus amphoratus
+aegius hostis ante si contemptur ad inter atque
+inscers et sceleratus atque sub illis
+qui laetus aevitum sicthin.
+
+voltus et contemnmentis et sillum est aevis
+ad sihu in ad verit atris ambulto
+statis et arbum
+-------------
+  diversity = 0.7
+  seed = 'ias ferunt
+denominatos et nepotum
+per me'
+  text:
+-------------
+ias ferunt
+denominatos et nepotum
+per medius tumultx ut curros omnibus in auras
+nunc si ruentis amplet et ferro gregere persis
+aeto non frtuciersus silicis, uter' et boni
+valtuno ferrant salles et pellus
+divelus et sine malus,
+
+non crisis ego consolus illi fora noctris
+parvos idem destiles, si poscita fatis elammi
+posstent meus et conpositis et hora?,
+minte paris auditum,
+tutimina iuvenia magis
+insistrimus adveriste salgeret
+probam nego
+-------------
+  diversity = 1.0
+  seed = 'ias ferunt
+denominatos et nepotum
+per me'
+  text:
+-------------
+ias ferunt
+denominatos et nepotum
+per meliora peros.
+
+
+xxv
+
+vivus oscunisque insistis ego, expulsum
+facies et et libem, decosito,
+amico tincusue ponsae divelmus
+sivfe virtum salente canthis,
+
+lentis populi, sis flubit, quis
+ortenticem relues, ac, urpo
+custo de vove supiria mettor impersit
+hiscore, si petrum, ingeni non non, clarae.
+accicissevare brustis in meritem, homes silvum fedove senem.
+
+
+xxv
+
+cum sane iactat absivltue capit.
+
+
+
+
+'
+-------------
+  diversity = 1.2
+  seed = 'ias ferunt
+denominatos et nepotum
+per me'
+  text:
+-------------
+ias ferunt
+denominatos et nepotum
+per me persus memores ul virtus,
+auctorunt visctre virtus ostrum,
+
+nolonia marius indirus convrngy:
+expier norhos aequorum nossis
+
+calvatu
+sea si promincanae hun
+servo amem: sit quid
+
+caecubo nequesci tartis adchibilis
+inscem viciit attae, flas, tibi, ut sis
+ibitus datusque gracum; adcaeviaque morcet.
+
+
+xxi
+
+
+x
+;
+torindis conditem partati diderit ibiti,
+dertat, merum malis arillis
+operhursu
+suuget. 'aud
+-------------
+
+-------------
+
+Epoch = 28:
+  diversity = 0.2
+  seed = 'ibus et cum
+adclinis falsis animus melio'
+  text:
+-------------
+ibus et cum
+adclinis falsis animus melior parentis
+invidea consis atque concaris ambulta
+laudere proprior augustus
+excersi nec sictura terra, sic mellae propius
+aure servas atque secura candis
+excertas et armigantem calones,
+incudere propius ambur atrabat aequo
+ad meliae praedum et praeteres atque perethesbra
+proeret annor. quae secunda probosare propientem.
+imperiat aequorum et virgine noctesna cando
+tempora praeplas auris aure secunda
+-------------
+  diversity = 0.7
+  seed = 'ibus et cum
+adclinis falsis animus melio'
+  text:
+-------------
+ibus et cum
+adclinis falsis animus melior condiere dura fortuna
+contanus merita parcare safribus
+acciper igo si fortis, salva pemii: ter amici
+proxius audiet delectantis natura
+castro desinguem melior est ad
+sodoret almoves,
+accipet exitire
+quando theatis ego quae sub atque
+delictantem contassis, ut muteraritum:
+qui merus et fore cagas dura attone
+: arbiris nec lavis aagnae
+incolumem exstulata, ioctantis orto,
+pede credere liberis,
+tu f
+-------------
+  diversity = 1.0
+  seed = 'ibus et cum
+adclinis falsis animus melio'
+  text:
+-------------
+ibus et cum
+adclinis falsis animus melioremum abavilam?
+veropanis matribulas crisulitae
+colluulem per simul sum' ex omnis.
+'postari peteram sanus ontentis atentor.
+miliae sentis hiamos fluhin estu:
+caelegtari, quandoni facium, rosse corni,
+ete iuro, se progos aeducraque cum pgtillo
+relica modorem noctes, narca ludefera possa,
+nec excteus delecta agro, durum vel nisia, paternori,
+quaene campus, qua late vadis.a sen avar.
+ducit, si superq
+-------------
+  diversity = 1.2
+  seed = 'ibus et cum
+adclinis falsis animus melio'
+  text:
+-------------
+ibus et cum
+adclinis falsis animus meliorem: dica prederes';
+mauchi egot tu, quas seluno.
+cursarnus,
+
+soltet hospentis memonar apquit firis.
+ut raporum rescere:
+
+quod gratius carru, aputi fatuate nivam?
+timelireque igita perigari elornos
+non exurdataris ampcu post hipte
+nigeris et tixitatas viluo, verus
+agisci credent, effugut pateri dirius.
+quem turgitio advere columoro
+iratra saetetibus arbat.o fenamupeve:
+modum deserumma novo,
+non us
+-------------
+
+-------------
+
+Epoch = 29:
+  diversity = 0.2
+  seed = 'pasco libatis dapibusprout cuique libido'
+  text:
+-------------
+pasco libatis dapibusprout cuique libido
+candis et arbo accipe per in parentis
+ignes carentis parentis amplias aurae
+derentus amicorum et super atque
+iuspicies accipe possem calentem
+milient aequorum aurae conticet aequorum
+perfesta propera potesta parentem
+per atque propius postilius amicis?
+qui potius parentis et per artior achi
+porticit ambos parentis apulis amplior
+caelubo solant carentis
+oppede possis? quis carentis amplem
+militia 
+-------------
+  diversity = 0.7
+  seed = 'pasco libatis dapibusprout cuique libido'
+  text:
+-------------
+pasco libatis dapibusprout cuique libidos
+caesaria astura nocte noces, arcante lucilium ista
+perteros pete euvosis.' 'metue myrorium
+palitia ratus.
+
+nunc qua tibi, qui me pede condixerie
+remandere nobilio theisne.:
+'xcem, carut naeghotum aut fugata canea, habere, ne myrante
+desum non atque iusus.
+
+hic qui fugies imperientem amicis
+expudent armos et magis non super et armenata recellis
+rebus et trantia feretis.
+' contemnm domi pulchrim q
+-------------
+  diversity = 1.0
+  seed = 'pasco libatis dapibusprout cuique libido'
+  text:
+-------------
+pasco libatis dapibusprout cuique libido
+salge datium mobilioriis, quod uturum,
+volta sortis ante,
+'gudum numeris? ten aeva latens: quem
+siqui, et ego ata rupus,
+'quo froen ulta purae mus,
+iudera finsovus agro rodocat uben, maecenas,
+ponte fine vicis; nisi partices.
+matuum expiules convista samae coum pro fena
+feliussas volut ignibula,
+see, ducet larem lucena rabia tempore lh
+vicani?'
+'si quam magnu nius din, sic ius ampis,
+crieffan dom
+-------------
+  diversity = 1.2
+  seed = 'pasco libatis dapibusprout cuique libido'
+  text:
+-------------
+pasco libatis dapibusprout cuique libido,
+celerque valitum istia estmus.ni qui
+centa pacipe, dondies, quicquit et spremne.
+volliciet ira chisces plasque sibim non olivlae
+daver votanae, dotis, atae iuppons ipso
+operasue teparis; ver fabiuntie quodo remata
+decinquit. 'non lacre celavis?
+om mamfium comolte coemones
+regitum quinet, di nequid stata lege dormitis.'
+cuperies propiues ravoque cantum
+eburat amet magiles.
+
+nars queae, docuatur f
+-------------
+
+-------------
+
+Epoch = 30:
+  diversity = 0.2
+  seed = 'epos atlantis,
+qui feros cultus hominum '
+  text:
+-------------
+epos atlantis,
+qui feros cultus hominum et proprior inagente per insane,
+cum tibi candis aut festi super in morentis
+in magis aut te prope super in agylli
+divol phoebvo demissum et propria lucilis
+audit arbuit sub pare potesta canervus
+aut fretis et signa parvo consis,
+nec laeta carmina parva pectus
+disceret aut potesta capityre parthia labora capta
+villem et nigro canus aut sichus aut potestis
+aequorum et propede sub parentem et insani
+-------------
+  diversity = 0.7
+  seed = 'epos atlantis,
+qui feros cultus hominum '
+  text:
+-------------
+epos atlantis,
+qui feros cultus hominum campis
+insani vinem curae cyllina, rellum;
+non aequus male viser in moret,
+quod pontum amicorum legi: tu parvo,
+quae nubo pater omnis et ducem? hid,
+non quis quis seu galit aut super insanies
+praesine facili detecrici.
+
+te ferentem baccha volgora modo ille
+mente tempora domus hesp, hac regnum
+tempora nec viriva minoribus
+dolitum trelindent nig, insanit omnis amicis in imperias
+priam per foret hora
+-------------
+  diversity = 1.0
+  seed = 'epos atlantis,
+qui feros cultus hominum '
+  text:
+-------------
+epos atlantis,
+qui feros cultus hominum parta suvalis
+casulum terreve triha
+vetrigcena, cladum: habes, mihulre, dum et inremota negat plemulo.
+
+vos fugili raptarum inee catana
+:qribunt bonum: sim parte duces.
+
+ laecis horripva iam sonsenia tuae
+excsspurentis holae, tua adponibus infudua revicerum
+aut frecinam virtus; riget dices, quid illa
+barbari cerae surus est persus et iterus lucidus irebre,
+cris antein tibi ponet scoepio, insis neq
+-------------
+  diversity = 1.2
+  seed = 'epos atlantis,
+qui feros cultus hominum '
+  text:
+-------------
+epos atlantis,
+qui feros cultus hominum laboret
+viceret aarilis laetosus, illasum habet?
+visit, tu nemo babit sequarcellere potato
+ardo mrimumare detuit; quis fortos flebile villim
+qui te mihi
+sumpho lena charta rapcis pyllere doru.
+
+sive liqui turbidum animae, venul miserita lydme ter
+mauterum cotituit. an hos et morho quardumum inter fillussi, et, quisque iussis
+gonam quantos maderum onter ionte modom.'
+'suaden aura durum in plemus.cu
+-------------
+
+-------------
+
+Epoch = 31:
+  diversity = 0.2
+  seed = 'm ait 'ignoras te an ut ignotum dare nob'
+  text:
+-------------
+m ait 'ignoras te an ut ignotum dare nobo antem
+non si laborum per aevis et annis
+non si laborum animum animum aut festis
+suugore matulis in appientis et in antis
+non dictum et sic vesti si proficitur
+vellem caribus augure faciam animam
+nec terrund fertum aut sic potius augure,
+non si ligat animam partores et in anima regula longis
+non si liga non anti canis et antis
+sub me per et antimaris et exat antiquilis
+terrere tenerit meliori can
+-------------
+  diversity = 0.7
+  seed = 'm ait 'ignoras te an ut ignotum dare nob'
+  text:
+-------------
+m ait 'ignoras te an ut ignotum dare nobes
+aeteam, mea vilens rimum et porrices
+si tursa mihi statalis, lentis imperi
+mutos antollis et non est seremus in minus
+non mori meliore, deygrum
+prudum quae fugat funera capitare mores
+sab mellis metuens
+vilgor cenes et medio quatium et almum lares
+vit et pulta male, tu tedele non olim.
+
+nugoret hominus et cognatae regula propigit et in anicum
+dignum ungul, non partari velutus
+in actilia legenti
+-------------
+  diversity = 1.0
+  seed = 'm ait 'ignoras te an ut ignotum dare nob'
+  text:
+-------------
+m ait 'ignoras te an ut ignotum dare nobes lalatum,
+magnus agnonem apollus canesse te ruentis,
+nunc offuginit ebre nugis unctas
+collus canipi mihi pauperet, 'threen
+lidem meaeris ante catulis
+laetixerius erut in annos
+suupta valis, treturpeudem venere venam.
+solnia dovo stilia citis tibi inchibais
+fortis ac horti memores.
+
+
+et si minere ripta gectans,
+cuu receus amicos inromami semper ox fertum villum
+nonsis potentias: quale coum pubaba
+-------------
+  diversity = 1.2
+  seed = 'm ait 'ignoras te an ut ignotum dare nob'
+  text:
+-------------
+m ait 'ignoras te an ut ignotum dare nobo,
+si vitiare tagidet vitior
+
+mescilia virgoa?
+
+sesti colius um fliricuit statu theas cum te
+uam volgit angus,
+hic solum uagani dones praias ducisces
+luncae abeat. fessus hatius, intumremquale livit obstitui.
+dacaf concipus: veri,quillais, quem et in numium
+baboma tata motam velle porcenti
+prudere belaum, imbrius hreveci potiet sive natra
+shorba
+bravitsae
+tenthintia togalo.
+
+stiri mutca tamria nec
+-------------
+
+-------------
+
+Epoch = 32:
+  diversity = 0.2
+  seed = 'demque vaccae,
+me tener soluet vitulus, '
+  text:
+-------------
+demque vaccae,
+me tener soluet vitulus, audia sub illis
+corporis et prope tenthora condicem
+caesure priscuit cannae
+candidem peratque modos et aritum atque atque
+mutat aequo peratque pericta caesarem expost
+accipe primos persis et aequere peremata perbreis
+aut propiens amicis et in agrem
+non atque potesta tendit ac aequoris
+perbum patre paternos et in agrem
+contem vinere possit ab inimis aequore persus
+matuli pueris et in parcat aequo
+d
+-------------
+  diversity = 0.7
+  seed = 'demque vaccae,
+me tener soluet vitulus, '
+  text:
+-------------
+demque vaccae,
+me tener soluet vitulus, et atrat erat hora,
+qui tantem atque et aeret in certare semporet
+ingens infustor aqui langui.
+
+noctur inferno servilem excuta ferat
+noctentem terre, celetae.
+
+quo num,, qui nomine diidere funisque negent
+et protellorimum aequorum expede petilis
+decertoat sepulchumus ad potesdos hora, alitri.
+caecubae explicent accipen atque non me aqua,
+cum perire canebores cisceris auredes,
+nec medium in iociore
+-------------
+  diversity = 1.0
+  seed = 'demque vaccae,
+me tener soluet vitulus, '
+  text:
+-------------
+demque vaccae,
+me tener soluet vitulus, iocis apsas iuventia
+tum infli manum;
+
+sed corcur de peneras, sic ab imito
+servaea pluctas verruo memorent tibi tellere delilus
+quo gladuon adnuhluces rede veres.
+cartigati contulla super iodis,
+
+te praetabilem fugnim intonae quidqee tenque
+tubet ira caesarem melius fleque nugere iteres iniquam
+properes filis et quoe fidus suerum iculariare
+fiem averant hora olit
+facto vitilium linguos caputum et
+
+-------------
+  diversity = 1.2
+  seed = 'demque vaccae,
+me tener soluet vitulus, '
+  text:
+-------------
+demque vaccae,
+me tener soluet vitulus, minus eyrat hoc.utius
+mutata demens petonsoromo qui cinguere doo
+ab inet, ere primo, simam leione, crufori
+illis saeve nat vodidanamet stes,
+nos, militiur dodemes iterus hinc ultimimas
+et vetus a
+corpus collem pateres,
+lucta dedit inpedum, em mercabrisus, luceclo veres
+ante lixina, lapillebitur
+
+sermoshum gluus restitre,
+sinerit medium cetencas flopeque tatro amietribas: ut tuo iterus
+inventur et 
+-------------
+
+-------------
+
+Epoch = 33:
+  diversity = 0.2
+  seed = 'nam comes atra premit sequiturque fugace'
+  text:
+-------------
+nam comes atra premit sequiturque fugace choros
+perciditare prior in procitum aut infronum
+contemnte pritere possis?
+
+non ac reddet prope et arbiste fueris
+per aurae procitum aut alter atque
+redde negat aut amicos ad alter aut parem
+divere priae si probris ad agrem
+non ad iuvenem cum praeter amico
+proedia propindis aequore non aeqero
+contemnte prius ac aut te cantiva fulmina saepe dices
+in agrium pueri propinde redit amicus,
+expedes aut
+-------------
+  diversity = 0.7
+  seed = 'nam comes atra premit sequiturque fugace'
+  text:
+-------------
+nam comes atra premit sequiturque fugacet
+non incipiat per inicis; inter tune recesset aequo
+cousor, hunc volido cousos.
+
+te cogit ad satis ac ad thetena vatus
+et til ad laudet graecedde mihi virtu
+inposito ferre matreme domus olivli falerno
+non ad hin dirgus igrina domus ut atque
+autcem quid pauperi me qui reddere expodens habemque
+frum in rembro corture aequhui mos siles
+corvor in ferat, infide per omnis
+contemnte matremque et numira 
+-------------
+  diversity = 1.0
+  seed = 'nam comes atra premit sequiturque fugace'
+  text:
+-------------
+nam comes atra premit sequiturque fugaces
+noto rutior ebresit in geni'
+maunior inper rinor quaerentis rine, invidea,
+quantus? afriis pede coustus imbra
+ditet eris fina.quid indominum.
+di querim interitis nemos, ubi modem acque
+post lalorat omnis convisco et caba pissae, illa
+nostrum ugris asperae rapus,
+fratre turmmaminis.memorem tenere, quod mosi
+dispra moris hoc solus hoc urga,
+legimus urnus.
+
+usque in reminae malis claribus hessrere 
+-------------
+  diversity = 1.2
+  seed = 'nam comes atra premit sequiturque fugace'
+  text:
+-------------
+nam comes atra premit sequiturque fugace
+flet, aamina male morais feratu silra vecera velas
+moenium contemate prica cadumeae iactas.
+ad venere nuraris hic est inusquam
+mertare nisia contonutis, facua
+pede narum, odere poscesa
+tanquit cermentem per mentiore mutatque
+haedis in accitibus crugit et facepe locoris
+occuput aetaum ai
+post caelorum aevi,
+nec cridor fidus rictumque
+digias fulctura erum, ne tre samo male rrogeris
+prosticiem dicer
+-------------
+
+-------------
+
+Epoch = 34:
+  diversity = 0.2
+  seed = 'ico.
+
+
+viii
+
+ulla si iuris tibi peierati'
+  text:
+-------------
+ico.
+
+
+viii
+
+ulla si iuris tibi peieratis amber
+condicem et per imperi contemnlo
+per auritus et animum satinis,
+nec partium per in atque
+perferrum et paret an sit consillis
+
+; quis amber atque atque persis,
+duce matrem
+porretus et propere palla caelo, quae caesa
+cantus amicor aut verbanae subliquent aut ante
+non parta partis et in ater atque atque
+regna parentum simul et paret aut in atque
+in atque per in atrice probens arbis,
+qua parti
+-------------
+  diversity = 0.7
+  seed = 'ico.
+
+
+viii
+
+ulla si iuris tibi peierati'
+  text:
+-------------
+ico.
+
+
+viii
+
+ulla si iuris tibi peieratitu mylla phiodit,
+et cvondiendum campulae, ille
+depulsa, terreo veleret virentis, acqua late maecem.
+iura para remare sum in herodis,
+quae popudem pelidi
+fuque sotilis, ut dior ex alci
+manis vilis catrere s

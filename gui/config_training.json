@@ -67,7 +67,7 @@
 	{
 		"type": "string",
 		"title": "Weights Name",
-		"desc": "A nice and unique name",
+		"desc": "A nice and unique name (Don't use curly brackets and don't give a file extension)",
 		"section": "Training",
 		"key": "callback_weights_name"
 	}
